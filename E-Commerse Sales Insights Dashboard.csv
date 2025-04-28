@@ -1,0 +1,1001 @@
+OrderID,OrderDate,CustomerID,CustomerName,CustomerEmail,CustomerEge,Gender,Region,ProductID,ProductName,Category,Quantity,Price,TotalSales,PaymentMethod,OrderStatus,ShippingCost,Discount,OrderSource,ReturnStatus,ReturnDate,CustomerFeedbackScore
+82,12/05/2024,48,Timmi Capstaff,tcapstaff0@discuz.net,41,Female,East,44,Vegetable Stir-Fry Sauce,Snacks,13,3.49,15.4258,UPI,Cancelled,82,66,Phone,Returned,26/10/2024,60
+76,24/05/2024,11,Chandler Blaschke,cblaschke1@creativecommons.org,81,Male,West,28,Roasted Garlic,Bakery,76,4.29,251.0508,Credit Card,Cancelled,67,23,App,Returned,10/07/2024,46
+16,23/07/2024,91,Pyotr Dyos,pdyos2@nba.com,81,Male,East,65,Fried Rice,Snacks,40,4.29,34.31999999999999,Cash on Delivery,Cancelled,44,80,Phone,Returned,25/01/2025,100
+63,09/04/2025,88,Mabel Bednell,mbednell3@skype.com,1,Female,West,31,Cheddar & Bacon Potato Skins,Frozen Foods,7,7.49,37.7496,UPI,Pending,90,28,Phone,Returned,24/02/2025,24
+30,07/02/2025,72,Wynn London,wlondon4@ftc.gov,18,Female,East,26,Sooji (Semolina),Bakery,91,1.99,28.974400000000006,Debit Card,Shipped,17,84,Phone,Returned,14/01/2025,4
+88,08/09/2024,8,Jacques Wiggington,jwiggington5@gnu.org,17,Male,South,75,Adjustable Standing Desk,Beverages,46,299.99,689.9770000000007,Credit Card,Shipped,29,95,App,Returned,03/05/2024,65
+41,10/07/2024,42,Jonathan Shakesbye,jshakesbye6@jalbum.net,78,Male,West,90,Adjustable Window Blind,Frozen Foods,38,49.99,56.988600000000055,Cash on Delivery,Cancelled,14,97,App,Returned,14/02/2025,22
+17,14/12/2024,46,Ema Smalridge,esmalridge7@lulu.com,97,Female,East,57,Sweet Chili Dipping Sauce,Snacks,59,2.99,105.84600000000002,UPI,Shipped,9,40,App,Returned,24/03/2025,57
+9,12/12/2024,26,Victoria Tilte,vtilte8@blogspot.com,9,Female,West,57,Fitness Tracker Watch,Bakery,16,79.99,639.92,UPI,Delivered,81,50,Phone,Returned,05/05/2024,44
+95,19/08/2024,24,Barbaraanne Brennan,bbrennan9@gnu.org,98,Female,West,92,Frozen Hash Browns,Bakery,6,2.99,17.7606,Cash on Delivery,Shipped,13,1,Website,Returned,07/07/2024,88
+38,21/09/2024,42,Aylmar Tibbotts,atibbottsa@dedecms.com,83,Male,South,91,Herb-Infused Olive Oil,Bakery,62,8.99,78.03320000000001,UPI,Delivered,30,86,App,Returned,07/01/2025,45
+17,15/08/2024,97,Kath Foddy,kfoddyb@ucla.edu,23,Female,South,90,Couscous Mix,Frozen Foods,93,2.49,213.04440000000002,Cash on Delivery,Delivered,72,8,App,Returned,10/08/2024,60
+25,24/07/2024,84,Carr Frangione,cfrangionec@canalblog.com,9,Male,East,5,Wooden Children's Play Kitchen,Beverages,91,129.99,5677.9632,UPI,Shipped,73,52,Website,Returned,28/05/2024,66
+2,02/06/2024,37,Alejandrina Tilburn,atilburnd@blogger.com,94,Female,West,94,Spinach and Ricotta Ravioli,Bakery,45,6.49,207.3555,Credit Card,Shipped,26,29,Website,Returned,17/10/2024,71
+37,08/03/2025,92,Sansone Littley,slittleye@umich.edu,72,Male,East,82,Herb Seasoned Croutons,Frozen Foods,40,2.99,0.0,Cash on Delivery,Shipped,96,100,App,Returned,22/12/2024,12
+68,18/03/2025,2,Van Cayzer,vcayzerf@4shared.com,92,Male,West,31,Organic Sweet Potatoes,Frozen Foods,13,1.99,13.711100000000002,Credit Card,Cancelled,22,47,Phone,Returned,15/06/2024,16
+3,07/01/2025,32,Cobbie Benedyktowicz,cbenedyktowiczg@china.com.cn,67,Male,North,59,Camera Lens Cleaning Kit,Frozen Foods,21,14.99,129.06390000000002,Debit Card,Pending,89,59,Phone,Returned,29/11/2024,24
+88,08/03/2025,15,Daron Goldsworthy,dgoldsworthyh@edublogs.org,1,Male,South,92,Slim Wallet,Bakery,54,24.99,1106.5572,Credit Card,Pending,25,18,Website,Returned,02/06/2024,81
+21,18/01/2025,24,Felike Rigge,friggei@buzzfeed.com,80,Male,South,92,Satin Slip Dress,Bakery,51,59.99,1101.4164,Cash on Delivery,Shipped,45,64,Phone,Returned,21/02/2025,75
+36,23/12/2024,93,Perice Brownbill,pbrownbillj@goo.ne.jp,2,Male,South,20,Couscous Mix,Beverages,18,2.49,37.6488,Credit Card,Cancelled,30,16,Website,Returned,26/05/2024,84
+34,02/04/2025,82,Dominick Cuningham,dcuninghamk@europa.eu,63,Male,West,56,Greek Feta Cheese,Dairy,92,4.99,22.954000000000022,Cash on Delivery,Pending,78,95,Phone,Returned,07/09/2024,35
+90,11/06/2024,93,Ad Aldus,aaldusl@xinhuanet.com,99,Male,West,50,Turkey Bacon,Dairy,31,3.99,33.396300000000004,Debit Card,Cancelled,28,73,App,Returned,16/06/2024,3
+47,19/07/2024,86,Maudie Popham,mpophamm@ebay.co.uk,92,Female,East,59,Silicone Baking Mat,Beverages,64,15.99,327.4752,UPI,Cancelled,90,68,App,Returned,28/12/2024,1
+59,27/10/2024,53,Sydel Tomasutti,stomasuttin@java.com,89,Female,West,32,Magnetic Whiteboard,Frozen Foods,95,34.99,99.72150000000009,Credit Card,Cancelled,39,97,App,Returned,08/09/2024,60
+38,20/04/2024,69,Andi Mayow,amayowo@ehow.com,89,Female,North,6,Wireless Earbuds,Beverages,89,69.99,1931.0241000000003,UPI,Delivered,39,69,App,Returned,11/09/2024,21
+44,31/08/2024,66,Tod Whelpdale,twhelpdalep@bigcartel.com,1,Male,South,50,Instant Pot,Snacks,72,89.99,5636.973599999999,UPI,Pending,4,13,Website,Returned,24/09/2024,94
+19,14/01/2025,48,Lalo Pingstone,lpingstoneq@bloomberg.com,89,Male,East,55,Non-Stick Grill Pan,Snacks,77,39.99,2709.7224,UPI,Cancelled,15,12,Phone,Returned,24/06/2024,1
+91,13/01/2025,87,Joel Jouanet,jjouanetr@webmd.com,52,Male,East,75,Digital Drawing Tablet,Snacks,100,79.99,7199.099999999999,Cash on Delivery,Delivered,93,10,Phone,Returned,11/08/2024,80
+58,17/07/2024,92,Akim Padginton,apadgintons@bloomberg.com,73,Male,North,20,Wrap Jumpsuit,Beverages,95,54.99,2141.8605000000002,UPI,Shipped,20,59,App,Returned,30/12/2024,20
+31,19/10/2024,89,Prinz Plumstead,pplumsteadt@google.de,1,Male,East,73,Sweet Potatoes,Frozen Foods,18,0.89,0.0,Cash on Delivery,Pending,8,100,Website,Returned,15/03/2025,14
+61,30/12/2024,89,Llewellyn Mullord,lmullordu@google.com.au,81,Male,West,50,Jump Rope with Counter,Frozen Foods,15,12.99,75.9915,Credit Card,Delivered,99,61,Website,Returned,11/05/2024,69
+97,04/11/2024,63,Anestassia Goodredge,agoodredgev@spotify.com,5,Female,South,91,Whipped Cream Cheese,Bakery,27,2.99,4.843800000000004,Debit Card,Shipped,87,94,Website,Returned,06/09/2024,72
+37,10/02/2025,57,Had Moncaster,hmoncasterw@virginia.edu,39,Male,South,70,Coconut Yogurt,Snacks,91,3.89,254.87279999999998,Cash on Delivery,Delivered,88,28,Phone,Returned,01/09/2024,80
+60,30/10/2024,53,Bradan Dreinan,bdreinanx@jimdo.com,67,Male,North,45,Antique Style Clock,Dairy,100,39.99,439.88999999999993,UPI,Cancelled,91,89,Phone,Returned,29/06/2024,7
+25,16/05/2024,27,Janka Haldane,jhaldaney@examiner.com,4,Female,East,8,Compressed Towel Tablets,Snacks,35,12.99,177.31350000000003,Cash on Delivery,Shipped,48,61,App,Returned,08/09/2024,34
+81,17/11/2024,91,Ricoriki Reveley,rreveleyz@thetimes.co.uk,80,Male,East,58,Silicone Wine Glasses,Dairy,62,22.99,1339.8572,UPI,Pending,50,6,Phone,Returned,30/07/2024,4
+54,03/06/2024,76,Jo-anne Thorold,jthorold10@qq.com,2,Female,North,76,Tabletop Fire Pit,Dairy,30,79.99,1871.7659999999998,Debit Card,Pending,56,22,Website,Returned,26/03/2025,76
+52,05/03/2025,46,Thorin Chadderton,tchadderton11@ehow.com,77,Male,North,78,Organic Honeycrisp Apples,Dairy,54,1.99,41.9094,Credit Card,Cancelled,34,61,Website,Returned,12/08/2024,54
+6,26/05/2024,16,Gerda Girdler,ggirdler12@umich.edu,64,Female,East,65,Portable Bluetooth Speaker,Frozen Foods,4,49.99,45.9908,UPI,Shipped,61,77,Website,Returned,20/03/2025,97
+32,16/06/2024,52,Hube Pecey,hpecey13@123-reg.co.uk,92,Male,North,98,Cable Knit Cardigan,Frozen Foods,42,49.99,398.92019999999985,Credit Card,Pending,69,81,App,Returned,30/03/2025,5
+10,13/02/2025,30,Eugen Turvie,eturvie14@mail.ru,40,Male,East,38,Mini Air Purifier,Bakery,7,49.99,167.9664,Credit Card,Cancelled,97,52,Phone,Returned,31/10/2024,35
+88,19/10/2024,33,Whit McEneny,wmceneny15@google.fr,59,Male,East,34,Avocados,Frozen Foods,87,1.5,116.145,Credit Card,Delivered,99,11,App,Returned,19/05/2024,34
+25,12/02/2025,87,Emile Red,ered16@wufoo.com,73,Male,West,15,Granola,Bakery,83,4.79,115.29530000000001,UPI,Shipped,40,71,Phone,Returned,11/06/2024,98
+52,26/10/2024,93,Tremayne Baynes,tbaynes17@addthis.com,59,Male,West,31,Jennifer's Amazing Lip Balm Kit,Dairy,7,22.99,157.71139999999997,Credit Card,Cancelled,94,2,Website,Returned,09/05/2024,71
+59,02/01/2025,15,Cosimo Hauger,chauger18@usda.gov,53,Male,West,4,Cordless Electric Screwdriver,Beverages,26,39.99,83.17919999999997,Debit Card,Delivered,89,92,Phone,Returned,01/03/2025,36
+87,07/09/2024,78,Verina Duckerin,vduckerin19@blogspot.com,11,Female,South,88,Peach Salsa,Frozen Foods,25,3.29,14.805000000000003,Cash on Delivery,Pending,89,82,App,Returned,03/01/2025,3
+57,13/03/2025,96,Aguste Schuler,aschuler1a@google.com,16,Male,North,62,Organic Green Lentils,Beverages,23,3.99,28.44870000000001,Cash on Delivery,Shipped,37,69,Phone,Returned,18/10/2024,16
+83,01/04/2025,6,Upton Morter,umorter1b@squidoo.com,97,Male,North,22,Maple Syrup,Snacks,43,6.99,162.30780000000001,Credit Card,Cancelled,29,46,App,Returned,23/07/2024,57
+53,24/12/2024,54,Terrance Berkley,tberkley1c@ftc.gov,75,Male,South,76,Sweet Chili Sauce,Frozen Foods,29,2.99,6.936799999999997,Cash on Delivery,Cancelled,43,92,Website,Returned,11/09/2024,86
+6,24/07/2024,70,Garland Wedderburn,gwedderburn1d@answers.com,5,Female,East,63,Spinach Pizza Rolls,Bakery,92,4.99,188.22280000000003,Debit Card,Delivered,34,59,App,Returned,01/01/2025,51
+90,05/06/2024,79,Lydie Farge,lfarge1e@independent.co.uk,78,Female,North,89,Grapes (red),Beverages,52,3.49,27.22200000000001,UPI,Cancelled,6,85,App,Returned,11/11/2024,43
+62,20/02/2025,30,Maire Austwick,maustwick1f@jalbum.net,58,Female,East,71,Honeycrisp Apple Chips,Dairy,57,3.49,155.1654,Cash on Delivery,Pending,14,22,Website,Returned,04/05/2024,26
+99,21/12/2024,11,Miles Plowman,mplowman1g@ezinearticles.com,29,Male,East,34,Caraway Rye Bread,Beverages,61,4.79,216.2206,Cash on Delivery,Cancelled,32,26,Website,Returned,20/10/2024,84
+71,05/08/2024,6,Trumaine Fagge,tfagge1h@dell.com,61,Male,North,50,Sturdy Bookends,Dairy,23,22.99,105.75399999999998,Cash on Delivery,Cancelled,58,80,Phone,Returned,23/08/2024,33
+38,01/01/2025,84,Consolata Booij,cbooij1i@wikia.com,45,Female,North,66,Buffalo Cauliflower Wings,Frozen Foods,57,6.99,159.372,Cash on Delivery,Delivered,79,60,App,Returned,04/08/2024,61
+59,19/08/2024,67,Diego Waywell,dwaywell1j@nsw.gov.au,72,Male,West,34,Silicone Stretch Lids,Frozen Foods,98,14.99,1028.3139999999999,Debit Card,Shipped,73,30,App,Returned,29/06/2024,3
+65,21/10/2024,58,Codee Sowten,csowten1k@ft.com,82,Female,West,3,Wooden Blocks,Dairy,4,24.99,58.976400000000005,Credit Card,Pending,80,41,Phone,Returned,01/01/2025,100
+40,02/01/2025,69,Jeniffer Klishin,jklishin1l@nsw.gov.au,29,Female,East,5,Chicken Parmesan Dinner Kit,Bakery,96,14.99,1122.4512,Debit Card,Pending,62,22,Phone,Returned,18/07/2024,55
+48,09/05/2024,71,Brandi Mordanti,bmordanti1m@ehow.com,18,Female,South,16,Natural Peanut Butter,Dairy,14,4.29,43.8438,Cash on Delivery,Shipped,40,27,Website,Returned,28/02/2025,83
+7,30/11/2024,4,Kermit Dennis,kdennis1n@army.mil,72,Male,West,37,Dog Training Clicker,Beverages,79,5.99,222.4087,Credit Card,Cancelled,83,53,Website,Returned,14/09/2024,57
+89,21/02/2025,7,Laurens Perot,lperot1o@wsj.com,40,Male,West,53,Insulated Coffee Mug,Snacks,84,24.99,1910.2356,Cash on Delivery,Shipped,27,9,App,Returned,23/05/2024,74
+7,22/05/2024,33,Laurena Fawckner,lfawckner1p@php.net,52,Female,East,46,Vanilla Almond Granola,Beverages,41,4.29,133.6764,UPI,Cancelled,79,24,App,Returned,05/11/2024,88
+38,13/12/2024,9,Alix Lindeberg,alindeberg1q@nyu.edu,18,Female,North,91,Canvas Wall Art,Dairy,100,39.99,1399.6499999999999,Cash on Delivery,Shipped,69,65,App,Returned,28/01/2025,87
+32,04/02/2025,74,Shawn McNiff,smcniff1r@vimeo.com,56,Male,South,35,BBQ Jackfruit,Frozen Foods,100,4.29,94.38,Cash on Delivery,Pending,75,78,Phone,Returned,06/10/2024,43
+40,01/12/2024,26,Trixy Josskoviz,tjosskoviz1s@aol.com,12,Female,East,48,Herb Seasoned Rice,Beverages,85,2.99,119.45049999999999,Credit Card,Delivered,87,53,Phone,Returned,23/12/2024,50
+5,18/01/2025,13,Murvyn Skypp,mskypp1t@miibeian.gov.cn,62,Male,South,68,Electric Stool Heater,Snacks,15,29.99,418.36049999999994,Credit Card,Delivered,52,7,Website,Returned,05/07/2024,27
+63,03/05/2024,55,Martino Menhenitt,mmenhenitt1u@wisc.edu,38,Male,North,82,Digital Wireless Camera,Beverages,21,199.99,1973.9012999999998,Credit Card,Delivered,78,53,Phone,Returned,26/08/2024,34
+86,07/08/2024,13,Concordia Littlekit,clittlekit1v@foxnews.com,91,Female,East,7,Electric Griddle with Lid,Dairy,42,49.99,461.90759999999995,Credit Card,Pending,73,78,App,Returned,24/03/2025,86
+18,14/09/2024,98,Gregory Gley,ggley1w@last.fm,80,Male,East,86,Black Olives,Snacks,66,1.99,81.4308,Credit Card,Cancelled,83,38,App,Returned,06/09/2024,3
+99,03/11/2024,84,Terrence Redgate,tredgate1x@adobe.com,46,Male,North,56,Salsa,Frozen Foods,70,3.49,0.0,Credit Card,Pending,76,100,Phone,Returned,26/10/2024,49
+58,13/02/2025,15,Blair Sewall,bsewall1y@ftc.gov,6,Male,West,67,Bluetooth Sleep Headphones,Dairy,39,29.99,888.9036,Debit Card,Delivered,39,24,Phone,Returned,29/04/2024,25
+53,20/07/2024,17,Claudius Tute,ctute1z@prlog.org,24,Male,West,24,Pesto Pasta Salad,Bakery,2,4.99,1.1976,Credit Card,Shipped,75,88,Website,Returned,25/12/2024,1
+61,15/11/2024,49,Cherida O'Longain,colongain20@unicef.org,23,Female,South,39,Maple Almond Granola,Beverages,69,5.49,155.31210000000002,Cash on Delivery,Cancelled,90,59,Phone,Returned,17/01/2025,4
+76,02/04/2025,82,Gerianna Pinniger,gpinniger21@booking.com,69,Female,South,12,Portable Pet Pooper Scooper,Snacks,66,12.99,394.3764,Credit Card,Delivered,92,54,Website,Returned,03/05/2024,15
+39,06/08/2024,22,Klarika Carmel,kcarmel22@github.com,95,Female,East,3,Sustainable Wooden Toys,Snacks,29,29.99,139.1536,UPI,Shipped,27,84,App,Returned,25/10/2024,65
+24,20/01/2025,61,Norrie Dielhenn,ndielhenn23@jimdo.com,62,Female,South,93,Set of Herb Garden Markers,Bakery,80,8.99,309.25600000000003,Credit Card,Pending,12,57,App,Returned,01/04/2025,41
+78,27/08/2024,96,Mortie Wannop,mwannop24@auda.org.au,98,Male,South,72,Heart-Shaped Baking Molds,Beverages,65,10.99,128.58300000000003,Debit Card,Pending,16,82,Phone,Returned,29/09/2024,80
+66,27/06/2024,41,Bourke Fairham,bfairham25@telegraph.co.uk,51,Male,West,48,Multi-Tool,Dairy,66,39.99,950.1624,Debit Card,Pending,74,64,Phone,Returned,02/01/2025,42
+21,05/01/2025,41,Gavin Bertlin,gbertlin26@altervista.org,99,Male,North,11,Paprika,Dairy,30,1.79,26.85,Debit Card,Shipped,91,50,App,Returned,22/08/2024,37
+34,21/12/2024,50,Tori Sirett,tsirett27@eepurl.com,24,Female,North,30,Honey Wheat Pretzels,Bakery,6,3.49,6.700799999999999,Debit Card,Shipped,40,68,Phone,Returned,28/05/2024,55
+77,27/04/2024,74,Dode Ormesher,dormesher28@yale.edu,39,Female,West,30,Sweet Potato Tots,Dairy,44,4.29,35.86439999999999,Credit Card,Shipped,49,81,Website,Returned,26/06/2024,62
+37,03/05/2024,10,Caye Bendig,cbendig29@nymag.com,55,Female,West,57,Yoga Strap,Beverages,78,12.99,881.5014,UPI,Cancelled,46,13,App,Returned,11/10/2024,73
+32,03/09/2024,34,Nathanael MacPhail,nmacphail2a@tuttocitta.it,62,Male,East,3,Kettle Chip Variety Pack,Beverages,38,3.99,9.097200000000008,Cash on Delivery,Delivered,92,94,Website,Returned,29/04/2024,1
+73,10/03/2025,44,Tierney Akam,takam2b@nature.com,87,Female,East,45,Cinnamon Raisin Bread,Dairy,24,3.79,2.728800000000003,Debit Card,Cancelled,34,97,Phone,Returned,09/02/2025,37
+83,14/11/2024,88,Maryellen Sumshon,msumshon2c@bizjournals.com,82,Female,South,79,Set of Herb Garden Markers,Snacks,48,8.99,405.62879999999996,Credit Card,Shipped,36,6,Phone,Returned,06/04/2025,21
+10,14/02/2025,24,Korrie Skirvin,kskirvin2d@clickbank.net,42,Female,West,5,Nutritional Yeast,Frozen Foods,89,3.59,214.07169999999996,UPI,Cancelled,73,33,Phone,Returned,31/12/2024,2
+56,11/01/2025,54,Kenneth Krysiak,kkrysiak2e@uiuc.edu,87,Male,East,17,Wall-Mounted Spice Rack,Bakery,10,39.99,35.99099999999999,Debit Card,Shipped,39,91,Phone,Returned,21/11/2024,1
+11,26/10/2024,98,Vale Kitchener,vkitchener2f@livejournal.com,94,Male,East,92,Spicy Garlic Edamame,Frozen Foods,12,3.99,22.982400000000002,UPI,Shipped,62,52,Phone,Returned,18/06/2024,54
+68,20/08/2024,26,Gerianna Bertlin,gbertlin2g@un.org,94,Female,North,41,Chickpea Pancakes,Bakery,68,4.99,305.388,Credit Card,Cancelled,71,10,Website,Returned,08/06/2024,62
+84,11/01/2025,50,Rowney Fasse,rfasse2h@wikimedia.org,57,Male,North,19,Pumpkin Spice Coffee,Dairy,53,7.99,203.2656,UPI,Delivered,11,52,App,Returned,18/02/2025,55
+45,03/06/2024,83,Duncan McCarty,dmccarty2i@hud.gov,46,Male,South,47,Pet Waterer with Filtration,Dairy,34,39.99,258.33539999999994,Credit Card,Delivered,59,81,Website,Returned,10/07/2024,22
+80,06/01/2025,33,Earle Redit,eredit2j@goo.gl,15,Male,South,56,Outdoor Camping Lantern,Frozen Foods,12,34.99,41.98799999999999,Credit Card,Shipped,80,90,App,Returned,21/06/2024,83
+91,27/12/2024,94,Modestine Nibley,mnibley2k@prweb.com,46,Female,North,80,Brown Rice,Beverages,63,1.79,39.4695,Credit Card,Pending,3,65,Website,Returned,19/05/2024,99
+55,02/03/2025,10,Austin Tyers,atyers2l@dyndns.org,29,Female,South,6,Stylish Wide-Leg Trousers,Frozen Foods,23,59.99,924.4458999999999,UPI,Pending,62,33,Website,Returned,17/09/2024,47
+42,21/04/2024,49,Lonnie Joselevitz,ljoselevitz2m@behance.net,78,Female,South,29,Rustic Wooden Picture Frame,Frozen Foods,25,19.99,164.91749999999996,UPI,Delivered,62,67,App,Returned,08/04/2025,96
+9,12/02/2025,91,Brodie Perez,bperez2n@google.ca,36,Male,North,79,Fishing Tackle Box,Bakery,25,24.99,74.97,Credit Card,Shipped,84,88,App,Returned,16/04/2024,83
+45,11/03/2025,2,Tudor Tomala,ttomala2o@shop-pro.jp,45,Male,South,61,Smartphone Projector,Snacks,82,29.99,639.3868,Credit Card,Cancelled,76,74,App,Returned,25/01/2025,48
+22,29/01/2025,42,Mauricio Mainland,mmainland2p@imdb.com,26,Male,South,27,Sweet and Spicy Barbecue Sauce,Bakery,19,3.99,43.969800000000006,Debit Card,Shipped,47,42,App,Returned,18/09/2024,78
+86,22/09/2024,24,Brooks Reder,breder2q@chicagotribune.com,86,Male,North,4,Tuscan Bean Soup,Dairy,80,2.49,111.55200000000002,Cash on Delivery,Pending,80,44,Phone,Returned,18/07/2024,47
+76,01/05/2024,30,Kristos Dark,kdark2r@acquirethisname.com,72,Male,East,23,Belted Trench Coat,Dairy,18,89.99,372.55859999999996,Debit Card,Delivered,42,77,Website,Returned,17/06/2024,45
+42,23/09/2024,86,Merrill Klewi,mklewi2s@list-manage.com,10,Female,North,51,Mini Projector for Smartphones,Bakery,13,99.99,1286.8712999999998,UPI,Shipped,93,1,Phone,Returned,04/04/2025,36
+14,11/09/2024,73,Vidovic Bortolutti,vbortolutti2t@mlb.com,56,Male,East,33,Veggie Chips Variety Pack,Bakery,80,3.79,12.12800000000001,Cash on Delivery,Cancelled,16,96,Website,Returned,09/09/2024,76
+1,16/04/2024,82,Gan Wiz,gwiz2u@example.com,76,Male,East,26,Mobile Workbench,Snacks,62,199.99,2975.8512,Cash on Delivery,Pending,33,76,Website,Returned,16/07/2024,28
+76,04/04/2025,52,Siegfried Coast,scoast2v@spiegel.de,42,Male,West,81,Spinach and Feta Stuffed Chicken Breast,Snacks,85,8.99,420.2825,Cash on Delivery,Delivered,41,45,Phone,Returned,18/05/2024,35
+79,05/04/2025,21,Conney Cecil,ccecil2w@storify.com,32,Male,East,95,Kids' STEM Robotics Kit,Frozen Foods,60,59.99,3203.4660000000003,Debit Card,Cancelled,81,11,Phone,Returned,01/08/2024,53
+23,09/09/2024,33,Rayner Rudeforth,rrudeforth2x@un.org,12,Male,East,87,Honey Roasted Chickpeas,Snacks,94,3.29,43.296400000000006,Cash on Delivery,Delivered,15,86,Website,Returned,06/06/2024,48
+37,01/05/2024,100,Washington Todman,wtodman2y@wix.com,43,Male,North,38,Outdoor Adventure Kit,Frozen Foods,44,89.99,118.7868000000001,Credit Card,Pending,49,97,Phone,Returned,16/10/2024,9
+58,03/03/2025,26,Udell Storres,ustorres2z@cyberchimps.com,55,Male,South,53,Electric Opener for Jars and Bottles,Bakery,77,24.99,1712.5647,Cash on Delivery,Pending,1,11,Phone,Returned,02/04/2025,5
+32,04/01/2025,52,Laurianne Elton,lelton30@prnewswire.com,67,Female,East,73,Ergonomic Mouse Pad with Wrist Support,Bakery,94,14.99,760.8924000000001,Debit Card,Pending,41,46,Website,Returned,27/01/2025,57
+98,21/01/2025,48,Wilona Plaister,wplaister31@chronoengine.com,43,Female,West,24,Interactive Plush Toy,Bakery,63,34.99,1036.0539,Debit Card,Cancelled,9,53,Website,Returned,25/01/2025,61
+93,07/08/2024,60,Kerwin Tomkins,ktomkins32@uiuc.edu,70,Male,East,56,Insulated Coffee Mug,Bakery,9,24.99,83.2167,Cash on Delivery,Pending,71,63,Website,Returned,14/04/2024,14
+14,15/04/2024,30,Amy Massinger,amassinger33@theglobeandmail.com,47,Female,East,33,Garlic Herb Grilled Chicken,Bakery,61,8.99,27.419500000000024,Credit Card,Cancelled,73,95,Website,Returned,17/05/2024,7
+15,05/07/2024,60,Frans Burdass,fburdass34@google.cn,76,Male,North,51,Lemon Lime Sparkling Water,Beverages,8,1.99,10.9848,Credit Card,Cancelled,93,31,App,Returned,06/07/2024,59
+65,04/08/2024,21,Eduino Poulton,epoulton35@a8.net,12,Male,West,62,Balsamic Fig Dressing,Bakery,85,3.79,22.550499999999982,UPI,Shipped,11,93,App,Returned,27/10/2024,48
+26,07/04/2025,81,Frederico Ungerecht,fungerecht36@blogtalkradio.com,27,Male,South,5,Coconut Flakes,Bakery,65,3.29,91.95550000000001,Cash on Delivery,Cancelled,65,57,Phone,Returned,04/01/2025,57
+89,17/07/2024,71,Paddy Paoli,ppaoli37@msu.edu,13,Male,West,37,Energy Protein Bars,Dairy,93,2.29,163.9869,Cash on Delivery,Cancelled,26,23,Website,Returned,23/05/2024,29
+19,07/10/2024,18,Gilberto Kelberer,gkelberer38@bandcamp.com,88,Male,North,62,Portable Pet Stroller,Bakery,67,89.99,2411.732,Debit Card,Shipped,89,60,Website,Returned,07/12/2024,69
+26,07/05/2024,97,Donaugh Top,dtop39@liveinternet.ru,6,Male,West,42,LED Desk Lamp with USB Charging Port,Bakery,84,29.99,1990.1363999999999,UPI,Cancelled,59,21,Website,Returned,01/06/2024,25
+8,09/11/2024,11,Arnuad Lanigan,alanigan3a@wunderground.com,65,Male,West,21,Customizable Name Puzzle,Dairy,74,29.99,244.11859999999996,Debit Card,Cancelled,67,89,Phone,Returned,25/05/2024,33
+47,11/01/2025,68,Addison Keenlayside,akeenlayside3b@webnode.com,99,Male,North,3,Marinated Artichokes,Snacks,22,3.79,25.847800000000003,Credit Card,Delivered,100,69,Phone,Returned,25/04/2024,87
+26,19/03/2025,40,Augusta Pedroni,apedroni3c@yale.edu,86,Female,North,51,Over-The-Door Shoe Organizer,Dairy,13,25.99,280.4321,Debit Card,Pending,39,17,Website,Returned,25/01/2025,40
+90,24/03/2025,27,Chere Paskerful,cpaskerful3d@domainmarket.com,43,Female,East,70,Pet Travel Bowl,Snacks,65,10.99,592.9105,Cash on Delivery,Pending,86,17,Phone,Returned,05/08/2024,11
+63,07/10/2024,7,Hill Seabridge,hseabridge3e@flavors.me,39,Male,South,21,Maple Cinnamon Almonds,Bakery,38,4.29,107.5932,Credit Card,Shipped,29,34,Website,Returned,10/07/2024,80
+51,08/08/2024,33,Billie Adami,badami3f@webeden.co.uk,5,Male,East,22,Peach Preserves,Frozen Foods,81,3.79,202.61339999999998,UPI,Delivered,17,34,Phone,Returned,19/08/2024,83
+91,22/03/2025,55,Kurt Husband,khusband3g@google.nl,53,Male,East,74,Portable Bluetooth Keyboard,Bakery,89,39.99,3132.0168000000003,UPI,Delivered,32,12,Website,Returned,13/10/2024,75
+18,06/08/2024,98,Alexia Vearncombe,avearncombe3h@domainmarket.com,48,Female,North,85,Black Bean Spaghetti,Beverages,89,3.99,305.3946,Debit Card,Shipped,53,14,Phone,Returned,23/06/2024,85
+94,26/10/2024,37,Christel Banane,cbanane3i@wordpress.org,12,Female,West,67,Pasta Primavera,Frozen Foods,55,4.99,203.093,Cash on Delivery,Delivered,53,26,Website,Returned,06/06/2024,71
+34,19/12/2024,86,Shem Kinforth,skinforth3j@jalbum.net,28,Male,North,79,Electric Razor,Frozen Foods,71,59.99,85.18580000000007,UPI,Pending,16,98,Phone,Returned,01/04/2025,79
+26,21/04/2024,53,Shirleen Crippell,scrippell3k@time.com,97,Female,East,67,Adjustable Window Blind,Snacks,70,49.99,1399.7200000000003,Debit Card,Cancelled,1,60,Website,Returned,12/09/2024,88
+76,30/10/2024,98,Jeff Iorizzo,jiorizzo3l@usgs.gov,65,Male,South,68,Lemon Dill Salmon,Dairy,97,9.99,310.08959999999996,Debit Card,Pending,24,68,Phone,Returned,20/11/2024,98
+98,11/06/2024,97,Shayne Clineck,sclineck3m@rakuten.co.jp,84,Male,South,21,Cheesy Cauliflower Bake,Snacks,84,5.49,447.3252,Debit Card,Cancelled,22,3,Website,Returned,01/05/2024,65
+39,25/01/2025,83,Stacee Blacklidge,sblacklidge3n@bbb.org,12,Female,North,26,Stainless Steel Cutlery Set,Frozen Foods,43,29.99,515.828,Credit Card,Pending,42,60,Website,Returned,30/04/2024,87
+15,10/01/2025,45,Owen Domonkos,odomonkos3o@illinois.edu,66,Male,West,22,Adjustable Dog Harness,Bakery,26,24.99,155.9376,Debit Card,Delivered,49,76,App,Returned,26/03/2025,17
+44,17/05/2024,76,Drugi D'eye,ddeye3p@techcrunch.com,52,Male,West,72,Olive Oil,Snacks,4,7.99,5.433200000000001,UPI,Shipped,28,83,App,Returned,22/05/2024,61
+73,25/04/2024,87,Nikolas Micallef,nmicallef3q@bizjournals.com,82,Male,East,10,Bluetooth Tracker,Dairy,90,19.99,647.6759999999999,Cash on Delivery,Shipped,47,64,Website,Returned,15/06/2024,19
+36,04/09/2024,73,Ginny Setchell,gsetchell3r@ucoz.ru,98,Female,South,90,Watercolor Set,Frozen Foods,79,19.99,1184.4074999999998,Debit Card,Cancelled,45,25,App,Returned,08/04/2025,27
+11,17/04/2024,91,Christoper Leipold,cleipold3s@networksolutions.com,89,Male,West,60,Stylish Combat Boots,Snacks,83,99.99,4979.5019999999995,UPI,Delivered,13,40,Phone,Returned,14/09/2024,13
+37,22/03/2025,96,Helga Janz,hjanz3t@slideshare.net,65,Female,East,92,Ground Turkey,Dairy,67,5.49,84.60090000000001,Credit Card,Shipped,34,77,Website,Returned,05/04/2025,24
+13,09/10/2024,97,Marylinda Pfaff,mpfaff3u@marriott.com,56,Female,East,95,Magnetic Curtain Tiebacks,Bakery,7,12.99,24.5511,Cash on Delivery,Pending,23,73,Phone,Returned,12/01/2025,3
+61,22/04/2024,40,Benjamin Kibble,bkibble3v@vimeo.com,18,Male,West,67,Honey mustard chicken tenders,Beverages,53,7.99,59.28580000000001,Credit Card,Cancelled,49,86,Phone,Returned,12/08/2024,8
+46,01/04/2025,21,Findley Gilfillan,fgilfillan3w@symantec.com,29,Male,South,64,Maxi Wrap Dress,Snacks,27,49.99,580.3839,Debit Card,Shipped,34,57,App,Returned,27/02/2025,41
+51,14/08/2024,77,Adolphus Bruntjen,abruntjen3x@soup.io,59,Male,West,8,Thai Coconut Curry Sauce,Dairy,5,3.99,1.7954999999999997,Cash on Delivery,Delivered,2,91,Website,Returned,29/06/2024,49
+73,12/04/2024,84,Brittney Pastor,bpastor3y@miibeian.gov.cn,3,Female,South,90,Vanilla Pudding Mix,Beverages,63,1.29,0.0,Debit Card,Shipped,35,100,Phone,Returned,29/04/2024,94
+91,02/05/2024,62,Cris Lobb,clobb3z@time.com,40,Male,North,88,Salsa,Bakery,11,3.49,24.953500000000002,Cash on Delivery,Cancelled,93,35,App,Returned,20/03/2025,54
+37,08/04/2025,36,Marcel Perryn,mperryn40@gizmodo.com,22,Male,North,91,Sports Water Bottle with Infuser,Bakery,33,19.99,204.4977,Cash on Delivery,Shipped,81,69,Website,Returned,08/03/2025,58
+36,30/01/2025,55,Prescott MacGiolla Pheadair,pmacgiolla41@netscape.com,6,Male,East,69,Wireless Car Charger,Dairy,21,24.99,47.231099999999984,Debit Card,Cancelled,67,91,Phone,Returned,28/06/2024,56
+38,10/12/2024,65,Ingeborg Beecraft,ibeecraft42@blog.com,90,Female,North,37,Almond Milk,Bakery,7,3.29,11.515,Debit Card,Cancelled,67,50,App,Returned,21/08/2024,27
+5,06/10/2024,74,Wyatan McLarty,wmclarty43@twitter.com,85,Male,North,57,Almond Butter Granola Bars,Beverages,1,4.99,0.39919999999999983,Debit Card,Pending,30,92,Phone,Returned,08/12/2024,26
+41,12/06/2024,26,Hyman Minero,hminero44@homestead.com,46,Male,East,1,Set of Silicone Baking Molds,Snacks,9,15.99,138.15359999999998,Debit Card,Cancelled,42,4,Website,Returned,22/03/2025,68
+68,02/12/2024,89,Balduin Rubinovitsch,brubinovitsch45@unicef.org,45,Male,North,22,Organic Black Rice,Bakery,75,3.59,263.865,Debit Card,Shipped,33,2,Phone,Returned,30/06/2024,35
+82,23/09/2024,28,Pierre Neild,pneild46@bing.com,62,Male,East,68,Dried Cranberries,Snacks,45,4.29,113.89950000000002,Credit Card,Delivered,72,41,Phone,Returned,06/05/2024,7
+11,06/11/2024,29,Bat Romeuf,bromeuf47@soundcloud.com,13,Male,West,61,Adjustable Garden Rake,Frozen Foods,63,22.99,347.6088,Debit Card,Pending,72,76,Website,Returned,10/01/2025,40
+65,19/03/2025,46,Sorcha Spridgeon,sspridgeon48@ucoz.ru,31,Female,South,37,Organic Quinoa Salad,Snacks,66,5.99,134.4156,Credit Card,Delivered,13,66,App,Returned,13/11/2024,75
+78,17/05/2024,68,Binni Duckitt,bduckitt49@toplist.cz,48,Female,North,70,Maple Oatmeal,Dairy,13,2.99,16.325400000000002,UPI,Pending,36,58,App,Returned,10/11/2024,35
+8,09/01/2025,26,Cash Plumm,cplumm4a@spotify.com,48,Male,South,58,Ranch Dressing,Beverages,44,2.59,9.116799999999994,Debit Card,Pending,41,92,App,Returned,11/04/2024,23
+67,23/10/2024,34,Anthony Blinder,ablinder4b@4shared.com,90,Male,East,41,Weighted Blanket,Beverages,34,79.99,2311.711,Debit Card,Shipped,32,15,Website,Returned,11/12/2024,55
+13,22/06/2024,37,Sancho Liversage,sliversage4c@bbc.co.uk,80,Male,West,56,Eco-Friendly Notepad,Snacks,29,8.99,159.0331,UPI,Shipped,72,39,App,Returned,09/09/2024,21
+32,31/05/2024,10,Billye Infantino,binfantino4d@tuttocitta.it,9,Female,South,3,Spaghetti Squash,Frozen Foods,48,3.99,130.2336,Cash on Delivery,Pending,29,32,Website,Returned,04/11/2024,21
+10,08/10/2024,12,Chandra Jojic,cjojic4e@drupal.org,34,Female,North,1,Chicken Broth,Beverages,15,2.49,15.313500000000001,Credit Card,Shipped,24,59,App,Returned,19/06/2024,82
+41,08/08/2024,58,Kordula McKimmie,kmckimmie4f@ifeng.com,94,Female,North,27,Coconut Curry Sauce,Beverages,75,3.89,236.31750000000002,Credit Card,Shipped,85,19,Phone,Returned,13/04/2024,69
+39,02/03/2025,51,Vail Huffey,vhuffey4g@paypal.com,49,Male,South,47,Cinnamon Raisin Bread,Frozen Foods,79,3.79,23.95279999999999,Cash on Delivery,Cancelled,3,92,Phone,Returned,28/01/2025,92
+33,30/12/2024,21,Stormie Gecke,sgecke4h@flickr.com,88,Female,West,42,Spaghetti Squash,Beverages,77,3.99,168.97650000000002,UPI,Pending,64,45,Website,Returned,19/02/2025,20
+30,08/11/2024,34,Emeline Batram,ebatram4i@odnoklassniki.ru,66,Female,North,4,Dark Chocolate Covered Raisins,Bakery,24,3.99,54.58320000000001,Debit Card,Cancelled,82,43,Website,Returned,13/09/2024,19
+49,17/10/2024,20,Dickie Sondland,dsondland4j@newyorker.com,67,Male,South,13,Creative Puzzle Game,Dairy,76,19.99,1048.2755999999997,UPI,Cancelled,36,31,Phone,Returned,04/10/2024,27
+96,07/01/2025,83,Karolina Lever,klever4k@oaic.gov.au,70,Female,West,80,Mint Chocolate Chip Ice Cream,Beverages,6,4.99,9.281400000000001,Cash on Delivery,Pending,45,69,Website,Returned,21/10/2024,45
+6,01/12/2024,66,Dee Bambrick,dbambrick4l@intel.com,83,Female,North,44,Over-the-Door Hooks,Dairy,55,12.99,35.72250000000003,Cash on Delivery,Cancelled,47,95,Website,Returned,27/04/2024,59
+43,09/09/2024,3,Misty Diss,mdiss4m@angelfire.com,23,Female,North,45,Cordless Water Flosser,Bakery,39,49.99,1072.2855000000002,Credit Card,Pending,54,45,App,Returned,13/12/2024,86
+34,01/10/2024,20,Nicolina Feely,nfeely4n@kickstarter.com,21,Female,West,99,Baked Mac and Cheese,Snacks,45,5.99,237.204,Debit Card,Pending,81,12,Website,Returned,24/07/2024,78
+70,05/10/2024,41,Francisco Horry,fhorry4o@blogtalkradio.com,34,Male,East,75,Chocolate Syrup,Beverages,61,2.99,32.83020000000001,Debit Card,Shipped,41,82,Phone,Returned,07/08/2024,60
+71,18/04/2024,10,Renie Crumbie,rcrumbie4p@instagram.com,91,Female,West,4,Fruit & Nut Trail Mix,Frozen Foods,45,4.99,4.491000000000004,Credit Card,Cancelled,87,98,Website,Returned,26/08/2024,37
+93,11/10/2024,30,Adrianna Dunkerley,adunkerley4q@abc.net.au,52,Female,West,29,Breathable Face Mask Set,Frozen Foods,73,14.99,164.14050000000003,Credit Card,Shipped,82,85,Phone,Returned,11/07/2024,64
+98,31/07/2024,71,Lorelle Gelling,lgelling4r@ocn.ne.jp,78,Female,West,85,Pumpkin Seeds,Bakery,39,2.79,39.1716,UPI,Delivered,31,64,Website,Returned,13/12/2024,58
+71,19/05/2024,89,Jean Giddins,jgiddins4s@wikipedia.org,78,Female,North,94,Teriyaki Beef Jerky,Bakery,52,5.49,134.1756,Cash on Delivery,Delivered,75,53,Website,Returned,19/01/2025,28
+28,30/06/2024,32,Emilio Epp,eepp4t@state.tx.us,1,Male,South,9,Maple Syrup,Beverages,60,6.99,138.402,Cash on Delivery,Cancelled,96,67,Website,Returned,21/08/2024,40
+62,26/04/2024,65,Raimondo Keech,rkeech4u@mail.ru,59,Male,South,31,Adjustable Skipping Rope,Beverages,40,12.99,187.056,UPI,Delivered,79,64,Phone,Returned,12/12/2024,15
+98,16/06/2024,44,Nessie Ruggiero,nruggiero4v@tinyurl.com,84,Female,East,13,Curried Lentil Salad,Snacks,17,4.29,48.1338,Debit Card,Delivered,76,34,Phone,Returned,06/12/2024,75
+5,13/08/2024,87,Reyna Geane,rgeane4w@free.fr,11,Female,East,95,Interactive Plush Toy,Dairy,33,34.99,34.64010000000003,Credit Card,Cancelled,97,97,Website,Returned,12/09/2024,100
+79,25/04/2024,43,Gannon Widdows,gwiddows4x@cbslocal.com,35,Male,North,13,Gingerbread House Kit,Dairy,30,6.99,169.85700000000003,Credit Card,Shipped,21,19,App,Returned,28/05/2024,74
+72,05/05/2024,26,Robina Paolinelli,rpaolinelli4y@unesco.org,80,Female,South,68,Sweet BBQ Dipping Sauce,Dairy,37,3.49,56.81719999999999,Debit Card,Delivered,92,56,Website,Returned,19/05/2024,21
+4,19/04/2024,62,Gib Ivanitsa,givanitsa4z@godaddy.com,7,Male,North,27,Almond Flour Biscuits,Beverages,5,6.49,2.2714999999999987,Debit Card,Delivered,26,93,App,Returned,25/03/2025,2
+53,10/07/2024,95,Panchito Jone,pjone50@paginegialle.it,37,Male,West,94,Outdoor Camping Lantern,Beverages,76,34.99,159.55440000000016,Credit Card,Cancelled,57,94,Phone,Returned,14/08/2024,94
+86,10/12/2024,96,Sidney O'Sheeryne,sosheeryne51@bing.com,64,Male,West,23,Organic Coconut Water,Snacks,75,2.79,4.185000000000004,Cash on Delivery,Shipped,38,98,App,Returned,04/03/2025,88
+88,11/05/2024,100,Fowler Buckleigh,fbuckleigh52@photobucket.com,29,Male,North,61,Water Bottle with Built-in Fruit Infuser,Beverages,66,18.99,1027.7388,Credit Card,Delivered,24,18,Website,Returned,04/03/2025,31
+78,11/10/2024,82,Leo MacGlory,lmacglory53@google.co.uk,68,Male,South,42,Turmeric Ginger Tea,Bakery,63,3.29,31.090500000000006,Cash on Delivery,Pending,76,85,Phone,Returned,08/07/2024,84
+53,31/05/2024,2,Dulciana Donnelly,ddonnelly54@cocolog-nifty.com,97,Female,East,36,Diced Tomatoes (canned),Bakery,21,1.49,2.1902999999999984,Cash on Delivery,Cancelled,66,93,App,Returned,20/05/2024,46
+38,28/09/2024,32,Cecil Mascall,cmascall55@list-manage.com,45,Female,South,65,Savory Pumpkin Soup,Frozen Foods,54,3.89,90.32580000000002,Debit Card,Pending,98,57,Website,Returned,26/07/2024,99
+30,23/10/2024,84,Janeczka Bulfit,jbulfit56@eepurl.com,10,Female,South,90,Savory Oatmeal Cups,Beverages,77,1.99,122.584,Debit Card,Delivered,13,20,Website,Returned,02/08/2024,71
+81,03/02/2025,83,Meridel Aylin,maylin57@list-manage.com,74,Female,West,2,Fitness Mat,Dairy,19,49.99,170.96580000000006,Credit Card,Delivered,49,82,App,Returned,08/12/2024,7
+1,26/11/2024,24,Walsh McCafferky,wmccafferky58@booking.com,100,Male,East,20,Peas (frozen),Snacks,91,1.89,139.31189999999998,Cash on Delivery,Shipped,98,19,App,Returned,22/04/2024,30
+99,27/09/2024,18,Janey Venditto,jvenditto59@mayoclinic.com,58,Female,West,41,Coffee Maker,Dairy,66,89.99,4929.6521999999995,Credit Card,Pending,3,17,Website,Returned,20/08/2024,27
+16,24/11/2024,22,Ezechiel Barthrop,ebarthrop5a@statcounter.com,53,Male,North,51,Eco-Friendly Yoga Mat,Bakery,98,39.99,391.90199999999993,Debit Card,Cancelled,94,90,Website,Returned,20/10/2024,75
+29,10/11/2024,42,Elaine Gyse,egyse5b@spotify.com,59,Female,West,46,Ginger Turmeric Latte Mix,Snacks,3,5.29,0.7935000000000008,UPI,Pending,91,95,Phone,Returned,19/10/2024,90
+2,30/11/2024,63,Michaella Tomaskunas,mtomaskunas5c@ocn.ne.jp,18,Female,East,65,Herbal Tea Sampler Box,Frozen Foods,31,29.99,390.4698,Cash on Delivery,Shipped,70,58,App,Returned,27/08/2024,56
+75,19/05/2024,75,Molli Scola,mscola5d@stanford.edu,5,Female,South,66,Organic Quinoa Salad,Frozen Foods,88,5.99,442.7808,Debit Card,Cancelled,54,16,Website,Returned,14/11/2024,36
+5,14/11/2024,14,Kane Thunnerclef,kthunnerclef5e@booking.com,94,Male,South,83,Digital Drawing Tablet,Frozen Foods,30,79.99,1679.7899999999997,Credit Card,Delivered,12,30,Phone,Returned,15/11/2024,53
+14,30/12/2024,70,Lion McTear,lmctear5f@state.tx.us,33,Male,West,7,Nutty Granola Clusters,Frozen Foods,18,2.49,42.13080000000001,Cash on Delivery,Cancelled,18,6,Website,Returned,28/11/2024,71
+46,10/09/2024,67,Jarid Fenner,jfenner5g@nifty.com,15,Male,West,100,Rainbow Veggie Chips,Dairy,83,3.29,207.5332,Credit Card,Shipped,47,24,Phone,Returned,20/11/2024,39
+44,01/01/2025,32,Crin Scrinage,cscrinage5h@shinystat.com,98,Female,West,90,Portable Solar Path Lights,Dairy,76,39.99,2370.6072000000004,Debit Card,Pending,70,22,Phone,Returned,19/10/2024,57
+40,01/04/2025,33,Nikola Raubenheim,nraubenheim5i@bizjournals.com,39,Male,North,26,Wireless HDMI Transmitter,Snacks,46,79.99,3017.2228,Cash on Delivery,Cancelled,95,18,Phone,Returned,23/12/2024,13
+91,28/09/2024,86,Patrizio Macak,pmacak5j@businessinsider.com,52,Male,West,39,Cacao Nibs,Dairy,4,6.49,4.413200000000002,Debit Card,Pending,89,83,Phone,Returned,12/12/2024,82
+73,06/12/2024,70,Meredithe Beasant,mbeasant5k@51.la,7,Female,West,100,Tofu,Frozen Foods,94,2.49,28.087200000000003,Debit Card,Cancelled,68,88,Website,Returned,15/09/2024,22
+64,12/05/2024,71,Buddy Eastgate,beastgate5l@yellowpages.com,94,Male,West,3,Applewood Smoked Bacon,Bakery,86,6.99,246.46740000000003,Credit Card,Pending,43,59,App,Returned,02/06/2024,31
+36,22/04/2024,50,Eleni Toghill,etoghill5m@miibeian.gov.cn,54,Female,South,36,Homestyle Beef Stew,Beverages,48,7.99,134.232,UPI,Shipped,46,65,Phone,Returned,23/10/2024,85
+48,06/06/2024,21,Collie Grenshields,cgrenshields5n@shareasale.com,78,Female,South,96,Portable Electric Fan,Beverages,51,24.99,89.21429999999994,UPI,Cancelled,85,93,Website,Returned,26/09/2024,81
+36,25/05/2024,100,Anallese Vannucci,avannucci5o@jigsy.com,5,Female,West,78,Honey Sesame Cashews,Snacks,85,4.49,305.32000000000005,UPI,Pending,73,20,Phone,Returned,17/07/2024,86
+19,01/05/2024,45,Carlin Cansdell,ccansdell5p@drupal.org,64,Female,North,78,Almond Milk Yogurt,Snacks,76,1.99,25.710800000000006,Credit Card,Pending,10,83,Phone,Returned,27/07/2024,43
+23,06/01/2025,42,Alameda De Lisle,ade5q@storify.com,77,Female,East,92,Roasted Garlic,Frozen Foods,58,4.29,156.7566,Cash on Delivery,Shipped,66,37,Phone,Returned,13/07/2024,60
+50,09/01/2025,34,Chance McCambridge,cmccambridge5r@oracle.com,5,Male,South,18,Brussels Sprouts,Dairy,68,3.49,196.97560000000001,Cash on Delivery,Delivered,92,17,Phone,Returned,10/05/2024,33
+27,19/01/2025,33,Bridie Grumley,bgrumley5s@ebay.com,15,Female,West,29,Comfortable Bed Pillow,Beverages,32,24.99,343.86240000000004,Credit Card,Cancelled,54,57,Website,Returned,10/02/2025,95
+47,28/04/2024,43,Garwood Hannabuss,ghannabuss5t@army.mil,43,Male,South,72,Chocolate Hazelnut Granola,Snacks,45,4.49,56.574000000000005,Cash on Delivery,Pending,33,72,App,Returned,27/08/2024,15
+92,03/03/2025,21,Ingmar Mulligan,imulligan5u@netvibes.com,16,Male,South,51,Pet Tracking Collar,Dairy,64,59.99,1151.8080000000002,Cash on Delivery,Shipped,26,70,App,Returned,27/03/2025,42
+93,19/09/2024,10,Anthiathia Morehall,amorehall5v@ebay.com,79,Female,West,2,Arcade Game Machine,Frozen Foods,82,299.99,17465.4178,Credit Card,Cancelled,98,29,Website,Returned,15/09/2024,6
+75,23/04/2024,88,Ellissa Batistelli,ebatistelli5w@stumbleupon.com,55,Female,North,48,Cable Knit Beanie,Beverages,63,19.99,428.1857999999999,Credit Card,Delivered,87,66,Phone,Returned,22/06/2024,4
+82,24/11/2024,52,Broddie Matitiaho,bmatitiaho5x@xrea.com,10,Male,South,30,Set of Silicone Baking Molds,Dairy,82,15.99,1140.7266,Credit Card,Pending,59,13,App,Returned,21/01/2025,92
+77,12/10/2024,5,Bettine Yacobsohn,byacobsohn5y@odnoklassniki.ru,54,Female,North,43,Travel Pillow with Memory Foam,Dairy,48,29.99,1410.7296,Credit Card,Shipped,3,2,Phone,Returned,16/10/2024,16
+65,09/11/2024,57,Roseanne De Luna,rde5z@alibaba.com,36,Female,East,72,Air Purifier,Dairy,61,129.99,5233.3974,Debit Card,Shipped,29,34,App,Returned,17/09/2024,31
+63,09/12/2024,45,Milty Toke,mtoke60@cnbc.com,90,Male,North,23,Caramelized Onion Dip,Beverages,52,3.99,134.86200000000002,Credit Card,Cancelled,17,35,Phone,Returned,02/08/2024,75
+16,30/06/2024,26,Joby Jacson,jjacson61@lycos.com,96,Female,North,94,Beef Tacos,Snacks,1,5.49,5.1057,UPI,Shipped,15,7,App,Returned,14/05/2024,23
+15,20/04/2024,27,Odessa Nornable,onornable62@netscape.com,4,Female,East,70,Sriracha Hot Chili Sauce,Beverages,89,2.99,260.7878,Credit Card,Pending,87,2,Website,Returned,07/05/2024,62
+15,19/12/2024,2,Reina Hachette,rhachette63@omniture.com,71,Female,South,25,Stainless Steel Mixing Bowls,Dairy,80,29.99,455.84799999999984,Credit Card,Delivered,35,81,Website,Returned,19/02/2025,57
+44,16/07/2024,38,Daisie Minghi,dminghi64@amazon.com,10,Female,East,5,Dark Chocolate Covered Pretzels,Frozen Foods,16,3.99,26.174400000000002,Credit Card,Pending,32,59,Phone,Returned,29/06/2024,36
+66,27/09/2024,88,Katine Bachanski,kbachanski65@wikispaces.com,4,Female,West,20,Sun-Dried Tomato Pesto,Beverages,25,4.49,0.0,UPI,Cancelled,91,100,Website,Returned,10/10/2024,27
+58,06/08/2024,19,Garek Silkston,gsilkston66@tumblr.com,15,Male,West,14,Frozen Berry Blend,Beverages,15,4.99,25.449,Debit Card,Shipped,56,66,App,Returned,24/12/2024,55
+58,17/05/2024,67,Andi Goddard,agoddard67@newsvine.com,1,Female,North,41,Beet Salad,Snacks,50,3.99,23.939999999999998,Debit Card,Delivered,69,88,Website,Returned,21/12/2024,10
+21,23/02/2025,27,Regan Luto,rluto68@fda.gov,95,Male,North,23,Kids' Activity Book,Dairy,23,14.99,137.908,Credit Card,Pending,18,60,App,Returned,14/08/2024,27
+90,25/09/2024,88,Lavena Grubbe,lgrubbe69@mapquest.com,97,Female,West,48,Compact Shoe Rack,Bakery,86,34.99,2347.1292000000003,Credit Card,Delivered,28,22,App,Returned,31/07/2024,2
+84,30/03/2025,56,Riva Kraut,rkraut6a@bigcartel.com,53,Female,North,62,Faux Fur Throw Blanket,Snacks,91,39.99,2401.7994,UPI,Cancelled,87,34,Website,Returned,13/10/2024,92
+34,22/01/2025,38,Marcus Semmens,msemmens6b@wordpress.com,76,Male,East,19,Coconut Cream,Snacks,29,2.99,35.551100000000005,UPI,Shipped,70,59,Website,Returned,14/12/2024,85
+58,11/12/2024,89,Prue Fishley,pfishley6c@newyorker.com,34,Female,North,12,Portable Massage Table,Beverages,89,199.99,2135.8932,Debit Card,Shipped,90,88,Website,Returned,07/01/2025,16
+46,19/02/2025,46,Ethelred Marchbank,emarchbank6d@reddit.com,11,Male,South,97,Coconut Rice,Beverages,27,2.29,4.946399999999997,Credit Card,Cancelled,23,92,Website,Returned,02/11/2024,27
+70,04/08/2024,69,Marielle Walters,mwalters6e@dion.ne.jp,10,Female,South,19,Blue Denim Jeans,Beverages,70,49.99,1084.7830000000004,Credit Card,Pending,19,69,App,Returned,08/01/2025,83
+19,01/04/2025,52,Salim Comberbeach,scomberbeach6f@odnoklassniki.ru,19,Male,South,48,Pork Chops,Bakery,84,9.49,589.8983999999999,Debit Card,Pending,60,26,App,Returned,15/08/2024,91
+68,18/10/2024,34,Kelci Bucknall,kbucknall6g@uiuc.edu,56,Female,South,32,Vacuum Sealer Machine,Snacks,40,89.99,2627.708,Cash on Delivery,Cancelled,95,27,Phone,Returned,26/09/2024,21
+42,11/02/2025,95,Field Hendricks,fhendricks6h@wikispaces.com,99,Male,South,91,Fashionable Scarves Set,Frozen Foods,82,24.99,1352.4587999999997,Debit Card,Shipped,8,34,Phone,Returned,05/04/2025,25
+34,16/10/2024,62,Tatum Archbald,tarchbald6i@hugedomains.com,33,Female,North,54,Canned Sardines,Beverages,7,3.29,16.121,UPI,Pending,99,30,App,Returned,03/08/2024,63
+96,22/02/2025,54,Pierrette Lucken,plucken6j@disqus.com,51,Female,South,74,Comfortable Bed Pillow,Beverages,43,24.99,526.5392999999999,UPI,Delivered,29,51,Website,Returned,25/09/2024,58
+95,18/06/2024,49,Sancho Spencley,sspencley6k@moonfruit.com,68,Male,West,97,Elegant Lace Dress,Beverages,19,79.99,638.3202,Cash on Delivery,Cancelled,68,58,Phone,Returned,04/01/2025,67
+84,26/05/2024,36,Ronny Micallef,rmicallef6l@ed.gov,31,Male,North,56,Sporty Slide Sandals,Beverages,20,24.99,164.93399999999997,Credit Card,Cancelled,52,67,Website,Returned,29/07/2024,45
+18,31/08/2024,76,Odie Matthewson,omatthewson6m@washingtonpost.com,14,Male,West,5,Sweet Potato & Kale Hash,Bakery,17,5.49,85.8636,Debit Card,Shipped,20,8,Phone,Returned,08/09/2024,65
+100,30/09/2024,20,Corny Deerr,cdeerr6n@gnu.org,14,Female,West,75,Pet Bed,Dairy,66,39.99,1398.8502,Cash on Delivery,Shipped,44,47,App,Returned,29/12/2024,48
+76,25/03/2025,71,Fernando Wharmby,fwharmby6o@last.fm,66,Male,South,93,Biodegradable Trash Bags,Beverages,34,12.99,211.9968,Credit Card,Shipped,71,52,Phone,Returned,10/05/2024,87
+9,04/01/2025,67,Chariot Jobke,cjobke6p@craigslist.org,5,Male,West,87,Safety First Aid Kit,Dairy,84,29.99,1587.0708,Credit Card,Delivered,10,37,Phone,Returned,11/08/2024,6
+90,01/07/2024,84,Clark Grabb,cgrabb6q@thetimes.co.uk,86,Male,North,81,Vegan chocolate chip cookies,Dairy,59,4.79,33.9132,Credit Card,Shipped,43,88,Website,Returned,04/05/2024,52
+100,23/04/2024,60,Germaine Vaughn,gvaughn6r@jugem.jp,17,Male,West,70,Sour Cream,Frozen Foods,11,3.49,26.872999999999998,Cash on Delivery,Shipped,14,30,App,Returned,09/08/2024,57
+10,26/03/2025,24,Lazar Mesant,lmesant6s@harvard.edu,42,Male,South,92,Floral Summer Dress,Dairy,38,39.99,531.867,UPI,Delivered,67,65,App,Returned,18/05/2024,18
+51,18/02/2025,63,Katheryn Roome,kroome6t@issuu.com,4,Female,North,27,Hand Mixer,Dairy,79,29.99,1682.1390999999999,Debit Card,Pending,32,29,App,Returned,04/06/2024,65
+33,25/01/2025,22,Kiel Pegden,kpegden6u@prlog.org,27,Male,North,70,Mobile Workbench,Frozen Foods,88,199.99,351.9824000000004,Cash on Delivery,Cancelled,4,98,Phone,Returned,17/09/2024,53
+100,25/03/2025,11,Gisele Woolveridge,gwoolveridge6v@twitter.com,46,Female,East,31,Frozen Chicken Nuggets,Bakery,95,4.49,63.98250000000001,Credit Card,Pending,80,85,App,Returned,25/03/2025,10
+25,25/05/2024,14,Kathlin Lyddiard,klyddiard6w@census.gov,7,Female,South,37,Chili Con Carne Mix,Snacks,88,2.99,39.468,UPI,Cancelled,86,85,Phone,Returned,15/08/2024,93
+89,05/05/2024,46,Stormie MacCoughan,smaccoughan6x@indiegogo.com,42,Female,North,70,Fitbit Activity Tracker,Dairy,54,99.99,1349.865,Cash on Delivery,Delivered,41,75,App,Returned,08/10/2024,41
+80,24/08/2024,31,Dannye Klehn,dklehn6y@weibo.com,25,Female,East,32,Kitchen Knife Sharpening System,Bakery,86,39.99,2029.0926000000004,Credit Card,Pending,57,41,Website,Returned,22/08/2024,65
+98,21/01/2025,33,Wolfie Pevreal,wpevreal6z@toplist.cz,73,Male,North,54,Hot Dog Buns,Snacks,58,2.49,30.3282,UPI,Cancelled,31,79,App,Returned,11/02/2025,79
+34,26/11/2024,60,Torrance Rembrant,trembrant70@java.com,39,Male,East,40,Cinnamon Sugar Popcorn,Bakery,23,2.89,49.187799999999996,Debit Card,Delivered,3,26,Website,Returned,23/11/2024,50
+76,11/01/2025,22,Margo Alexsandrev,malexsandrev71@soundcloud.com,56,Female,East,100,Car Vacuum,Beverages,11,49.99,93.48130000000002,UPI,Cancelled,37,83,App,Returned,18/04/2024,97
+69,05/04/2025,99,Gerrilee Neem,gneem72@weibo.com,74,Female,South,87,Dog Car Seat Cover,Dairy,22,39.99,290.3274,Credit Card,Delivered,88,67,App,Returned,21/08/2024,41
+90,17/06/2024,94,Oliviero Brownsill,obrownsill73@opera.com,97,Male,West,5,Fresh Lemons,Bakery,26,0.75,6.239999999999999,Credit Card,Shipped,27,68,Phone,Returned,19/07/2024,31
+33,29/09/2024,61,Ashlie Sowle,asowle74@e-recht24.de,92,Female,East,84,Smartphone Projector,Bakery,28,29.99,579.4067999999999,Debit Card,Cancelled,4,31,App,Returned,19/02/2025,99
+69,10/03/2025,58,Abe McHale,amchale75@arizona.edu,83,Male,West,99,Chili Lime Shrimp,Bakery,29,8.99,187.7112,Debit Card,Cancelled,15,28,Phone,Returned,14/05/2024,48
+75,19/08/2024,39,Dag Elldred,delldred76@t-online.de,4,Male,West,77,Poppy Seed Dressing,Dairy,95,3.49,301.7105,UPI,Cancelled,77,9,Phone,Returned,08/11/2024,67
+16,17/01/2025,2,Melosa Marklund,mmarklund77@meetup.com,98,Female,East,20,Coconut Yogurt,Snacks,70,3.89,73.52100000000002,Debit Card,Shipped,84,73,App,Returned,27/02/2025,85
+8,28/03/2025,40,Merrili Czaja,mczaja78@yellowbook.com,88,Female,South,12,Smartphone Gimbal,Frozen Foods,49,89.99,1058.2823999999998,UPI,Pending,14,76,Phone,Returned,31/07/2024,55
+69,19/06/2024,81,Brooke Mufford,bmufford79@barnesandnoble.com,67,Male,North,36,Dried Cranberries,Frozen Foods,75,4.29,16.087500000000013,Credit Card,Cancelled,71,95,App,Returned,04/05/2024,79
+19,21/11/2024,71,Mollee Stilling,mstilling7a@e-recht24.de,52,Female,West,66,Pineapple Coconut Bars,Snacks,3,3.79,4.661700000000001,UPI,Shipped,53,59,Website,Returned,13/02/2025,64
+64,15/02/2025,20,Jeanna Fison,jfison7b@soup.io,12,Female,North,70,Ricotta Cheese,Snacks,53,4.99,145.45850000000002,Cash on Delivery,Cancelled,96,45,Website,Returned,12/01/2025,9
+5,08/03/2025,82,Wilton McCallam,wmccallam7c@spiegel.de,98,Male,East,17,Adjustable Skipping Rope,Beverages,57,12.99,533.1096,Debit Card,Shipped,4,28,App,Returned,31/07/2024,4
+28,07/08/2024,16,Demetris Walles,dwalles7d@cisco.com,10,Female,South,6,Personal Blender with Travel Cup,Frozen Foods,11,39.99,338.7153,Debit Card,Pending,34,23,Website,Returned,11/09/2024,64
+88,17/06/2024,25,Collette Taye,ctaye7e@marriott.com,39,Female,West,6,3D Night Light,Snacks,37,19.99,562.1188,Credit Card,Shipped,12,24,Phone,Returned,11/09/2024,67
+55,19/01/2025,4,Giulio Trayton,gtrayton7f@msn.com,63,Male,North,41,Reversible Swimming Pool Lounger,Snacks,3,34.99,89.22449999999999,UPI,Delivered,40,15,Phone,Returned,03/10/2024,26
+75,19/12/2024,47,Bronny Longworthy,blongworthy7g@google.it,26,Male,North,76,Crafting Kit,Dairy,58,29.99,782.7389999999998,Debit Card,Delivered,82,55,Website,Returned,28/01/2025,94
+71,15/04/2024,64,Amalita Mathewson,amathewson7h@amazon.de,25,Female,West,53,Peach Halves (canned),Bakery,31,2.49,13.894200000000007,Cash on Delivery,Delivered,33,82,Website,Returned,06/06/2024,55
+49,15/02/2025,69,Agretha Woolpert,awoolpert7i@boston.com,28,Female,South,6,Rustic Italian Bread,Beverages,48,3.59,108.5616,Credit Card,Delivered,82,37,App,Returned,28/07/2024,27
+94,10/09/2024,74,Sayer Ranscombe,sranscombe7j@posterous.com,12,Male,South,69,Chocolate Mint Cookies,Frozen Foods,32,2.29,13.923199999999996,Debit Card,Delivered,26,81,App,Returned,05/08/2024,70
+92,19/12/2024,1,Electra Fairnington,efairnington7k@i2i.jp,93,Female,West,21,Portable Air Conditioner,Bakery,10,299.99,2399.92,Cash on Delivery,Cancelled,76,20,App,Returned,29/01/2025,42
+68,02/01/2025,60,Rinaldo Figgen,rfiggen7l@opensource.org,95,Male,West,72,Salsa,Beverages,32,3.49,27.92,Credit Card,Pending,86,75,Phone,Returned,17/05/2024,95
+71,07/05/2024,37,Gerard Regenhardt,gregenhardt7m@theguardian.com,34,Male,East,3,Folding Table,Frozen Foods,13,59.99,132.57790000000003,Debit Card,Delivered,33,83,Website,Returned,26/12/2024,82
+59,21/03/2025,67,Tatiania Itzkowicz,titzkowicz7n@virginia.edu,46,Female,East,25,Chickpea Pasta,Bakery,46,4.19,40.47539999999999,Cash on Delivery,Pending,52,79,Phone,Returned,27/12/2024,45
+53,12/10/2024,89,Antoni Liddon,aliddon7o@dell.com,13,Male,East,21,Feta Cheese Crumbles,Dairy,77,2.49,17.255699999999997,Cash on Delivery,Pending,38,91,Phone,Returned,23/09/2024,46
+9,10/12/2024,84,Valery Bartlomiej,vbartlomiej7p@wordpress.com,30,Female,West,87,Salsa,Snacks,40,3.49,62.82000000000001,UPI,Shipped,24,55,Website,Returned,07/08/2024,85
+47,28/09/2024,16,Gallard Ourry,gourry7q@deliciousdays.com,6,Male,South,76,Water Bottle,Bakery,60,18.99,56.97000000000004,Debit Card,Cancelled,64,95,Phone,Returned,02/04/2025,13
+64,16/03/2025,62,Ariel Chagg,achagg7r@biglobe.ne.jp,10,Female,East,47,Coconut Lime Rice,Dairy,84,2.99,185.85840000000002,Debit Card,Cancelled,59,26,Phone,Returned,02/07/2024,40
+57,12/11/2024,70,Lionello Agnew,lagnew7s@epa.gov,56,Male,East,65,USB Desk Fan,Dairy,90,14.99,1106.262,Debit Card,Shipped,37,18,App,Returned,12/04/2024,72
+70,21/03/2025,8,Vitia Strotton,vstrotton7t@reference.com,90,Female,East,67,Pecan Nuts,Dairy,94,6.49,414.8408,Credit Card,Delivered,14,32,Website,Returned,21/02/2025,11
+22,14/07/2024,56,Kaleena Stivey,kstivey7u@g.co,76,Female,East,94,Camera Tripod,Bakery,5,49.99,14.997000000000014,UPI,Pending,62,94,Website,Returned,27/01/2025,20
+44,10/10/2024,84,Ingrim Maciunas,imaciunas7v@topsy.com,94,Male,South,75,Vacuum Sealer Machine,Dairy,16,89.99,1036.6848,Credit Card,Pending,68,28,Phone,Returned,12/02/2025,69
+42,21/01/2025,51,Sumner Courvert,scourvert7w@blogspot.com,91,Male,West,27,Beef Stroganoff Mix,Bakery,97,5.49,202.3614,Debit Card,Shipped,51,62,Website,Returned,07/02/2025,3
+100,27/02/2025,16,Somerset Mulliner,smulliner7x@bing.com,61,Male,East,23,Tea Infuser,Snacks,40,12.99,363.71999999999997,Cash on Delivery,Shipped,8,30,App,Returned,30/11/2024,32
+10,01/10/2024,79,Lorne Stinson,lstinson7y@kickstarter.com,100,Female,North,71,Kids' Art Easel,Frozen Foods,81,58.99,1337.8932000000002,Credit Card,Delivered,11,72,App,Returned,02/12/2024,84
+26,15/07/2024,47,Esme Vassar,evassar7z@scientificamerican.com,29,Female,South,74,Italian Sausage Links,Snacks,36,5.99,170.3556,Debit Card,Shipped,48,21,App,Returned,21/04/2024,88
+44,23/12/2024,96,Karalynn Warcup,kwarcup80@forbes.com,36,Female,South,3,Savory Italian Herbs,Bakery,5,2.99,12.4085,UPI,Delivered,99,17,App,Returned,01/12/2024,3
+52,30/06/2024,18,Manuel Trundler,mtrundler81@businesswire.com,64,Male,North,29,Safety Pin Dispenser,Bakery,81,5.99,422.1153,Credit Card,Cancelled,81,13,Website,Returned,07/04/2025,66
+89,24/12/2024,81,Cary Kneebone,ckneebone82@nbcnews.com,13,Female,South,64,Blackberry Jam,Bakery,82,4.29,165.3366,Cash on Delivery,Cancelled,73,53,Website,Returned,04/05/2024,30
+46,08/11/2024,18,Bridie Munslow,bmunslow83@symantec.com,82,Female,South,62,Almond Flour Pancake Mix,Beverages,2,5.99,8.985,Cash on Delivery,Shipped,53,25,App,Returned,29/10/2024,43
+16,17/08/2024,98,Rickie Skokoe,rskokoe84@tmall.com,10,Male,West,29,Stainless Steel Water Pitcher,Beverages,73,39.99,2744.1137999999996,Credit Card,Cancelled,97,6,Phone,Returned,01/05/2024,68
+2,22/09/2024,45,Fionna Pocknoll,fpocknoll85@theatlantic.com,17,Female,East,7,Men's Waterproof Hiking Boots,Frozen Foods,26,89.99,116.9870000000001,UPI,Shipped,27,95,App,Returned,26/11/2024,10
+59,15/07/2024,23,Mareah Wace,mwace86@mtv.com,78,Female,North,52,Electric Hot Water Dispenser,Frozen Foods,22,59.99,369.5384,Debit Card,Pending,77,72,App,Returned,26/12/2024,91
+66,23/08/2024,15,Linnie MacGettigen,lmacgettigen87@gmpg.org,52,Female,East,70,Strawberry Banana Smoothie Pack,Snacks,81,4.99,56.586600000000004,Debit Card,Cancelled,97,86,Phone,Returned,17/09/2024,36
+55,02/06/2024,60,Filide Carwithim,fcarwithim88@dailymail.co.uk,72,Female,North,61,Adjustable Dumbbells,Bakery,62,249.99,14414.4234,Debit Card,Cancelled,85,7,Phone,Returned,17/01/2025,25
+69,17/04/2024,34,Pavla Menezes,pmenezes89@vkontakte.ru,6,Female,North,77,Organic Coconut Oil,Snacks,42,8.99,264.306,Debit Card,Pending,40,30,App,Returned,07/11/2024,49
+31,25/10/2024,23,Helsa Burroughes,hburroughes8a@chron.com,83,Female,North,56,Silicone Baking Mats,Beverages,48,19.99,690.8543999999999,Credit Card,Cancelled,70,28,Phone,Returned,03/06/2024,75
+13,09/12/2024,18,Dorrie Baudet,dbaudet8b@apple.com,45,Female,South,18,Tennis Racket,Frozen Foods,27,89.99,1312.0542,UPI,Shipped,76,46,App,Returned,23/06/2024,47
+96,16/04/2024,16,Jamal Weare,jweare8c@va.gov,76,Male,North,71,Fettuccine Alfredo Dinner Kit,Snacks,19,5.49,56.327400000000004,Credit Card,Pending,1,46,Phone,Returned,15/06/2024,37
+79,02/10/2024,2,Gui Pursglove,gpursglove8d@skype.com,71,Female,West,96,Electric Griddle with Lid,Bakery,95,49.99,997.3004999999998,Cash on Delivery,Pending,56,79,App,Returned,02/05/2024,39
+63,31/12/2024,10,Wait Deakes,wdeakes8e@salon.com,16,Male,North,27,Pet Grooming Scissors,Beverages,57,16.99,242.1075,Debit Card,Cancelled,80,75,Phone,Returned,12/09/2024,73
+4,06/03/2025,23,Ranique Buckbee,rbuckbee8f@aboutads.info,48,Female,West,72,Over-the-Door Hooks,Dairy,31,12.99,314.0982,Cash on Delivery,Pending,75,22,Phone,Returned,12/02/2025,15
+76,09/12/2024,57,Horatius Stapels,hstapels8g@privacy.gov.au,52,Male,East,35,Wild Rice Pilaf,Dairy,61,3.79,39.30230000000001,Credit Card,Shipped,45,83,App,Returned,24/07/2024,58
+73,30/07/2024,40,Homer Kliche,hkliche8h@4shared.com,90,Male,North,89,Digital Camera,Snacks,31,299.99,3533.8822,Cash on Delivery,Pending,48,62,Website,Returned,26/03/2025,37
+47,13/11/2024,64,Urbain Jacox,ujacox8i@go.com,62,Male,South,73,Ricotta Cheese,Snacks,91,4.99,431.38550000000004,Debit Card,Cancelled,29,5,Website,Returned,30/08/2024,72
+49,02/01/2025,7,Shanon Rillatt,srillatt8j@google.com.au,21,Female,West,76,Spiced Pumpkin Soup,Bakery,30,3.99,75.411,Cash on Delivery,Cancelled,19,37,App,Returned,14/01/2025,31
+35,16/10/2024,66,Lind Center,lcenter8k@google.com.au,30,Female,West,87,Weighted Jump Rope with Counter,Snacks,50,14.99,419.72,Debit Card,Cancelled,21,44,Website,Returned,26/08/2024,58
+88,19/12/2024,29,Albina Twitchett,atwitchett8l@mashable.com,26,Female,North,39,Stainless Steel Mixing Bowls,Snacks,25,29.99,239.91999999999996,Debit Card,Shipped,13,68,App,Returned,30/06/2024,63
+12,28/07/2024,70,Delia Toke,dtoke8m@github.com,17,Female,East,67,Wireless Game Controller,Frozen Foods,95,39.99,1519.6200000000001,UPI,Cancelled,22,60,Phone,Returned,28/08/2024,52
+54,14/09/2024,80,Woodie McGuire,wmcguire8n@usnews.com,56,Male,West,24,Smartphone Projector Kit,Beverages,85,24.99,339.8640000000001,Credit Card,Shipped,5,84,App,Returned,24/03/2025,21
+52,17/02/2025,41,Lexy Wisbey,lwisbey8o@irs.gov,97,Female,North,97,Classic White T-Shirt,Dairy,78,19.99,436.5816,Debit Card,Shipped,27,72,Website,Returned,18/06/2024,40
+91,22/09/2024,4,Gwyn Perotti,gperotti8p@bloomberg.com,71,Female,North,67,Vegan Chickpea Salad,Frozen Foods,51,3.99,162.79200000000003,Debit Card,Delivered,30,20,App,Returned,20/08/2024,40
+1,18/08/2024,45,Nikolai Harbor,nharbor8q@usatoday.com,33,Male,West,6,Honey Roasted Almonds,Snacks,23,4.99,5.7385000000000055,Cash on Delivery,Pending,11,95,Phone,Returned,27/10/2024,91
+15,16/01/2025,35,Mavra Cossons,mcossons8r@hexun.com,71,Female,West,48,Adjustable Resistance Bands,Dairy,14,39.99,459.08520000000004,Credit Card,Shipped,1,18,Website,Returned,07/04/2025,83
+49,26/08/2024,98,Terrijo Sieghard,tsieghard8s@independent.co.uk,88,Female,West,57,Kids' Trampoline,Beverages,63,139.99,1852.0676999999998,Debit Card,Pending,87,79,Website,Returned,03/07/2024,82
+33,03/07/2024,82,Melamie McCartan,mmccartan8t@mashable.com,29,Female,East,49,Cushion Covers,Dairy,3,35.0,0.0,Credit Card,Shipped,2,100,Website,Returned,02/08/2024,68
+82,10/10/2024,12,Claiborne Blanckley,cblanckley8u@ox.ac.uk,7,Male,West,21,Cauliflower Crust Pizza,Beverages,17,7.99,93.7227,Cash on Delivery,Pending,52,31,Website,Returned,27/05/2024,1
+48,18/12/2024,20,Nolly Rossbrooke,nrossbrooke8v@tuttocitta.it,70,Male,South,58,Pineapple Salsa,Dairy,30,4.29,110.68199999999999,UPI,Shipped,68,14,Website,Returned,20/10/2024,33
+96,01/11/2024,62,Daryle O' Dornan,do8w@telegraph.co.uk,17,Male,South,80,Skincare Fridge,Beverages,46,39.99,974.9562000000002,Cash on Delivery,Pending,26,47,Phone,Returned,13/08/2024,78
+20,13/03/2025,13,Wilow Rominov,wrominov8x@jigsy.com,93,Female,South,45,Roasted Chickpeas,Bakery,24,2.99,43.7736,Debit Card,Delivered,56,39,App,Returned,16/08/2024,79
+38,03/10/2024,10,Leslie Gadsden,lgadsden8y@desdev.cn,60,Male,South,91,Dark Chocolate Covered Raisins,Beverages,48,3.99,3.8304000000000036,Credit Card,Cancelled,72,98,App,Returned,15/06/2024,90
+83,20/11/2024,15,Gail De Ath,gde8z@cdbaby.com,73,Female,South,16,Plant-Based Protein Bars,Dairy,30,19.99,95.95200000000001,Cash on Delivery,Delivered,94,84,Website,Returned,06/05/2024,18
+53,20/07/2024,77,Ron Ormerod,rormerod90@goo.ne.jp,38,Male,North,6,Teriyaki Chicken Stir-Fry,Bakery,99,6.99,622.809,UPI,Pending,9,10,Website,Returned,22/01/2025,40
+58,20/04/2024,97,Horten Gadney,hgadney91@hexun.com,2,Male,East,88,Maple Pecan Pancake Mix,Beverages,47,4.99,173.5522,Debit Card,Cancelled,14,26,Phone,Returned,02/08/2024,7
+16,31/08/2024,46,Lane Humbert,lhumbert92@quantcast.com,95,Female,South,84,Sketchbook,Dairy,79,14.99,331.57880000000006,Cash on Delivery,Shipped,67,72,App,Returned,27/12/2024,29
+42,16/04/2024,25,Rudolfo Broxis,rbroxis93@geocities.jp,68,Male,West,78,Comfortable Bed Pillow,Snacks,95,24.99,854.6579999999999,Credit Card,Shipped,68,64,Phone,Returned,16/04/2024,77
+61,20/12/2024,90,Matthiew Senogles,msenogles94@tiny.cc,92,Male,South,68,Chickpea Salad Deluxe,Bakery,92,4.29,153.92520000000002,Debit Card,Delivered,34,61,App,Returned,17/06/2024,50
+48,18/06/2024,59,Maisey Bridge,mbridge95@drupal.org,20,Female,North,24,Mango Chia Pudding,Snacks,75,4.49,188.58,Credit Card,Shipped,7,44,Phone,Returned,18/04/2024,14
+21,20/04/2024,35,Madelaine Rickcord,mrickcord96@dailymail.co.uk,42,Female,South,34,Cinnamon Sugar Popcorn,Bakery,43,2.89,100.65870000000001,Credit Card,Pending,9,19,App,Returned,18/07/2024,95
+15,06/09/2024,37,Florrie Thurber,fthurber97@g.co,47,Female,North,31,Portable Dog Water Bottle,Beverages,14,18.99,236.61539999999997,Credit Card,Shipped,97,11,Phone,Returned,06/03/2025,86
+79,27/08/2024,57,Alonzo Farncomb,afarncomb98@ucoz.com,96,Male,North,55,Body Wash,Bakery,56,12.99,80.0184,UPI,Pending,38,89,App,Returned,27/01/2025,62
+52,19/06/2024,71,Kevyn Goady,kgoady99@miitbeian.gov.cn,65,Female,South,57,Vegan Tacos,Frozen Foods,85,7.49,101.86400000000002,UPI,Shipped,45,84,Phone,Returned,30/08/2024,71
+59,11/10/2024,68,Lief Haughin,lhaughin9a@spiegel.de,30,Male,West,59,Mechanical Keyboard,Bakery,90,99.99,4319.568,Credit Card,Delivered,93,52,App,Returned,24/04/2024,72
+36,01/07/2024,28,Inez Meneo,imeneo9b@businessweek.com,46,Female,East,54,Sriracha Chili Sauce,Snacks,86,2.79,40.78980000000001,Debit Card,Delivered,12,83,Phone,Returned,22/10/2024,9
+16,11/09/2024,34,Isa Leddie,ileddie9c@usa.gov,45,Female,East,88,Buffalo Cauliflower Wings,Beverages,21,6.99,63.1197,Cash on Delivery,Pending,86,57,Website,Returned,18/12/2024,2
+93,29/01/2025,14,Nanete Finders,nfinders9d@cdbaby.com,30,Female,West,59,Eco-Friendly Notepad,Beverages,58,8.99,0.0,Credit Card,Pending,47,100,App,Returned,08/10/2024,5
+24,03/04/2025,57,Gorden Prewer,gprewer9e@nifty.com,64,Male,East,31,Organic Almond Flour,Frozen Foods,45,6.99,47.18250000000001,Cash on Delivery,Cancelled,48,85,App,Returned,01/08/2024,100
+47,04/04/2025,17,Blakelee Wallenger,bwallenger9f@facebook.com,82,Female,West,55,Classic BBQ Sauce,Snacks,73,2.79,20.366999999999997,UPI,Shipped,61,90,Website,Returned,18/06/2024,99
+64,17/10/2024,12,Benedicta Dossetter,bdossetter9g@about.com,29,Female,West,1,Spinach and Ricotta Ravioli,Snacks,57,6.49,40.692299999999996,Credit Card,Shipped,77,89,App,Returned,30/11/2024,21
+86,20/11/2024,15,Gordon Swiggs,gswiggs9h@spotify.com,8,Male,South,57,Sweet Potato and Chickpea Bowl,Frozen Foods,17,6.49,31.995700000000003,UPI,Pending,90,71,Phone,Returned,24/01/2025,14
+48,17/06/2024,96,Even Lashmore,elashmore9i@apple.com,69,Male,South,87,Pet Travel Bed,Snacks,26,26.99,435.0788,Credit Card,Shipped,93,38,Phone,Returned,12/05/2024,93
+72,12/05/2024,15,Karel Hamlet,khamlet9j@imgur.com,34,Male,West,21,Vanilla Ice Cream,Beverages,18,4.99,83.5326,Credit Card,Cancelled,60,7,App,Returned,22/07/2024,18
+86,08/02/2025,76,Angelique Easterfield,aeasterfield9k@un.org,4,Female,North,47,Apple Cinnamon Oatmeal,Snacks,74,2.89,96.237,UPI,Pending,86,55,Phone,Returned,22/04/2024,36
+98,11/10/2024,33,Mendel Valero,mvalero9l@statcounter.com,71,Male,North,81,Pumpkin Ice Cream,Frozen Foods,72,4.99,222.7536,Debit Card,Shipped,6,38,Website,Returned,27/04/2024,47
+23,30/04/2024,72,Jacquenetta Skeats,jskeats9m@miitbeian.gov.cn,63,Female,South,9,Kale and Quinoa Salad,Beverages,75,6.49,321.25499999999994,Debit Card,Cancelled,91,34,Phone,Returned,01/05/2024,100
+68,05/03/2025,57,Penelopa Stracey,pstracey9n@state.gov,67,Female,South,56,BBQ Sauce,Beverages,73,3.49,30.572400000000002,Cash on Delivery,Delivered,44,88,Website,Returned,23/03/2025,10
+54,11/03/2025,7,Crystal Charon,ccharon9o@tamu.edu,19,Female,West,50,Reusable Coffee Filter,Frozen Foods,52,10.99,325.7436000000001,Credit Card,Cancelled,86,43,Phone,Returned,08/09/2024,10
+10,08/03/2025,60,Alfredo Burroughes,aburroughes9p@about.com,49,Male,South,60,Cinnamon Raisin Bread,Bakery,25,3.79,81.485,Cash on Delivery,Delivered,68,14,Website,Returned,21/05/2024,9
+80,10/09/2024,5,Kelly Snazel,ksnazel9q@gmpg.org,22,Female,East,87,Kids' Art Supplies Kit,Snacks,100,29.99,539.8200000000002,Debit Card,Cancelled,21,82,App,Returned,23/06/2024,26
+60,16/04/2024,42,Domingo Tombling,dtombling9r@ebay.co.uk,53,Male,North,80,Professional Chef Knife,Snacks,77,89.99,5196.9225,UPI,Cancelled,51,25,App,Returned,08/06/2024,89
+44,08/04/2025,4,Sharyl Shervington,sshervington9s@disqus.com,96,Female,North,4,Travel Makeup Organizer,Dairy,36,25.99,477.1764,Debit Card,Pending,58,49,App,Returned,20/02/2025,6
+73,19/11/2024,69,Dawn Willoughby,dwilloughby9t@yelp.com,18,Female,South,20,Honey Mustard Dip,Snacks,71,3.29,156.50529999999998,UPI,Delivered,25,33,Website,Returned,12/02/2025,18
+92,28/05/2024,1,Torey Varfalameev,tvarfalameev9u@seattletimes.com,8,Male,East,8,Chocolate Protein Powder,Beverages,15,24.99,292.383,UPI,Delivered,84,22,Phone,Returned,04/12/2024,19
+39,03/12/2024,37,Suzi Guile,sguile9v@indiegogo.com,45,Female,East,31,Hair Dryer,Beverages,79,39.99,252.73679999999987,Credit Card,Cancelled,55,92,Phone,Returned,11/02/2025,32
+2,11/06/2024,48,Dev Bettles,dbettles9w@typepad.com,21,Male,South,43,Sliced Turkey Breast,Snacks,49,5.49,24.21089999999999,Debit Card,Cancelled,6,91,Website,Returned,10/07/2024,78
+97,06/11/2024,24,Donall Strewthers,dstrewthers9x@furl.net,40,Male,South,79,Sporty Slide Sandals,Snacks,55,24.99,769.692,UPI,Pending,46,44,Phone,Returned,16/09/2024,74
+71,23/06/2024,86,Ezmeralda Salterne,esalterne9y@sbwire.com,38,Female,West,92,Frozen Spinach,Bakery,99,1.99,126.0864,Credit Card,Shipped,35,36,Phone,Returned,18/07/2024,96
+94,16/05/2024,16,Raul Perl,rperl9z@reverbnation.com,85,Male,North,64,Savory Breakfast Sausage,Dairy,95,6.49,394.59200000000004,Credit Card,Pending,49,36,Phone,Returned,30/04/2024,99
+20,28/01/2025,88,Osbourn Leist,oleista0@columbia.edu,93,Male,South,92,Foot Massager,Dairy,74,79.99,2190.1261999999997,UPI,Shipped,43,63,App,Returned,18/08/2024,61
+29,15/12/2024,89,Filia Tomsett,ftomsetta1@tamu.edu,81,Female,East,61,Elderberry Syrup,Beverages,47,11.99,535.3534999999999,Credit Card,Pending,28,5,App,Returned,24/07/2024,82
+23,03/12/2024,80,Cherianne Pechet,cpecheta2@ucoz.com,46,Female,West,21,Fitness Balance Ball,Beverages,23,24.99,339.1143,UPI,Pending,31,41,App,Returned,30/12/2024,20
+98,12/01/2025,77,Gunar Auty,gautya3@cam.ac.uk,84,Male,West,96,Sea Salt Caramel Brownie,Bakery,17,2.49,2.9630999999999985,Cash on Delivery,Delivered,11,93,Website,Returned,21/02/2025,90
+30,11/07/2024,8,Ignazio Britcher,ibritchera4@istockphoto.com,68,Male,East,50,Portable USB-C Monitor,Frozen Foods,22,199.99,1319.9340000000004,Credit Card,Cancelled,46,70,Phone,Returned,01/11/2024,5
+78,23/10/2024,14,Sharl Yushmanov,syushmanova5@mayoclinic.com,17,Female,South,44,Handmade Leather Journal,Bakery,3,39.99,37.19070000000001,UPI,Shipped,44,69,Website,Returned,11/12/2024,7
+2,21/09/2024,45,Kaylee Torrijos,ktorrijosa6@hibu.com,18,Female,West,17,Chickpea Flour,Dairy,53,3.29,149.9582,Cash on Delivery,Shipped,15,14,Website,Returned,01/11/2024,76
+78,03/02/2025,1,Angus Uzzell,auzzella7@linkedin.com,96,Male,South,72,Gardening Tool Belt,Beverages,50,22.99,448.305,Cash on Delivery,Cancelled,93,61,App,Returned,05/06/2024,6
+66,27/08/2024,68,Kori McClurg,kmcclurga8@cbsnews.com,88,Female,North,51,Sculpting Kit,Bakery,81,25.99,463.14179999999993,UPI,Delivered,29,78,Website,Returned,21/09/2024,12
+8,24/10/2024,53,Adrienne Morison,amorisona9@nature.com,76,Female,North,55,Maple Cinnamon Granola,Bakery,30,4.29,33.461999999999996,Debit Card,Delivered,5,74,Phone,Returned,27/03/2025,21
+12,22/08/2024,63,Elaine Broek,ebroekaa@simplemachines.org,14,Female,North,59,Mechanical Pencil Set,Bakery,59,19.99,188.7056,Debit Card,Delivered,1,84,Phone,Returned,02/01/2025,62
+94,31/03/2025,82,Dorri Yantsurev,dyantsurevab@yellowpages.com,63,Female,East,76,Organic Coconut Flakes,Dairy,20,3.49,47.464000000000006,UPI,Cancelled,75,32,App,Returned,21/12/2024,45
+59,05/12/2024,74,Jermain Byrd,jbyrdac@telegraph.co.uk,13,Male,North,99,Magnetic Curtain Tiebacks,Dairy,69,12.99,654.3063000000001,Cash on Delivery,Pending,98,27,App,Returned,16/11/2024,71
+97,21/01/2025,9,Fairlie Punter,fpunterad@bloglines.com,2,Male,North,37,Whole Roasted Chicken,Bakery,47,9.99,51.6483,Cash on Delivery,Pending,1,89,Phone,Returned,07/01/2025,24
+71,12/09/2024,47,Kean Keddle,kkeddleae@trellian.com,77,Male,South,83,Steak Seasoning Rub,Beverages,76,2.49,179.778,UPI,Cancelled,93,5,Phone,Returned,20/11/2024,29
+80,22/09/2024,27,Mohandis Halton,mhaltonaf@yelp.com,34,Male,North,43,Travel Size Toiletry Bottles,Dairy,41,9.99,98.30160000000001,UPI,Shipped,48,76,Phone,Returned,03/02/2025,52
+25,16/01/2025,61,Garvy Zavattari,gzavattariag@forbes.com,71,Male,North,57,Vegan Mayonnaise,Beverages,57,4.49,38.389500000000005,UPI,Cancelled,56,85,Phone,Returned,28/10/2024,73
+24,11/01/2025,49,Rene Singyard,rsingyardah@constantcontact.com,55,Male,North,29,Classic Caesar Salad Kit,Frozen Foods,13,4.99,12.325299999999997,Cash on Delivery,Delivered,40,81,Phone,Returned,27/04/2024,94
+64,03/10/2024,29,Percival Churching,pchurchingai@technorati.com,64,Male,South,12,LED Disco Ball Light,Bakery,96,19.99,1055.472,UPI,Cancelled,58,45,Website,Returned,19/05/2024,67
+28,11/05/2024,56,Teodoor Kettlestringe,tkettlestringeaj@purevolume.com,71,Male,West,2,Chicken Broth,Snacks,74,2.49,5.527800000000005,Cash on Delivery,Cancelled,6,97,Phone,Returned,18/11/2024,82
+37,03/06/2024,57,Yorgos Tosspell,ytosspellak@guardian.co.uk,21,Male,West,52,Frozen Vegetarian Pizza,Dairy,50,6.49,87.61500000000001,Credit Card,Cancelled,91,73,App,Returned,20/08/2024,65
+86,18/04/2024,99,Stace Hamlen,shamlenal@is.gd,86,Female,East,78,Cranberry Citrus Sauce,Bakery,95,3.99,106.13400000000001,Debit Card,Shipped,31,72,Website,Returned,13/04/2024,75
+96,31/08/2024,52,Bette-ann Adicot,badicotam@123-reg.co.uk,58,Female,North,73,Ski Goggles,Frozen Foods,9,49.99,260.94780000000003,Credit Card,Pending,11,42,Website,Returned,27/09/2024,60
+64,31/08/2024,100,Jamal Shortland,jshortlandan@php.net,22,Male,East,11,Electric Pressure Washer,Bakery,26,199.99,4575.7712,Cash on Delivery,Delivered,65,12,Phone,Returned,05/04/2025,41
+20,20/01/2025,77,Agatha Brindley,abrindleyao@statcounter.com,28,Female,North,30,Bamboo Cotton Tank Top,Beverages,43,22.99,484.3993,Cash on Delivery,Shipped,49,51,Website,Returned,21/10/2024,55
+12,23/05/2024,16,Pacorro Roughsedge,proughsedgeap@lulu.com,67,Male,West,3,Peach Slices in Syrup,Beverages,94,2.59,109.55699999999997,Cash on Delivery,Cancelled,13,55,Phone,Returned,20/08/2024,33
+97,08/02/2025,20,Sherwynd Slixby,sslixbyaq@elpais.com,30,Male,West,71,Chipotle Seasoning Blend,Frozen Foods,87,2.49,84.48570000000001,Credit Card,Delivered,44,61,Phone,Returned,28/03/2025,84
+9,26/04/2024,10,Web Scholey,wscholeyar@usda.gov,12,Male,South,42,Classic Pesto Sauce,Frozen Foods,31,4.29,113.0415,Debit Card,Delivered,57,15,App,Returned,21/11/2024,20
+55,29/12/2024,12,Chen Iltchev,ciltchevas@arizona.edu,66,Male,South,78,Sliced Bell Peppers,Beverages,15,3.99,23.94,Credit Card,Cancelled,86,60,Phone,Returned,21/09/2024,32
+18,21/03/2025,46,Romain Cutbirth,rcutbirthat@theglobeandmail.com,29,Male,East,28,Classic Black Dress,Beverages,42,79.99,1746.9816,Credit Card,Cancelled,37,48,App,Returned,27/12/2024,95
+52,12/09/2024,83,Afton Van Leeuwen,avanau@phoca.cz,81,Female,South,70,Smart Thermos,Dairy,60,39.99,95.97600000000008,Cash on Delivery,Delivered,8,96,App,Returned,01/09/2024,34
+64,04/09/2024,93,Fara Purple,fpurpleav@amazon.com,11,Female,South,9,Whole Chicken,Frozen Foods,89,12.99,948.0102000000002,Debit Card,Delivered,48,18,Website,Returned,04/05/2024,99
+40,27/02/2025,92,Orelie Cano,ocanoaw@fda.gov,24,Female,West,71,Electric Milk Frother,Bakery,84,19.99,1645.5767999999998,UPI,Delivered,43,2,App,Returned,20/01/2025,25
+75,08/08/2024,85,Michale Le Count,mleax@un.org,20,Male,North,89,Sliced Provolone Cheese,Beverages,13,3.99,0.5187000000000005,UPI,Shipped,24,99,Phone,Returned,13/11/2024,16
+1,22/06/2024,69,Humfrid Westoff,hwestoffay@infoseek.co.jp,18,Male,North,84,Fishing Tackle Box,Snacks,33,24.99,453.56850000000003,Cash on Delivery,Pending,100,45,Website,Returned,28/10/2024,68
+38,26/12/2024,63,Dillie MacAdam,dmacadamaz@google.co.jp,13,Male,South,29,Ergonomic Mouse Pad with Wrist Support,Frozen Foods,16,14.99,62.3584,Credit Card,Pending,21,74,Phone,Returned,26/04/2024,93
+33,02/05/2024,32,Manolo Arundel,marundelb0@creativecommons.org,97,Male,West,53,Ribbed Knit Dress,Frozen Foods,93,59.99,5355.907200000001,Debit Card,Pending,44,4,Phone,Returned,12/11/2024,85
+77,21/03/2025,18,Hedwig Iskowicz,hiskowiczb1@dyndns.org,22,Female,North,92,Smartphone Tripod with Bluetooth Remote,Frozen Foods,34,29.99,611.7959999999999,Debit Card,Cancelled,81,40,Phone,Returned,13/02/2025,10
+2,06/11/2024,67,Corbin Sheers,csheersb2@ftc.gov,96,Male,West,53,Organic Granola Cereal,Dairy,64,5.99,187.84640000000002,Cash on Delivery,Pending,59,51,Phone,Returned,19/07/2024,26
+68,12/07/2024,1,Donovan Rayment,draymentb3@shutterfly.com,96,Male,West,44,Art Supplies Organizer,Beverages,20,18.99,102.54599999999999,Credit Card,Pending,54,73,Phone,Returned,21/01/2025,21
+78,18/10/2024,67,Josey Swalowe,jswaloweb4@bbb.org,62,Female,South,3,Silicone Wine Glasses,Beverages,10,22.99,101.15599999999998,Debit Card,Cancelled,2,56,Phone,Returned,10/10/2024,86
+27,01/01/2025,87,Sayer Clancey,sclanceyb5@java.com,61,Male,South,61,Chili Lime Corn Chips,Beverages,80,2.79,4.464000000000004,Credit Card,Pending,56,98,Website,Returned,21/01/2025,68
+30,07/09/2024,74,Hedwiga Aronsohn,haronsohnb6@prnewswire.com,64,Female,West,40,Folding Backpack Chair,Beverages,15,49.99,599.88,Credit Card,Shipped,19,20,Website,Returned,08/06/2024,95
+29,01/09/2024,6,Ondrea Pilipets,opilipetsb7@elpais.com,95,Female,East,42,Honey Butter Popcorn,Snacks,44,2.99,127.61319999999999,Cash on Delivery,Delivered,69,3,Phone,Returned,22/12/2024,39
+80,14/12/2024,5,Gates Pray,gprayb8@boston.com,67,Female,South,68,Tortilla Chips,Bakery,4,2.99,0.35880000000000034,Credit Card,Delivered,74,97,Phone,Returned,03/03/2025,82
+16,26/10/2024,51,Sib Duffell,sduffellb9@answers.com,27,Female,East,76,Gingerbread House Kit,Snacks,44,6.99,110.7216,Debit Card,Delivered,52,64,App,Returned,07/05/2024,28
+51,11/01/2025,24,King Bezants,kbezantsba@yolasite.com,21,Male,East,41,Customizable Name Plate,Bakery,12,19.99,14.392800000000012,Cash on Delivery,Delivered,29,94,Website,Returned,21/02/2025,54
+23,29/12/2024,12,Fayina de Marco,fdebb@1688.com,5,Female,North,33,Noise Reduction Headphones,Dairy,21,39.99,579.4551,Cash on Delivery,Pending,90,31,App,Returned,01/01/2025,83
+9,16/12/2024,26,Charmine Layfield,clayfieldbc@accuweather.com,21,Female,West,7,Electronic Drum Kit,Dairy,98,359.99,23284.1532,Cash on Delivery,Pending,85,34,Phone,Returned,30/03/2025,56
+83,27/05/2024,41,Micheline Gwyer,mgwyerbd@tinyurl.com,56,Female,East,81,Travel Mug with Leak-Proof Lid,Beverages,3,24.99,1.4994000000000014,Credit Card,Cancelled,5,98,App,Returned,09/01/2025,41
+51,14/06/2024,77,Karoly Rasmus,krasmusbe@sun.com,27,Female,West,78,Granola Clusters,Frozen Foods,43,4.99,57.93390000000001,Credit Card,Pending,84,73,Phone,Returned,11/10/2024,99
+74,13/03/2025,64,Filbert Guile,fguilebf@fc2.com,20,Male,South,30,Organic Chia Seeds,Frozen Foods,76,7.99,54.65159999999998,UPI,Cancelled,65,91,Website,Returned,25/11/2024,84
+95,19/01/2025,67,Ly Halliberton,lhallibertonbg@smugmug.com,43,Male,South,17,Smart Light Switch,Bakery,61,29.99,1500.0998,UPI,Shipped,47,18,Website,Returned,14/03/2025,55
+74,30/07/2024,25,Beau Neeves,bneevesbh@myspace.com,80,Male,South,79,Whole Roasted Chicken,Frozen Foods,100,9.99,259.74,Debit Card,Pending,99,74,App,Returned,23/05/2024,32
+48,02/03/2025,50,Dory Rimour,drimourbi@com.com,10,Female,South,75,Luxe Velvet Blazer,Dairy,29,89.99,521.9419999999999,UPI,Shipped,94,80,App,Returned,06/01/2025,46
+8,15/07/2024,53,Jacquette Ballay,jballaybj@virginia.edu,40,Female,North,42,Mini Air Hockey Table,Dairy,27,39.99,1058.1354,Credit Card,Delivered,38,2,Phone,Returned,19/01/2025,48
+39,28/12/2024,11,Alfie Downer,adownerbk@tinyurl.com,31,Male,South,22,Cheddar Cheese Crackers,Beverages,15,2.29,22.3275,UPI,Shipped,15,35,Website,Returned,27/09/2024,16
+59,11/07/2024,49,Clifford McKinley,cmckinleybl@webs.com,18,Male,South,96,Bamboo Charcoal Air Purifier Bags,Dairy,60,12.99,685.872,UPI,Shipped,10,12,Website,Returned,27/01/2025,51
+40,27/09/2024,26,Asher Reddell,areddellbm@miibeian.gov.cn,7,Male,South,79,Vintage Button-Down Shirt,Bakery,46,45.99,1628.9658,Cash on Delivery,Delivered,50,23,Website,Returned,07/08/2024,47
+93,08/01/2025,33,Mable Gierek,mgierekbn@nps.gov,90,Female,North,42,Pineapple Coconut Bars,Dairy,33,3.79,53.78010000000001,Cash on Delivery,Delivered,100,57,App,Returned,07/02/2025,84
+46,15/01/2025,97,Fidelity Stockoe,fstockoebo@last.fm,55,Female,West,31,Shredded Cheese,Beverages,44,4.29,73.6164,UPI,Pending,29,61,App,Returned,21/03/2025,54
+94,12/05/2024,94,Bjorn Vinsen,bvinsenbp@seattletimes.com,88,Male,North,18,Vegan Caesar Dressing,Dairy,97,3.99,274.79130000000004,UPI,Delivered,99,29,App,Returned,06/03/2025,9
+98,09/08/2024,21,Stillman Kleen,skleenbq@ucla.edu,78,Male,East,52,Adjustable Resistance Bands,Beverages,70,39.99,1007.748,Credit Card,Pending,72,64,App,Returned,06/12/2024,82
+38,15/06/2024,26,Bunny Cuardall,bcuardallbr@cam.ac.uk,29,Female,West,44,Sliced Bell Peppers,Frozen Foods,66,3.99,244.9062,Credit Card,Delivered,20,7,Website,Returned,22/09/2024,92
+24,17/07/2024,29,Joanna Fairman,jfairmanbs@shop-pro.jp,63,Female,North,32,Classic White T-Shirt,Dairy,74,19.99,1183.4080000000001,UPI,Delivered,43,20,Phone,Returned,01/04/2025,16
+93,18/05/2024,16,Kylie Omrod,komrodbt@taobao.com,16,Female,North,75,Wireless Printer,Dairy,55,99.99,4234.5765,Cash on Delivery,Pending,43,23,Website,Returned,15/11/2024,11
+47,22/10/2024,51,Mattheus Fernao,mfernaobu@youtu.be,66,Male,South,5,Hummus Variety Pack,Beverages,57,5.99,0.0,Debit Card,Cancelled,65,100,App,Returned,11/09/2024,100
+51,07/12/2024,54,Oneida Townes,otownesbv@jugem.jp,1,Female,South,88,Nut Mix,Frozen Foods,97,5.99,162.6884,Debit Card,Delivered,76,72,Website,Returned,18/04/2024,12
+91,02/03/2025,1,Maye Sprason,msprasonbw@ezinearticles.com,40,Female,West,76,Butternut Squash Soup,Dairy,14,3.49,45.928399999999996,Debit Card,Shipped,80,6,Website,Returned,25/12/2024,30
+96,10/07/2024,16,Christian Churching,cchurchingbx@house.gov,37,Male,East,23,Kettle Chip Variety Pack,Frozen Foods,25,3.99,35.91,Cash on Delivery,Pending,49,64,App,Returned,06/02/2025,8
+73,28/08/2024,11,Victoir Parren,vparrenby@ox.ac.uk,35,Male,North,40,Vanilla Ice Cream,Dairy,69,4.99,258.2325,UPI,Pending,79,25,Phone,Returned,23/09/2024,4
+92,24/08/2024,77,Irvin Blindt,iblindtbz@admin.ch,37,Male,South,7,Wireless Charging Station,Frozen Foods,96,39.99,3647.0879999999997,UPI,Cancelled,50,5,Phone,Returned,01/01/2025,79
+31,02/07/2024,60,Hermine Lawrenz,hlawrenzc0@weibo.com,71,Female,South,31,Dill Pickle Chips,Dairy,83,2.29,125.44619999999998,Cash on Delivery,Cancelled,6,34,App,Returned,11/12/2024,63
+25,03/02/2025,25,Nikki Beahan,nbeahanc1@redcross.org,29,Female,West,90,Electric Griddle with Removable Plates,Frozen Foods,10,59.99,47.991999999999976,UPI,Cancelled,12,92,Phone,Returned,18/02/2025,5
+81,11/03/2025,3,Herc Hagger,hhaggerc2@google.it,10,Male,North,48,Stylish Wireless Earbuds,Snacks,36,59.99,1965.2724,Cash on Delivery,Delivered,21,9,Phone,Returned,18/11/2024,72
+72,15/08/2024,81,Northrop Beevor,nbeevorc3@theguardian.com,16,Male,East,8,Waffle Maker,Dairy,60,39.99,1031.7420000000002,Cash on Delivery,Pending,20,57,App,Returned,30/08/2024,100
+81,07/07/2024,10,Marty Bugbird,mbugbirdc4@wikia.com,41,Male,North,26,Decorative Throw Pillows,Bakery,70,29.99,1301.5659999999998,Credit Card,Shipped,62,38,App,Returned,02/03/2025,2
+77,13/11/2024,68,Simona Attwooll,sattwoollc5@telegraph.co.uk,17,Female,North,25,Italian Sausage and Peppers,Bakery,46,8.99,334.96740000000005,Cash on Delivery,Delivered,40,19,Phone,Returned,01/10/2024,54
+45,24/03/2025,40,Timotheus Josephoff,tjosephoffc6@jigsy.com,5,Male,East,26,Non-Toxic Crayons for Kids,Snacks,50,10.99,192.325,Cash on Delivery,Shipped,69,65,Website,Returned,06/05/2024,25
+44,16/01/2025,31,Alexandro Eastbury,aeastburyc7@sogou.com,30,Male,East,37,LED Under Cabinet Lighting,Dairy,74,29.99,776.7409999999999,Debit Card,Cancelled,62,65,Phone,Returned,15/10/2024,98
+12,17/10/2024,19,Hakeem Revens,hrevensc8@hao123.com,2,Male,West,92,Window Bird Feeder,Bakery,20,19.99,99.94999999999999,Debit Card,Pending,79,75,App,Returned,17/10/2024,42
+60,25/04/2024,81,Jaquenetta Pittle,jpittlec9@mysql.com,89,Female,South,47,Italian Sausage and Peppers,Bakery,34,8.99,180.33940000000004,Debit Card,Pending,41,41,Phone,Returned,10/12/2024,33
+51,10/02/2025,26,Bria Coots,bcootsca@topsy.com,35,Female,North,100,Lemon Lime Sparkling Water,Snacks,100,1.99,83.58000000000001,Cash on Delivery,Shipped,81,58,Website,Returned,28/06/2024,31
+95,23/06/2024,88,Armando Tomasian,atomasiancb@cbsnews.com,3,Male,South,24,Cranberry Almond Biscotti,Snacks,27,4.19,36.2016,UPI,Shipped,35,68,Website,Returned,09/03/2025,60
+35,04/04/2025,2,Becca Auletta,baulettacc@reddit.com,48,Female,East,78,Peach Halves (canned),Dairy,2,2.49,4.432200000000001,Debit Card,Shipped,76,11,Website,Returned,01/08/2024,39
+33,19/04/2024,95,Stefa Dalziell,sdalziellcd@friendfeed.com,31,Female,North,3,Smartphone Gimbal Stabilizer,Snacks,45,89.99,3806.5769999999993,UPI,Shipped,67,6,Website,Returned,03/12/2024,57
+45,24/03/2025,68,Enoch Barrar,ebarrarce@scribd.com,7,Male,East,7,Matcha Green Tea Powder,Beverages,76,14.99,1025.316,Cash on Delivery,Delivered,71,10,App,Returned,26/10/2024,2
+22,01/04/2025,34,Osmond Maycock,omaycockcf@fda.gov,75,Male,West,89,Outdoor Camping Lantern,Dairy,27,34.99,831.3624,Debit Card,Delivered,21,12,Phone,Returned,13/01/2025,84
+68,08/10/2024,47,Darb Clue,dcluecg@edublogs.org,8,Male,East,11,Spicy Kimchi,Beverages,83,4.79,163.0037,Debit Card,Pending,17,59,Website,Returned,06/09/2024,99
+3,21/11/2024,33,Hanan Leason,hleasonch@yolasite.com,31,Male,West,72,Car Phone Mount,Dairy,75,15.99,35.977500000000035,UPI,Delivered,67,97,Website,Returned,24/05/2024,11
+76,09/02/2025,41,Stillmann Shallcrass,sshallcrassci@eepurl.com,100,Male,North,3,Portable Speaker Stand,Bakery,52,39.99,1933.9163999999998,Debit Card,Pending,5,7,App,Returned,05/03/2025,99
+7,27/06/2024,13,Waverly Zold,wzoldcj@icio.us,26,Male,East,39,Kids' Dinosaur-Themed Lunchbox,Beverages,20,19.99,3.998000000000003,Debit Card,Delivered,72,99,Website,Returned,26/07/2024,23
+9,27/03/2025,56,Xerxes Rainford,xrainfordck@sciencedirect.com,72,Male,West,93,Vegetarian Chili,Beverages,66,3.99,147.47040000000004,Cash on Delivery,Delivered,22,44,App,Returned,01/04/2025,28
+75,08/04/2025,71,Bernadine Ducker,bduckercl@t-online.de,36,Female,North,79,Sporty Cap,Dairy,80,15.99,614.016,Debit Card,Delivered,37,52,App,Returned,15/03/2025,35
+100,10/10/2024,5,Cherilyn Saltsberg,csaltsbergcm@51.la,97,Female,West,65,Wall Calendar,Dairy,11,17.99,23.746799999999997,UPI,Cancelled,94,88,App,Returned,30/07/2024,85
+62,01/11/2024,56,Annaliese Woolerton,awoolertoncn@skyrock.com,64,Female,South,36,Honey Ginger Tea,Frozen Foods,61,2.99,49.24530000000001,Cash on Delivery,Delivered,2,73,Website,Returned,18/02/2025,93
+18,24/05/2024,64,Vida Terrans,vterransco@un.org,29,Female,North,37,Chicken Salad Kit,Frozen Foods,76,5.99,63.73360000000001,Debit Card,Shipped,32,86,Phone,Returned,04/02/2025,44
+18,25/08/2024,65,Gherardo Warret,gwarretcp@altervista.org,80,Male,South,72,Magnetic Curtain Tiebacks,Bakery,100,12.99,519.6,UPI,Pending,7,60,Phone,Returned,10/01/2025,33
+55,14/03/2025,42,Dusty Targe,dtargecq@netlog.com,74,Female,North,81,Smoked Salmon,Frozen Foods,80,14.99,311.79200000000003,Debit Card,Shipped,63,74,Website,Returned,08/03/2025,66
+30,05/08/2024,5,Callida Kirwin,ckirwincr@ezinearticles.com,39,Female,North,68,Outdoor Camping Lantern,Beverages,16,34.99,464.6672,UPI,Pending,97,17,Website,Returned,23/02/2025,70
+25,16/03/2025,83,Adan Rabl,arablcs@wordpress.org,33,Male,North,67,Chickpea Pasta,Frozen Foods,78,4.19,16.341000000000015,UPI,Pending,10,95,App,Returned,28/10/2024,61
+27,17/10/2024,63,Rhiamon Nannini,rnanninict@discovery.com,46,Female,West,96,Smart Light Switch,Dairy,26,29.99,436.65440000000007,Credit Card,Delivered,2,44,Phone,Returned,16/05/2024,73
+90,07/11/2024,24,Vito Lademann,vlademanncu@answers.com,19,Male,North,48,Ginger Turmeric Tea,Beverages,54,3.49,81.03780000000002,Debit Card,Shipped,49,57,Website,Returned,20/03/2025,24
+44,28/01/2025,72,Demetri Shugg,dshuggcv@google.it,84,Male,East,81,Lemon Herb Chicken,Frozen Foods,82,7.49,79.84340000000002,Cash on Delivery,Pending,9,87,Phone,Returned,21/06/2024,21
+50,08/06/2024,7,Elset Holehouse,eholehousecw@princeton.edu,78,Female,East,84,Classic Cheeseburger Mix,Beverages,4,5.49,7.2467999999999995,Credit Card,Pending,85,67,Phone,Returned,23/01/2025,3
+16,11/08/2024,23,Jorry Schimek,jschimekcx@reverbnation.com,30,Female,East,70,Reversible Comforter Set,Bakery,81,89.99,5102.432999999999,Cash on Delivery,Cancelled,97,30,Website,Returned,22/06/2024,22
+31,29/09/2024,75,Dee dee Heelis,ddeecy@blogspot.com,86,Female,West,90,Cinnamon Raisin Bagels,Snacks,27,4.19,30.545100000000005,Credit Card,Cancelled,91,73,Phone,Returned,04/05/2024,76
+5,29/09/2024,100,Ros Jime,rjimecz@barnesandnoble.com,60,Female,South,8,Golf Polo Shirt,Snacks,20,39.99,183.954,Debit Card,Cancelled,99,77,App,Returned,29/06/2024,88
+67,15/07/2024,33,Forster Strauss,fstraussd0@opensource.org,14,Male,South,56,Organic Coconut Yogurt,Dairy,55,4.49,103.71900000000002,UPI,Cancelled,59,58,Website,Returned,05/10/2024,19
+53,25/11/2024,75,Grenville Blanch,gblanchd1@apache.org,28,Male,North,48,Travel Organizer,Beverages,96,22.99,463.4783999999999,Cash on Delivery,Pending,79,79,App,Returned,29/03/2025,26
+92,04/04/2025,1,Junia Denk,jdenkd2@netlog.com,1,Female,East,67,Roasted Red Pepper Hummus,Snacks,90,3.49,21.986999999999988,Cash on Delivery,Pending,7,93,Phone,Returned,27/03/2025,74
+62,21/07/2024,59,Odie Caulder,ocaulderd3@drupal.org,23,Male,West,73,Digital Wireless Camera,Frozen Foods,86,199.99,16167.191599999998,Credit Card,Cancelled,32,6,Website,Returned,16/05/2024,92
+72,12/12/2024,67,Tory Mawby,tmawbyd4@latimes.com,15,Female,South,15,Quinoa,Bakery,10,4.49,33.226000000000006,Debit Card,Pending,52,26,Phone,Returned,02/10/2024,32
+48,09/12/2024,10,Rodrick Maleck,rmaleckd5@canalblog.com,87,Male,West,22,Cat Tree with Scratching Posts,Bakery,32,79.99,2278.1151999999997,Debit Card,Pending,16,11,App,Returned,03/03/2025,100
+75,29/11/2024,93,Devonna Aisman,daismand6@live.com,31,Female,West,88,Portable Dog Water Bottle,Snacks,4,18.99,6.836399999999997,UPI,Cancelled,51,91,Phone,Returned,04/04/2025,46
+91,27/09/2024,9,Bambie Joincey,bjoinceyd7@newsvine.com,38,Female,East,61,Portable UV Sterilizer,Beverages,33,19.99,151.7241,UPI,Delivered,59,77,App,Returned,19/04/2024,40
+82,03/02/2025,38,Lilllie Andri,landrid8@meetup.com,29,Female,South,18,LED Strip Light Kit,Bakery,100,39.99,3119.2200000000003,UPI,Shipped,90,22,Website,Returned,16/02/2025,99
+65,02/06/2024,34,Jeffie Choat,jchoatd9@google.fr,2,Male,West,80,Multi-Purpose Scissors,Beverages,87,8.99,344.13719999999995,Credit Card,Delivered,27,56,Website,Returned,18/06/2024,49
+28,21/11/2024,32,Rafaela Miell,rmiellda@artisteer.com,36,Female,North,99,Honey Sesame Cashews,Snacks,5,4.49,9.204500000000001,UPI,Delivered,51,59,App,Returned,11/07/2024,56
+79,26/01/2025,11,Des McLoney,dmcloneydb@marriott.com,52,Male,East,52,Chocolate Mint Thins,Snacks,42,2.99,33.906600000000005,Cash on Delivery,Cancelled,59,73,Phone,Returned,14/09/2024,38
+75,03/02/2025,26,Ynez Wooffinden,ywooffindendc@phpbb.com,11,Female,West,96,Electric Hot Pot,Snacks,85,49.99,3569.2860000000005,Cash on Delivery,Cancelled,78,16,App,Returned,22/09/2024,34
+85,03/06/2024,90,Arni Downer,adownerdd@google.com.au,83,Male,North,22,Fresh Cilantro,Snacks,23,1.49,12.679900000000002,Cash on Delivery,Delivered,61,63,App,Returned,01/11/2024,66
+80,25/08/2024,32,Eirena Meiklem,emeiklemde@mail.ru,6,Female,West,34,Dark Chocolate Bars,Beverages,61,2.99,109.43400000000001,UPI,Cancelled,32,40,Phone,Returned,07/11/2024,55
+58,19/09/2024,80,Prudy Mathew,pmathewdf@phoca.cz,99,Female,South,26,Tofu,Dairy,83,2.49,74.4012,Credit Card,Pending,10,64,Phone,Returned,14/02/2025,30
+49,05/05/2024,42,Silas Confait,sconfaitdg@craigslist.org,94,Male,West,41,Biodegradable Trash Bags,Dairy,27,12.99,45.5949,Cash on Delivery,Delivered,57,87,Website,Returned,23/03/2025,39
+50,18/05/2024,8,Lin Plank,lplankdh@squidoo.com,11,Female,East,78,Almond Flour Bread Mix,Frozen Foods,48,4.89,199.51199999999997,Credit Card,Delivered,89,15,Phone,Returned,22/06/2024,37
+49,10/12/2024,12,Isidore Bradtke,ibradtkedi@npr.org,52,Male,West,32,Sliced Olives,Beverages,93,1.99,38.86469999999999,Debit Card,Cancelled,76,79,App,Returned,20/06/2024,11
+63,07/10/2024,63,Ines Clohissy,iclohissydj@miibeian.gov.cn,28,Female,North,14,Vegetarian Stir Fry Sauce,Dairy,21,2.49,3.137400000000003,Cash on Delivery,Shipped,9,94,Website,Returned,28/09/2024,34
+47,06/02/2025,25,Thorn Lazar,tlazardk@reuters.com,35,Male,West,46,Savory Snack Mix,Bakery,20,4.49,5.388000000000005,Cash on Delivery,Pending,56,94,Website,Returned,04/10/2024,40
+45,10/06/2024,26,Brockie Cropp,bcroppdl@live.com,47,Male,North,70,Electronic Drum Kit,Dairy,81,359.99,3790.6947000000005,UPI,Pending,11,87,Phone,Returned,26/01/2025,67
+50,27/11/2024,92,Jade Shovlin,jshovlindm@vimeo.com,71,Female,North,75,Chicken Salad Kit,Beverages,29,5.99,92.06630000000001,UPI,Pending,62,47,Website,Returned,07/06/2024,66
+71,26/02/2025,33,Devinne Kreutzer,dkreutzerdn@com.com,83,Female,North,64,Almond Flour Tortillas,Beverages,40,4.99,177.64400000000003,UPI,Pending,24,11,App,Returned,08/04/2025,54
+100,21/03/2025,53,Tully Paggitt,tpaggittdo@berkeley.edu,1,Male,West,77,Wireless HDMI Receiver,Dairy,17,49.99,722.3555,UPI,Pending,98,15,Phone,Returned,11/10/2024,95
+28,14/12/2024,49,Inge Dible,idibledp@purevolume.com,42,Female,North,55,Pineapple Teriyaki Chicken Mix,Dairy,64,6.99,268.416,Cash on Delivery,Shipped,68,40,Phone,Returned,23/08/2024,16
+88,21/01/2025,34,Karoly Huskisson,khuskissondq@dot.gov,36,Female,West,51,Home Brewing Starter Kit,Frozen Foods,2,79.99,81.5898,Cash on Delivery,Pending,36,49,Website,Returned,26/12/2024,48
+88,09/02/2025,79,Dodi Blackall,dblackalldr@g.co,83,Female,South,36,Ginger Turmeric Tea,Snacks,55,3.49,69.102,UPI,Pending,2,64,App,Returned,19/03/2025,16
+71,18/09/2024,38,Dodie Legge,dleggeds@latimes.com,45,Female,West,79,LED Under Cabinet Lighting,Frozen Foods,92,29.99,717.3608,Credit Card,Cancelled,79,74,Website,Returned,09/04/2025,93
+32,19/10/2024,17,Donny Finlow,dfinlowdt@comcast.net,90,Male,North,3,Tomato Basil Soup,Snacks,24,3.49,42.717600000000004,UPI,Shipped,72,49,Website,Returned,16/09/2024,82
+87,10/11/2024,48,Jenny Trice,jtricedu@ustream.tv,26,Female,South,69,Portable Charger with Solar Panel,Dairy,29,45.99,266.74199999999996,Debit Card,Delivered,36,80,Phone,Returned,20/05/2024,20
+65,25/05/2024,85,Donovan Calbrathe,dcalbrathedv@edublogs.org,47,Male,South,6,Portable Hand Warmer,Bakery,58,24.99,1145.0418,UPI,Cancelled,42,21,Phone,Returned,10/06/2024,39
+99,31/12/2024,81,Mallory Edmead,medmeaddw@livejournal.com,46,Female,West,20,Maple Chipotle Glaze,Bakery,97,3.49,186.19150000000002,Credit Card,Cancelled,96,45,Website,Returned,28/05/2024,59
+47,07/09/2024,60,Layton Goroni,lgoronidx@psu.edu,14,Male,West,73,Wall-Mounted Wine Rack,Beverages,40,39.99,767.808,UPI,Pending,50,52,Phone,Returned,11/11/2024,96
+14,27/05/2024,40,Alaric Teeney,ateeneydy@theatlantic.com,80,Male,South,76,Raisin Cinnamon Granola,Dairy,95,3.79,18.002500000000015,Debit Card,Cancelled,1,95,Website,Returned,31/03/2025,80
+98,26/05/2024,27,Alfy Vagg,avaggdz@technorati.com,3,Male,West,84,Mini Projector for Smartphones,Beverages,73,99.99,3211.6787999999992,UPI,Pending,74,56,Website,Returned,30/09/2024,33
+31,19/05/2024,75,Georgeta Goldbourn,ggoldbourne0@comcast.net,78,Female,East,58,Almond Butter,Snacks,47,6.49,262.3258,Credit Card,Shipped,54,14,Phone,Returned,17/12/2024,64
+60,02/04/2025,19,Krista Pennick,kpennicke1@loc.gov,37,Female,East,85,Rechargeable Battery Organizer,Frozen Foods,90,17.99,566.685,Cash on Delivery,Pending,52,65,Phone,Returned,17/02/2025,62
+4,09/10/2024,19,John Epelett,jepelette2@wunderground.com,54,Male,North,31,Electric Food Steamer,Bakery,56,59.99,2553.1744,Credit Card,Delivered,7,24,Website,Returned,01/07/2024,39
+41,13/08/2024,34,Maxie Dybald,mdybalde3@desdev.cn,30,Male,North,30,Mini Electric Kettle,Snacks,1,29.99,2.998999999999999,UPI,Pending,22,90,App,Returned,23/09/2024,51
+47,02/04/2025,37,Brendis Moss,bmosse4@state.tx.us,40,Male,West,55,Body Pillow Case,Bakery,50,14.99,652.0649999999999,UPI,Delivered,91,13,Phone,Returned,08/09/2024,35
+96,13/05/2024,39,Clare Mackriell,cmackrielle5@yellowbook.com,98,Female,South,82,Survival Gear Kit,Dairy,80,59.99,4175.304,Debit Card,Cancelled,30,13,Website,Returned,06/05/2024,100
+2,29/06/2024,38,Bax Salvati,bsalvatie6@latimes.com,27,Male,North,62,Inspirational Wall Art,Snacks,83,24.99,1161.5352000000003,Debit Card,Cancelled,66,44,Website,Returned,11/07/2024,71
+10,01/05/2024,89,Levi Duncklee,ldunckleee7@pinterest.com,30,Male,East,31,Roasted Chickpeas,Dairy,36,2.99,103.33440000000002,Credit Card,Delivered,54,4,Website,Returned,03/08/2024,25
+81,26/06/2024,81,Blythe Starmore,bstarmoree8@ucoz.ru,77,Female,West,40,Avocado Oil Mayo,Beverages,73,5.29,193.085,Credit Card,Shipped,12,50,App,Returned,19/04/2024,32
+54,16/11/2024,93,Elladine Plenderleith,eplenderleithe9@sina.com.cn,20,Female,North,8,Frozen Acai Purée,Dairy,86,6.99,444.8436,Cash on Delivery,Cancelled,53,26,App,Returned,07/10/2024,62
+39,01/02/2025,54,Tabitha Guy,tguyea@symantec.com,97,Female,North,43,Fashionable Belt Bag,Frozen Foods,33,34.99,450.32130000000006,Cash on Delivery,Pending,22,61,App,Returned,22/10/2024,11
+87,15/06/2024,24,Fielding Falls,ffallseb@wired.com,67,Male,West,76,Carrot Sticks,Snacks,61,2.49,110.87970000000001,Cash on Delivery,Pending,55,27,Phone,Returned,24/05/2024,83
+44,03/04/2025,14,Deidre Leggate,dleggateec@mac.com,26,Female,West,100,Over-The-Door Shoe Organizer,Beverages,86,25.99,1206.9756,UPI,Delivered,10,46,App,Returned,06/02/2025,2
+3,07/08/2024,19,Winslow Narducci,wnarduccied@vk.com,60,Male,West,86,Protein Bar Variety Pack,Beverages,53,12.99,20.654100000000017,Debit Card,Cancelled,74,97,Phone,Returned,29/11/2024,8
+60,21/12/2024,56,Morley Crownshaw,mcrownshawee@reuters.com,24,Male,East,82,Self-Stirring Mug,Bakery,45,19.99,764.6175,Credit Card,Cancelled,19,15,App,Returned,07/03/2025,79
+85,10/03/2025,73,Valenka Jurgensen,vjurgensenef@seesaa.net,79,Female,West,2,Bamboo Toothbrush,Snacks,84,5.99,316.99080000000004,Debit Card,Delivered,61,37,App,Returned,03/02/2025,48
+87,17/07/2024,89,Kacey Stoeckle,kstoeckleeg@rakuten.co.jp,100,Female,South,55,Ginger Snaps,Bakery,23,2.79,37.2186,UPI,Delivered,13,42,App,Returned,17/04/2024,68
+11,28/07/2024,90,Krystal Jezzard,kjezzardeh@spiegel.de,28,Female,West,38,Cacao Powder,Snacks,63,4.49,206.4951,Debit Card,Cancelled,35,27,Phone,Returned,05/08/2024,15
+83,17/11/2024,93,Meghan Erley,merleyei@is.gd,15,Female,East,92,Cheddar & Bacon Potato Skins,Dairy,73,7.49,382.739,Cash on Delivery,Cancelled,50,30,Phone,Returned,11/09/2024,70
+52,07/07/2024,82,Hamil Fetteplace,hfetteplaceej@engadget.com,96,Male,East,72,Casual Sneakers,Frozen Foods,11,39.99,404.69880000000006,Cash on Delivery,Pending,1,8,Phone,Returned,04/07/2024,85
+58,09/08/2024,31,Inessa Faughey,ifaugheyek@live.com,59,Female,North,81,Maple Pecan Pancake Mix,Beverages,30,4.99,14.969999999999999,Credit Card,Shipped,10,90,Website,Returned,14/12/2024,25
+33,12/03/2025,67,Milka Copestick,mcopestickel@wufoo.com,41,Female,West,28,Induction Cooktop,Frozen Foods,59,89.99,637.1292,UPI,Delivered,55,88,Phone,Returned,31/01/2025,79
+34,02/04/2025,83,Ardyth Jollands,ajollandsem@apple.com,21,Female,North,57,Air Fryer,Snacks,21,79.99,1612.5983999999999,Credit Card,Shipped,78,4,Website,Returned,22/02/2025,43
+62,20/07/2024,64,Luise Ordemann,lordemannen@wired.com,59,Female,South,77,Cranberry Pecan Granola,Dairy,19,3.99,47.0022,Debit Card,Shipped,27,38,Phone,Returned,09/11/2024,50
+49,16/07/2024,36,Gloriana Hornbuckle,ghornbuckleeo@phpbb.com,58,Female,West,93,Crafting Kit,Snacks,7,29.99,44.08529999999999,UPI,Shipped,63,79,Phone,Returned,19/01/2025,92
+58,01/06/2024,29,Danie Burrill,dburrillep@oakley.com,99,Male,West,23,Bamboo Bathtub Caddy,Dairy,11,34.99,46.186800000000005,Cash on Delivery,Delivered,34,88,App,Returned,12/08/2024,30
+35,15/04/2024,98,Issie Stonelake,istonelakeeq@furl.net,19,Female,East,39,Kids' Learning Tablet,Dairy,15,129.99,19.498500000000018,UPI,Shipped,60,99,Website,Returned,16/01/2025,98
+80,07/05/2024,75,Bar Geany,bgeanyer@infoseek.co.jp,88,Male,North,30,Blueberry Oatmeal Cups,Beverages,61,3.29,166.5727,Debit Card,Shipped,97,17,App,Returned,05/03/2025,47
+15,01/06/2024,18,Lissi Hammelberg,lhammelberges@deviantart.com,23,Female,South,89,Wine Glasses,Dairy,85,29.99,127.45750000000012,Debit Card,Shipped,86,95,Website,Returned,12/07/2024,42
+94,20/07/2024,43,Janelle Aish,jaishet@forbes.com,9,Female,West,74,Organic Spinach,Frozen Foods,17,2.99,23.381800000000002,Debit Card,Pending,30,54,App,Returned,21/06/2024,56
+81,07/01/2025,55,Kaja Kerford,kkerfordeu@dailymail.co.uk,9,Female,West,55,Protein Pancake Mix,Beverages,65,3.99,199.69950000000003,UPI,Shipped,69,23,Phone,Returned,07/10/2024,15
+1,30/10/2024,75,Bria Kobierzycki,bkobierzyckiev@woothemes.com,35,Female,West,24,Crispy Potato Tots,Dairy,79,3.69,52.471800000000016,Credit Card,Shipped,55,82,Website,Returned,01/09/2024,56
+35,21/02/2025,81,Henry Bayles,hbaylesew@bloomberg.com,67,Male,West,48,Lemon Garlic Shrimp,Bakery,26,8.99,25.711399999999998,UPI,Delivered,32,89,App,Returned,06/09/2024,40
+98,21/06/2024,98,Karmen Willets,kwilletsex@google.it,18,Female,South,21,Teriyaki Beef Jerky,Dairy,83,5.49,0.0,UPI,Shipped,75,100,Phone,Returned,28/11/2024,94
+4,15/04/2024,78,Beaufort Curuclis,bcuruclisey@feedburner.com,13,Male,West,66,Ready-to-Eat Chili,Dairy,1,2.99,1.9435000000000002,Debit Card,Pending,53,35,Phone,Returned,10/06/2024,47
+33,20/02/2025,4,Mateo Rodnight,mrodnightez@archive.org,34,Male,South,85,Coloring Books for Adults,Frozen Foods,34,14.99,214.05720000000002,Credit Card,Shipped,59,58,Website,Returned,14/01/2025,32
+24,04/06/2024,37,Christy Mosedale,cmosedalef0@feedburner.com,94,Male,West,20,Herbed Mushroom Risotto,Bakery,30,5.49,151.52400000000003,Cash on Delivery,Shipped,47,8,App,Returned,19/03/2025,2
+31,06/12/2024,30,Quentin Rudall,qrudallf1@oracle.com,39,Female,North,57,Noise Reduction Headphones,Snacks,78,39.99,2464.1838000000002,Credit Card,Delivered,32,21,Phone,Returned,28/09/2024,10
+56,19/11/2024,12,Valerie Gauche,vgauchef2@ca.gov,73,Female,West,93,Pecan Pie Filling,Dairy,1,3.99,1.596,Debit Card,Shipped,69,60,Phone,Returned,04/10/2024,43
+38,03/04/2025,82,Laraine Caton,lcatonf3@mozilla.org,61,Female,South,81,Maple Almond Yogurt,Frozen Foods,98,1.89,124.09739999999998,UPI,Pending,35,33,App,Returned,04/08/2024,44
+62,12/04/2024,16,Agna Kleisel,akleiself4@woothemes.com,54,Female,West,1,Canned Black Beans,Snacks,21,1.29,19.2339,Credit Card,Shipped,25,29,App,Returned,12/02/2025,81
+43,11/01/2025,76,Isador Roelvink,iroelvinkf5@dmoz.org,54,Male,South,1,Chocolate Chip Pancake Mix,Frozen Foods,33,3.99,97.43580000000001,Debit Card,Shipped,70,26,Website,Returned,21/07/2024,73
+19,29/06/2024,67,Sheffie Sabin,ssabinf6@cdbaby.com,78,Male,West,58,Smart Plant Monitor,Dairy,56,24.99,615.7535999999999,UPI,Shipped,18,56,App,Returned,31/07/2024,51
+40,11/02/2025,80,Roldan Lillgard,rlillgardf7@drupal.org,36,Male,East,54,Cinnamon Ice Cream,Beverages,92,4.99,211.17680000000001,Cash on Delivery,Delivered,15,54,App,Returned,03/02/2025,36
+89,29/05/2024,56,Patricia Pettwood,ppettwoodf8@seattletimes.com,84,Female,North,59,Portable Air Conditioner,Dairy,80,299.99,2639.912,Credit Card,Delivered,17,89,App,Returned,17/02/2025,70
+11,28/07/2024,9,Ashia MacAllen,amacallenf9@google.nl,6,Female,North,79,Desk Lamp with USB Port,Beverages,63,29.99,226.72439999999997,UPI,Shipped,72,88,App,Returned,09/02/2025,7
+50,24/12/2024,7,Jackquelin Puller,jpullerfa@dedecms.com,4,Female,East,37,Sustainable Wooden Toys,Dairy,53,29.99,111.26289999999993,Debit Card,Delivered,89,93,App,Returned,10/04/2025,5
+87,11/05/2024,46,Con Hebburn,chebburnfb@google.ca,96,Male,North,30,Baking Powder,Beverages,14,1.79,3.0072,Debit Card,Cancelled,92,88,App,Returned,06/07/2024,92
+34,25/10/2024,83,Gui Redrup,gredrupfc@amazon.co.uk,66,Female,East,29,Leather Crossbody Bag,Snacks,55,89.99,2078.7690000000002,UPI,Delivered,10,58,App,Returned,10/06/2024,14
+32,01/01/2025,47,Luce Willoughby,lwilloughbyfd@newsvine.com,11,Male,West,8,LED Desk Lamp,Frozen Foods,89,35.0,591.8499999999998,Debit Card,Pending,17,81,Website,Returned,02/06/2024,5
+28,03/12/2024,81,Ariela Kilmurray,akilmurrayfe@europa.eu,69,Female,East,79,Asian Noodle Salad Kit,Bakery,15,4.99,71.1075,Credit Card,Cancelled,13,5,Phone,Returned,15/03/2025,11
+40,09/11/2024,12,Gunther Heeley,gheeleyff@addtoany.com,66,Male,West,2,Basil Lemonade,Frozen Foods,25,2.99,30.6475,Cash on Delivery,Shipped,96,59,Phone,Returned,14/08/2024,98
+39,08/12/2024,44,Rozamond Renneke,rrennekefg@prnewswire.com,61,Female,North,57,Sweet Pea Hummus,Dairy,9,4.29,32.046299999999995,Cash on Delivery,Shipped,35,17,App,Returned,31/12/2024,64
+7,27/08/2024,94,Tiertza Langshaw,tlangshawfh@wiley.com,82,Female,West,57,Electric Stir Fry Pan,Bakery,1,49.99,9.498099999999997,UPI,Delivered,88,81,App,Returned,02/08/2024,73
+96,20/12/2024,34,Kellie Crowcroft,kcrowcroftfi@etsy.com,82,Female,North,13,Silicone Wine Glasses,Bakery,87,22.99,1640.1066,Cash on Delivery,Delivered,5,18,Phone,Returned,06/05/2024,47
+47,09/06/2024,50,Sheela Fonquernie,sfonquerniefj@liveinternet.ru,76,Female,South,22,Sliced Provolone Cheese,Frozen Foods,96,3.99,118.74240000000003,Credit Card,Pending,20,69,Phone,Returned,21/05/2024,34
+71,11/02/2025,95,Fabian Doy,fdoyfk@ebay.com,89,Male,North,70,Handheld Vacuum,Dairy,42,79.99,2754.8556000000003,Cash on Delivery,Delivered,59,18,App,Returned,04/09/2024,90
+8,24/08/2024,46,Nisse Claricoates,nclaricoatesfl@virginia.edu,53,Female,West,20,Kids' Crafting Station,Frozen Foods,85,49.99,849.8299999999999,Credit Card,Delivered,89,80,App,Returned,12/08/2024,87
+93,07/08/2024,48,Susanna Scambler,sscamblerfm@sciencedirect.com,67,Female,North,8,Multi-Tool,Bakery,3,39.99,1.199700000000001,Cash on Delivery,Delivered,23,99,App,Returned,13/05/2024,69
+68,19/06/2024,98,Ingra McClaurie,imcclauriefn@dropbox.com,55,Male,East,19,Portable USB-C Monitor,Frozen Foods,19,199.99,3723.8138000000004,Debit Card,Cancelled,36,2,Website,Returned,08/02/2025,10
+23,01/01/2025,70,Sigismond Puig,spuigfo@mtv.com,13,Male,West,74,Smartphone Photography Tripod,Snacks,14,29.99,29.390199999999975,Cash on Delivery,Cancelled,89,93,Website,Returned,26/11/2024,2
+93,31/12/2024,80,Alli Ligoe,aligoefp@foxnews.com,92,Female,East,31,Cherry Almond Protein Bar,Dairy,60,1.99,17.910000000000004,Debit Card,Shipped,68,85,Phone,Returned,03/10/2024,100
+93,19/04/2024,55,Nikoletta Andryushin,nandryushinfq@zimbio.com,72,Female,West,71,Peanut Butter Chocolate Chip Bars,Dairy,61,4.59,243.59130000000002,Cash on Delivery,Delivered,44,13,Website,Returned,09/05/2024,19
+10,22/11/2024,17,Lexie Lakenton,llakentonfr@ustream.tv,51,Female,East,57,Camping Tent,Frozen Foods,35,79.99,1231.8459999999998,Credit Card,Cancelled,5,56,Phone,Returned,19/08/2024,89
+2,22/09/2024,56,Grannie Sines,gsinesfs@scientificamerican.com,11,Male,South,88,Lightweight Workout Tank,Dairy,91,29.99,1391.8358999999998,Debit Card,Pending,97,49,Website,Returned,01/07/2024,86
+84,11/05/2024,5,Bethanne Mailey,bmaileyft@nsw.gov.au,80,Female,East,83,Pumpkin Spice Coffee,Dairy,32,7.99,138.0672,Debit Card,Pending,28,46,App,Returned,03/04/2025,99
+54,17/08/2024,38,Jemimah Toohey,jtooheyfu@purevolume.com,82,Female,East,24,Chickpeas,Frozen Foods,64,1.29,42.1056,UPI,Delivered,28,49,Phone,Returned,11/06/2024,84
+1,13/10/2024,34,Paloma Cuxon,pcuxonfv@aol.com,20,Female,East,47,Art Supplies Organizer,Snacks,40,18.99,736.8119999999999,UPI,Shipped,17,3,Phone,Returned,14/01/2025,84
+73,24/03/2025,37,Rodrique Naish,rnaishfw@sohu.com,8,Male,North,11,Portable Solar Charger,Bakery,52,29.99,452.2492000000001,UPI,Delivered,98,71,Website,Returned,25/04/2024,88
+12,10/08/2024,16,Silvana Ormston,sormstonfx@dion.ne.jp,36,Female,West,40,Fruit & Nut Trail Mix,Beverages,16,4.99,68.6624,UPI,Cancelled,68,14,Website,Returned,22/09/2024,4
+48,25/12/2024,16,Cristobal Meneux,cmeneuxfy@jugem.jp,82,Male,East,59,Legging Pants,Beverages,33,34.99,946.8294000000001,Debit Card,Cancelled,18,18,Website,Returned,22/12/2024,31
+11,15/04/2024,66,Darya Bowness,dbownessfz@yelp.com,99,Female,North,20,Measuring Cups Set,Frozen Foods,48,19.99,786.8064,Cash on Delivery,Pending,27,18,Website,Returned,08/11/2024,3
+12,16/10/2024,34,Emanuele Claibourn,eclaibourng0@devhub.com,63,Male,North,52,Cordless Water Flosser,Frozen Foods,70,49.99,2904.419,Credit Card,Shipped,66,17,Website,Returned,16/03/2025,53
+23,09/09/2024,79,Cassy Dalgarnowch,cdalgarnowchg1@hp.com,48,Female,North,34,Pet Water Fountain with Filtration,Beverages,8,39.99,227.1432,Credit Card,Shipped,5,29,Phone,Returned,14/10/2024,52
+81,01/07/2024,16,Burl McLane,bmclaneg2@nyu.edu,41,Male,South,75,Spicy Tuna Salad,Snacks,80,4.49,305.32000000000005,Cash on Delivery,Cancelled,87,15,Website,Returned,25/04/2024,58
+48,04/07/2024,96,Winfred Debow,wdebowg3@yandex.ru,52,Male,West,37,Apple Sauce,Dairy,2,2.19,3.6353999999999997,UPI,Cancelled,60,17,Website,Returned,05/01/2025,69
+97,04/04/2025,22,Reinold Coulthard,rcoulthardg4@sun.com,67,Male,South,29,Wireless Mouse,Frozen Foods,72,25.99,561.3840000000001,Debit Card,Delivered,34,70,Phone,Returned,17/12/2024,19
+98,24/12/2024,76,Lucie Fairhead,lfairheadg5@globo.com,56,Female,East,68,Kale & Quinoa Salad Mix,Beverages,84,4.49,154.6356,Cash on Delivery,Pending,85,59,Phone,Returned,12/04/2024,12
+100,26/01/2025,98,Bret Bowe,bboweg6@dyndns.org,67,Male,East,91,Stainless Steel Mixing Bowls,Frozen Foods,54,29.99,712.5623999999998,Cash on Delivery,Pending,79,56,Phone,Returned,10/05/2024,44
+55,23/05/2024,3,Ronni Auchterlony,rauchterlonyg7@people.com.cn,52,Female,East,66,Buffalo Stilton Cheese,Bakery,69,8.99,384.59220000000005,Credit Card,Shipped,45,38,Phone,Returned,07/02/2025,47
+29,31/08/2024,4,Yulma Francesch,yfranceschg8@tumblr.com,30,Male,South,4,Noise Cancelling Ear Muffs,Beverages,14,24.99,192.423,Credit Card,Pending,26,45,Website,Returned,02/10/2024,19
+83,22/02/2025,63,Tammy Grichukhanov,tgrichukhanovg9@addtoany.com,34,Male,South,14,Dark Chocolate Tart,Snacks,16,6.29,95.60799999999999,Cash on Delivery,Cancelled,18,5,App,Returned,30/10/2024,31
+18,23/11/2024,55,Liva Dietmar,ldietmarga@google.cn,10,Female,East,95,Sriracha Chili Sauce,Bakery,78,2.79,102.28139999999999,Debit Card,Delivered,89,53,Phone,Returned,25/10/2024,10
+87,05/11/2024,93,Della Shervil,dshervilgb@w3.org,36,Female,North,23,Kids' Learning Tablet,Bakery,44,129.99,1715.8680000000004,Debit Card,Pending,78,70,App,Returned,16/03/2025,14
+67,18/07/2024,30,Lazare Milsap,lmilsapgc@nydailynews.com,99,Male,South,79,Insulated Sport Tumbler,Beverages,63,22.99,854.5383,Credit Card,Delivered,75,41,Website,Returned,20/04/2024,5
+69,26/05/2024,27,Tate Flockhart,tflockhartgd@stumbleupon.com,56,Male,East,40,Bock Beer Mustard,Frozen Foods,1,2.29,1.2366000000000001,Debit Card,Delivered,50,46,App,Returned,04/07/2024,87
+4,28/03/2025,51,Bonita Mercy,bmercyge@wp.com,2,Female,West,86,Chunky Knit Sweater,Beverages,10,59.99,137.97699999999998,Debit Card,Shipped,72,77,Website,Returned,02/10/2024,67
+45,05/01/2025,65,Myca Tiler,mtilergf@ehow.com,8,Male,South,80,Roasted Garlic Pasta Sauce,Frozen Foods,2,4.99,2.3952,Cash on Delivery,Delivered,11,76,Phone,Returned,22/06/2024,40
+37,05/08/2024,53,Adolphe Airy,aairygg@qq.com,27,Male,East,16,Balsamic Salad Dressing,Snacks,44,2.99,101.30120000000001,UPI,Pending,33,23,Phone,Returned,21/08/2024,67
+70,14/07/2024,93,Ravi Spini,rspinigh@yelp.com,14,Male,North,22,Classic Minestrone Soup,Beverages,17,2.99,5.082999999999999,Credit Card,Shipped,24,90,Website,Returned,20/03/2025,58
+9,17/12/2024,73,Raye Yourell,ryourellgi@about.com,69,Female,West,16,Slingback Sandals,Snacks,10,29.99,5.998000000000005,Credit Card,Cancelled,74,98,Phone,Returned,01/01/2025,70
+92,17/07/2024,92,Hamlen Grouse,hgrousegj@cbsnews.com,45,Male,South,43,Maple Cinnamon Granola,Dairy,67,4.29,2.8743000000000025,Cash on Delivery,Pending,66,99,Phone,Returned,07/07/2024,11
+96,02/08/2024,92,Antoinette Denkel,adenkelgk@arstechnica.com,71,Female,North,24,Mediterranean Chickpea Salad,Snacks,87,5.99,250.14239999999998,Cash on Delivery,Delivered,59,52,Website,Returned,20/10/2024,30
+40,28/11/2024,22,Anabal Symmons,asymmonsgl@nih.gov,83,Female,West,12,Key Finder,Dairy,35,19.99,265.867,Credit Card,Shipped,28,62,Website,Returned,09/03/2025,66
+4,29/10/2024,6,Bibbie Adami,badamigm@discuz.net,32,Female,North,56,Crispy Kale Chips,Snacks,42,2.99,111.76620000000001,Debit Card,Delivered,56,11,Website,Returned,11/04/2024,19
+29,07/02/2025,2,Corissa Plomer,cplomergn@mapquest.com,72,Female,South,86,Hiking Gaiters,Bakery,36,29.99,604.5984,Credit Card,Delivered,70,44,Website,Returned,29/06/2024,91
+8,21/04/2024,89,Paulie Rosencwaig,prosencwaiggo@google.com,29,Male,South,34,Beach Cover-Up,Dairy,50,29.99,344.885,Debit Card,Cancelled,65,77,Phone,Returned,07/06/2024,19
+58,30/12/2024,28,Glenda Thebeau,gthebeaugp@google.com.au,54,Female,South,39,Kids' STEM Robotics Kit,Dairy,50,59.99,1289.785,UPI,Delivered,74,57,Website,Returned,29/08/2024,12
+37,14/01/2025,51,Valencia M'Chirrie,vmchirriegq@mayoclinic.com,11,Female,North,28,Fitness Resistance Bands Set,Frozen Foods,99,34.99,969.9228000000002,Cash on Delivery,Pending,21,72,Website,Returned,08/11/2024,56
+19,29/06/2024,36,Shanan Brewerton,sbrewertongr@tripod.com,10,Male,West,70,Avocado Lime Dressing,Beverages,5,4.29,6.863999999999999,Credit Card,Shipped,5,68,Website,Returned,21/03/2025,87
+1,14/12/2024,30,Adelaide Papps,apappsgs@woothemes.com,7,Female,West,1,Coloring Books for Adults,Bakery,41,14.99,86.04260000000001,Cash on Delivery,Pending,89,86,Website,Returned,03/03/2025,23
+87,13/11/2024,1,Jeannine Toth,jtothgt@about.me,18,Female,East,81,Kids' Science Experiment Kit,Snacks,10,29.99,116.961,Debit Card,Delivered,92,61,Website,Returned,12/03/2025,1
+35,15/03/2025,60,Gerald Limrick,glimrickgu@moonfruit.com,92,Male,East,32,Wireless Wi-Fi Extender,Bakery,13,49.99,630.3738999999999,UPI,Cancelled,81,3,App,Returned,02/12/2024,45
+80,22/06/2024,96,Jasun Hunnywell,jhunnywellgv@nps.gov,56,Male,North,43,Nail Polish Set,Snacks,66,25.0,874.5,Credit Card,Cancelled,99,47,App,Returned,28/01/2025,61
+38,07/01/2025,28,Karim Maberley,kmaberleygw@wordpress.org,8,Male,North,96,Mini Electric Kettle,Beverages,67,29.99,1366.3443999999997,UPI,Delivered,89,32,Phone,Returned,19/06/2024,81
+31,17/02/2025,86,Judy Marchiso,jmarchisogx@creativecommons.org,9,Female,West,63,Spice Rack,Snacks,35,39.99,195.95100000000002,Credit Card,Shipped,16,86,Website,Returned,24/12/2024,27
+89,21/12/2024,61,Alayne Bishop,abishopgy@jugem.jp,68,Female,South,58,Organic Brown Sugar,Beverages,31,2.49,30.876000000000005,UPI,Delivered,74,60,App,Returned,29/05/2024,50
+32,14/01/2025,13,Dennison Stretton,dstrettongz@reddit.com,21,Male,West,9,Underwater Camera,Snacks,64,199.99,9727.5136,UPI,Delivered,18,24,Website,Returned,06/07/2024,73
+20,30/03/2025,95,Prescott Greenall,pgreenallh0@slideshare.net,77,Male,North,64,Stylish Wireless Earbuds,Beverages,46,59.99,2262.8228,Cash on Delivery,Shipped,100,18,Website,Returned,31/12/2024,17
+42,23/05/2024,88,Bonny Villaron,bvillaronh1@jigsy.com,83,Female,West,40,Suede Ankle Booties,Dairy,50,79.99,679.9150000000001,Credit Card,Shipped,59,83,Phone,Returned,27/02/2025,2
+29,15/03/2025,19,Rurik Jochen,rjochenh2@xinhuanet.com,45,Male,East,79,Heart-Shaped Baking Molds,Snacks,94,10.99,516.53,Credit Card,Delivered,37,50,App,Returned,10/08/2024,10
+5,19/05/2024,39,Kevina Cudbird,kcudbirdh3@answers.com,94,Female,West,35,Deep Tissue Massage Gun,Snacks,72,89.99,907.0992,Debit Card,Cancelled,50,86,Website,Returned,07/01/2025,92
+51,15/03/2025,62,Townie Gothup,tgothuph4@bluehost.com,17,Male,West,74,Classic Pesto Sauce,Snacks,87,4.29,153.0243,Credit Card,Delivered,88,59,Phone,Returned,22/12/2024,41
+92,07/08/2024,18,Gae Pablos,gpablosh5@hao123.com,21,Female,North,46,Electric Screwdriver,Beverages,33,59.99,1801.4997,Cash on Delivery,Delivered,99,9,Website,Returned,30/11/2024,33
+10,29/03/2025,20,Latashia Watman,lwatmanh6@ycombinator.com,56,Female,South,49,Wireless HDMI Transmitter,Beverages,42,79.99,470.3412,Credit Card,Cancelled,25,86,Website,Returned,08/01/2025,52
+91,15/01/2025,99,Prentiss McMickan,pmcmickanh7@walmart.com,95,Male,East,7,Wall Art Stickers,Frozen Foods,26,19.99,62.3688,Debit Card,Delivered,65,88,Phone,Returned,21/03/2025,8
+49,06/01/2025,8,Yettie Wyre,ywyreh8@disqus.com,30,Female,East,97,Multi-Tool,Frozen Foods,29,39.99,289.9275,Credit Card,Cancelled,67,75,Phone,Returned,20/04/2024,47
+57,24/11/2024,90,Tore Joselevitch,tjoselevitchh9@histats.com,68,Male,East,59,Chili Lime Corn Chips,Snacks,17,2.79,5.217299999999999,Credit Card,Delivered,40,89,App,Returned,28/12/2024,23
+5,13/02/2025,46,Farris Jakubovitch,fjakubovitchha@last.fm,60,Male,North,13,Creamy Avocado Dip,Bakery,65,3.49,54.444,UPI,Cancelled,43,76,Website,Returned,25/01/2025,52
+30,16/10/2024,63,Deedee Allcoat,dallcoathb@elegantthemes.com,76,Female,South,43,Creamy Garlic Dressing,Snacks,42,3.99,31.840199999999992,Debit Card,Delivered,81,81,Website,Returned,19/02/2025,5
+5,05/01/2025,31,Natassia Dhillon,ndhillonhc@usa.gov,80,Female,North,44,Aeropress Coffee Maker,Snacks,5,29.99,101.96599999999998,Debit Card,Shipped,25,32,Phone,Returned,27/10/2024,53
+34,23/09/2024,16,Clara Cristofolo,ccristofolohd@va.gov,76,Female,South,94,LED Desk Lamp with USB Charging Port,Snacks,13,29.99,362.5791,Debit Card,Shipped,35,7,App,Returned,15/11/2024,64
+2,19/12/2024,82,Brnaby Cardis,bcardishe@salon.com,46,Male,North,25,Travel Shoe Bags Set,Beverages,8,15.99,38.376000000000005,Cash on Delivery,Shipped,41,70,Phone,Returned,14/02/2025,82
+67,23/11/2024,85,Gonzalo Spilsbury,gspilsburyhf@auda.org.au,16,Male,South,1,Spicy Tuna Rolls,Frozen Foods,49,6.49,302.10949999999997,Debit Card,Delivered,87,5,Phone,Returned,14/06/2024,36
+60,08/10/2024,76,Morna Dadge,mdadgehg@tmall.com,83,Female,West,51,Portable Air Compressor,Snacks,13,44.99,397.7116,UPI,Shipped,27,32,App,Returned,06/06/2024,25
+75,16/08/2024,17,Washington Howlett,whowletthh@netlog.com,77,Male,North,61,Incense Holder,Dairy,87,14.99,847.6845000000001,Credit Card,Pending,68,35,App,Returned,10/08/2024,13
+23,08/03/2025,44,Margit Brockherst,mbrockhersthi@rambler.ru,68,Female,West,90,Maple Breakfast Sausage,Beverages,90,5.99,247.986,UPI,Shipped,69,54,Website,Returned,12/01/2025,35
+19,21/07/2024,5,Claudetta Podmore,cpodmorehj@comcast.net,36,Female,West,50,Portable Solar Generator,Snacks,68,399.99,11695.707600000002,Credit Card,Shipped,21,57,App,Returned,20/04/2024,17
+25,19/12/2024,54,Cecilia Le Quesne,clehk@google.ca,34,Female,East,1,Sea Salt Caramel Brownie,Bakery,88,2.49,46.01519999999999,Debit Card,Pending,51,79,Website,Returned,03/10/2024,96
+11,13/08/2024,94,Cale Demeza,cdemezahl@fotki.com,67,Male,North,8,Faux Fur Coat,Beverages,71,129.99,2676.494100000001,UPI,Cancelled,19,71,Website,Returned,01/08/2024,39
+23,06/04/2025,71,Gar Arguile,garguilehm@weather.com,81,Male,West,34,Sourdough Bread,Dairy,34,4.99,57.6844,Credit Card,Pending,45,66,Phone,Returned,03/09/2024,60
+3,21/12/2024,94,Hersch Buggs,hbuggshn@bbc.co.uk,19,Male,South,27,Hand Mixer,Bakery,74,29.99,643.5854,Debit Card,Pending,82,71,Website,Returned,09/12/2024,61
+85,28/04/2024,53,Eleni Giannazzi,egiannazziho@qq.com,15,Female,South,40,Cauliflower Pizza Crust,Bakery,75,5.99,238.10250000000002,Cash on Delivery,Shipped,27,47,App,Returned,21/05/2024,6
+76,10/09/2024,53,Glenine Colvill,gcolvillhp@wix.com,40,Female,West,100,Compact Folding Table,Beverages,54,49.99,890.8217999999999,Debit Card,Delivered,94,67,Phone,Returned,09/08/2024,57
+96,19/05/2024,47,Raquel Molson,rmolsonhq@blog.com,58,Female,West,70,Beet Salad,Frozen Foods,17,3.99,16.2792,Cash on Delivery,Cancelled,83,76,Website,Returned,15/01/2025,21
+93,20/10/2024,54,Boote Dwelling,bdwellinghr@phpbb.com,26,Male,North,63,Brown Sugar,Frozen Foods,53,1.79,35.1019,UPI,Shipped,6,63,Phone,Returned,19/08/2024,58
+16,24/02/2025,40,Lizzy Woolerton,lwoolertonhs@columbia.edu,84,Female,West,10,Portable USB-C Monitor,Snacks,83,199.99,9129.543500000002,Cash on Delivery,Shipped,74,45,App,Returned,11/06/2024,87
+80,05/09/2024,51,Eddy Izatson,eizatsonht@live.com,24,Male,West,96,Portable Air Pump,Dairy,16,19.99,3.1984000000000026,Debit Card,Delivered,56,99,App,Returned,19/10/2024,1
+25,07/03/2025,81,Burt Luckin,bluckinhu@hubpages.com,32,Male,East,3,Multifunctional Pocket Tool,Beverages,74,19.99,961.519,UPI,Shipped,23,35,Website,Returned,25/10/2024,47
+75,27/06/2024,92,Janaye Bounde,jboundehv@ftc.gov,73,Female,West,66,LED Strip Light Kit,Bakery,69,39.99,910.5722999999999,UPI,Cancelled,51,67,Website,Returned,31/10/2024,65
+75,05/11/2024,63,Wynny Baniard,wbaniardhw@google.es,67,Female,North,60,Travel Luggage Scale,Bakery,93,14.99,55.76280000000005,Credit Card,Pending,24,96,App,Returned,02/12/2024,43
+100,11/10/2024,74,Lucius Gillingwater,lgillingwaterhx@rambler.ru,42,Male,East,16,Sliced Ham,Frozen Foods,26,5.49,47.1042,Debit Card,Cancelled,93,67,Website,Returned,15/01/2025,71
+24,02/01/2025,77,Emelen Bannister,ebannisterhy@msn.com,29,Male,East,27,Smart Wi-Fi Camera,Frozen Foods,56,89.99,251.9720000000002,Debit Card,Shipped,40,95,Website,Returned,01/06/2024,12
+73,20/06/2024,46,Cacilia Emptage,cemptagehz@fotki.com,58,Female,West,26,Eco-Friendly Cleaning Cloths,Beverages,66,12.99,497.25720000000007,Debit Card,Cancelled,78,42,App,Returned,28/04/2024,97
+88,16/10/2024,17,Ray Panks,rpanksi0@dmoz.org,73,Male,East,42,Bamboo Memory Foam Pillow,Frozen Foods,84,34.99,2380.7196000000004,Cash on Delivery,Pending,71,19,Website,Returned,02/12/2024,42
+42,24/08/2024,81,Rufe Wayper,rwayperi1@wordpress.com,70,Male,West,67,Professional Chef Knife,Snacks,58,89.99,2035.5738000000001,Debit Card,Pending,34,61,App,Returned,02/02/2025,52
+20,21/04/2024,74,Clyve Upcraft,cupcrafti2@digg.com,20,Male,South,70,Flavored Popcorn Mix,Bakery,81,2.99,4.843800000000005,Cash on Delivery,Pending,61,98,App,Returned,17/04/2024,58
+71,31/10/2024,4,Torre Petrov,tpetrovi3@livejournal.com,55,Male,South,85,Buffalo Cauliflower Bites,Snacks,15,6.29,60.384,UPI,Cancelled,32,36,Phone,Returned,22/12/2024,20
+31,04/07/2024,4,Selina Tzuker,stzukeri4@bandcamp.com,88,Female,South,37,Biodegradable Trash Bags,Beverages,14,12.99,21.8232,Credit Card,Shipped,15,88,Website,Returned,21/02/2025,48
+48,13/10/2024,55,Maegan Findon,mfindoni5@nifty.com,98,Female,North,56,French Bread,Beverages,8,2.49,16.7328,UPI,Pending,43,16,Phone,Returned,09/02/2025,48
+13,04/02/2025,85,Anastassia Flintoft,aflintofti6@uiuc.edu,30,Female,South,91,Roasted Sweet Corn,Bakery,72,1.99,80.2368,Cash on Delivery,Delivered,43,44,App,Returned,07/02/2025,60
+87,18/10/2024,20,Brant Giscken,bgisckeni7@apache.org,61,Male,South,92,Nutritional Yeast,Beverages,94,3.59,259.8442,Cash on Delivery,Pending,94,23,App,Returned,24/06/2024,60
+78,04/01/2025,52,Mack Halcro,mhalcroi8@state.tx.us,71,Male,East,16,Car Emergency Kit,Snacks,59,49.99,1386.2227,UPI,Cancelled,80,53,Phone,Returned,25/06/2024,9
+91,11/06/2024,11,Flory Eddins,feddinsi9@dailymotion.com,89,Female,East,45,Printed Maxi Skirt,Bakery,78,39.99,3025.6434000000004,Debit Card,Delivered,15,3,Website,Returned,04/03/2025,58
+13,25/02/2025,62,Ky Stanlick,kstanlickia@barnesandnoble.com,31,Male,North,79,Pasta Salad Kit,Beverages,15,5.99,75.474,Credit Card,Pending,91,16,Phone,Returned,21/09/2024,23
+74,01/07/2024,64,Anya Ogus,aogusib@dedecms.com,28,Female,East,89,Roasted Red Pepper Sauce,Beverages,86,3.29,84.882,UPI,Shipped,90,70,Website,Returned,04/11/2024,87
+50,10/07/2024,40,Dwight Grishakin,dgrishakinic@pagesperso-orange.fr,25,Male,North,98,Nut Butter Cups,Beverages,72,3.99,238.44240000000002,UPI,Pending,76,17,Phone,Returned,01/10/2024,12
+62,28/11/2024,22,Tomlin Froom,tfroomid@goodreads.com,63,Male,South,85,Portable Solar Path Lights,Snacks,38,39.99,607.8480000000001,UPI,Cancelled,48,60,Phone,Returned,14/12/2024,27
+45,19/01/2025,50,Dukey O'Doohaine,dodoohaineie@state.gov,76,Male,North,9,Wall Art,Snacks,46,45.0,227.69999999999996,UPI,Pending,31,89,App,Returned,26/07/2024,46
+60,16/05/2024,67,Jackquelin Daniels,jdanielsif@ted.com,68,Female,North,57,High-Quality Yoga Block,Snacks,68,12.99,529.992,UPI,Delivered,49,40,Website,Returned,25/03/2025,62
+33,30/09/2024,4,Jeno Jacks,jjacksig@bizjournals.com,19,Male,North,29,Lightweight Backpacking Tent,Beverages,26,129.99,2906.5764000000004,Debit Card,Pending,63,14,Website,Returned,01/12/2024,75
+91,02/11/2024,54,Linell Spencer,lspencerih@jugem.jp,39,Female,West,87,Artisan Pickles,Beverages,56,2.49,75.2976,UPI,Delivered,55,46,Phone,Returned,16/02/2025,91
+93,03/01/2025,12,Helenelizabeth Freeland,hfreelandii@xinhuanet.com,86,Female,West,76,Chicken Broth,Snacks,33,2.49,78.8832,UPI,Cancelled,61,4,App,Returned,19/09/2024,99
+40,21/03/2025,65,Boris Gemson,bgemsonij@bizjournals.com,94,Male,East,31,Sliced Turkey Breast,Snacks,77,5.49,207.1377,UPI,Delivered,30,51,Website,Returned,05/05/2024,15
+94,01/03/2025,18,Conney Priddle,cpriddleik@parallels.com,83,Male,South,96,Body Wash,Dairy,23,12.99,233.04059999999998,Cash on Delivery,Delivered,63,22,App,Returned,24/03/2025,52
+24,03/09/2024,68,Cherey Ellerington,celleringtonil@freewebs.com,8,Female,North,70,Creamy Garlic Mashed Potatoes,Bakery,57,3.99,43.211699999999986,UPI,Delivered,10,81,Phone,Returned,12/11/2024,46
+27,04/01/2025,30,Aguistin Davidoff,adavidoffim@oaic.gov.au,98,Male,East,16,Chicken Broth,Frozen Foods,7,2.49,8.0178,Credit Card,Cancelled,79,54,Website,Returned,29/03/2025,30
+71,25/08/2024,74,Paquito Bambury,pbamburyin@csmonitor.com,2,Male,East,57,Magnetic Puzzle Board,Dairy,80,24.99,1859.2559999999996,UPI,Delivered,100,7,Website,Returned,13/05/2024,60
+87,17/06/2024,61,Idaline Glaister,iglaisterio@engadget.com,36,Female,West,30,Apple Cinnamon Instant Oatmeal,Beverages,72,3.49,82.9224,UPI,Delivered,7,67,Phone,Returned,10/09/2024,39
+61,16/11/2024,7,Abigael McEntee,amcenteeip@earthlink.net,22,Female,South,47,Wireless Security Camera,Frozen Foods,82,109.99,1894.0277999999998,Cash on Delivery,Shipped,1,79,Website,Returned,09/11/2024,14
+51,25/03/2025,98,Elvyn Rolls,erollsiq@photobucket.com,15,Male,East,26,USB Flash Drive,Snacks,45,9.99,148.3515,UPI,Shipped,21,67,App,Returned,22/03/2025,41
+75,24/01/2025,64,Verna Skeats,vskeatsir@npr.org,38,Female,East,98,Tuscan Bean Soup,Dairy,65,2.49,147.28350000000003,Credit Card,Delivered,74,9,Phone,Returned,27/02/2025,22
+91,18/11/2024,35,Lyndy Arrigo,larrigois@vistaprint.com,98,Female,West,35,Adjustable Standing Desk,Snacks,85,299.99,15299.49,Cash on Delivery,Pending,52,40,App,Returned,07/12/2024,37
+22,01/10/2024,33,Vachel McGraffin,vmcgraffinit@twitter.com,92,Male,East,92,Glass Water Bottle,Dairy,9,25.99,79.5294,Cash on Delivery,Shipped,12,66,Website,Returned,20/04/2024,74
+25,20/01/2025,25,Emelina Quickenden,equickendeniu@cisco.com,69,Female,North,97,Wireless Gaming Headset,Beverages,85,89.99,6348.794499999999,UPI,Shipped,64,17,Phone,Returned,19/10/2024,91
+82,16/02/2025,71,Dorisa Tedder,dtedderiv@hexun.com,18,Female,East,83,Mesh Sports Leggings,Snacks,58,39.99,2180.2548,Cash on Delivery,Delivered,70,6,Phone,Returned,25/08/2024,84
+85,22/06/2024,30,Christen Billson,cbillsoniw@uol.com.br,52,Female,East,19,Cranberry Orange Oatmeal,Beverages,75,2.49,119.52000000000002,Credit Card,Delivered,20,36,Phone,Returned,19/12/2024,63
+75,22/03/2025,56,Lindon McMichael,lmcmichaelix@berkeley.edu,39,Male,West,61,Electric Meat Grinder,Bakery,75,89.99,4387.0125,Debit Card,Pending,54,35,Phone,Returned,10/04/2025,84
+52,29/03/2025,80,Rodina Bruyet,rbruyetiy@exblog.jp,28,Female,East,35,Organic Blueberries,Dairy,36,5.49,86.96159999999999,Cash on Delivery,Delivered,38,56,Website,Returned,25/03/2025,20
+57,11/05/2024,65,Purcell Muckleston,pmucklestoniz@opensource.org,95,Male,South,4,Spicy Kimchi,Bakery,93,4.79,329.6478,Debit Card,Pending,70,26,Website,Returned,24/11/2024,45
+8,18/04/2024,39,Bent O'Dwyer,bodwyerj0@army.mil,70,Male,East,66,Portable Dog Water Bottle,Frozen Foods,44,18.99,534.7583999999999,Credit Card,Delivered,99,36,App,Returned,27/12/2024,82
+69,14/10/2024,56,Olimpia Davidavidovics,odavidavidovicsj1@time.com,39,Female,South,1,Blue Denim Jeans,Frozen Foods,73,49.99,2590.9817,UPI,Shipped,53,29,Phone,Returned,11/08/2024,69
+84,04/04/2025,100,Boyce Zucker,bzuckerj2@prnewswire.com,80,Male,West,70,Zucchini Noodle Pasta,Snacks,52,3.99,82.99200000000002,Credit Card,Cancelled,43,60,App,Returned,29/08/2024,25
+81,02/08/2024,4,Kalil Caldecot,kcaldecotj3@disqus.com,34,Male,South,28,Salsa,Beverages,9,3.49,29.8395,Cash on Delivery,Delivered,52,5,App,Returned,08/01/2025,71
+14,29/07/2024,33,Netti Peatman,npeatmanj4@ox.ac.uk,46,Female,West,38,Kids' Gardening Kit,Frozen Foods,38,24.99,750.1998,Cash on Delivery,Pending,32,21,Phone,Returned,25/05/2024,38
+13,31/03/2025,70,Augusto Hann,ahannj5@princeton.edu,54,Male,North,78,Coloring Books for Adults,Snacks,17,14.99,127.415,Cash on Delivery,Delivered,42,50,App,Returned,15/04/2024,65
+40,12/06/2024,31,Barb Trace,btracej6@prlog.org,10,Female,West,23,Oven Mitts,Snacks,47,15.99,285.5814,Credit Card,Shipped,94,62,Website,Returned,14/09/2024,28
+2,26/12/2024,82,Aurelea Rubinivitz,arubinivitzj7@rakuten.co.jp,76,Female,East,60,Mashed Sweet Potatoes,Beverages,52,3.99,143.1612,Cash on Delivery,Delivered,52,31,App,Returned,10/07/2024,54
+24,19/04/2024,76,Florette Doey,fdoeyj8@marketwatch.com,26,Female,South,44,LED Disco Ball Light,Dairy,92,19.99,735.6320000000001,Debit Card,Shipped,50,60,Website,Returned,14/07/2024,66
+20,07/09/2024,96,Maryl Hindhaugh,mhindhaughj9@mac.com,87,Female,North,29,Blue Corn Tortilla Chips,Bakery,43,3.49,49.5231,Credit Card,Cancelled,4,67,Website,Returned,04/03/2025,6
+90,08/12/2024,14,Nannette Findlater,nfindlaterja@ft.com,82,Female,North,11,Ceramic Non-Stick Frying Pan,Snacks,38,39.99,911.772,Credit Card,Delivered,18,40,App,Returned,04/11/2024,99
+55,20/08/2024,8,Wallie Roalfe,wroalfejb@bluehost.com,44,Female,South,15,Cabbage Slaw Mix,Beverages,17,2.29,7.785999999999998,Cash on Delivery,Pending,54,80,Website,Returned,15/04/2024,74
+3,19/08/2024,22,Jean D'Ambrogi,jdambrogijc@census.gov,71,Male,South,40,Organic Granola,Dairy,39,5.49,143.4537,Cash on Delivery,Cancelled,23,33,Phone,Returned,02/04/2025,35
+37,23/01/2025,16,Moise Amaya,mamayajd@altervista.org,71,Male,North,25,Gaming Headset,Dairy,23,69.99,112.68389999999992,UPI,Shipped,57,93,Phone,Returned,29/07/2024,44
+3,10/09/2024,42,Raviv Bodycomb,rbodycombje@loc.gov,9,Male,East,72,Wall Calendar,Dairy,83,17.99,746.5849999999999,Debit Card,Delivered,49,50,Website,Returned,28/08/2024,15
+88,11/03/2025,95,Art Detloff,adetloffjf@storify.com,95,Male,West,19,Glass Water Bottle,Bakery,89,25.99,1225.9482999999998,UPI,Shipped,41,47,App,Returned,29/01/2025,44
+47,27/12/2024,62,Eloisa Bottrill,ebottrilljg@va.gov,96,Female,West,67,Savory Breakfast Sausage,Bakery,90,6.49,356.301,UPI,Shipped,99,39,Phone,Returned,25/02/2025,77
+49,21/04/2024,74,Goldy Mettrick,gmettrickjh@webeden.co.uk,12,Female,East,25,Fitness Smartwatch,Bakery,18,99.99,899.91,Credit Card,Shipped,86,50,App,Returned,02/10/2024,26
+58,03/05/2024,4,Korry Ockenden,kockendenji@cdbaby.com,81,Female,North,43,Baby Safety Corner Guards,Frozen Foods,16,9.99,11.188799999999992,Cash on Delivery,Pending,83,93,Phone,Returned,24/09/2024,22
+8,18/07/2024,58,Rosemaria Boorer,rboorerjj@walmart.com,27,Female,East,91,Floral Summer Dress,Snacks,80,39.99,1119.72,Cash on Delivery,Shipped,97,65,Phone,Returned,22/04/2024,96
+74,07/09/2024,47,Ilse Jenton,ijentonjk@symantec.com,19,Female,East,42,Thai Green Curry Paste,Snacks,31,2.49,71.01480000000001,Credit Card,Shipped,51,8,Phone,Returned,10/06/2024,44
+72,24/05/2024,11,Noble Soffe,nsoffejl@bloomberg.com,58,Male,East,98,Non-Stick Crepe Pan,Dairy,33,29.99,663.0788999999999,Credit Card,Delivered,40,33,App,Returned,13/12/2024,21
+39,25/04/2024,60,Fanya Biasetti,fbiasettijm@twitter.com,6,Female,North,72,Slim Wallet,Bakery,11,24.99,24.74009999999999,Cash on Delivery,Cancelled,47,91,Phone,Returned,28/02/2025,45
+26,11/03/2025,4,Torin Coulthurst,tcoulthurstjn@sakura.ne.jp,41,Male,West,67,Pest Control Traps,Snacks,70,22.99,724.185,Debit Card,Cancelled,62,55,Phone,Returned,18/03/2025,51
+32,29/11/2024,23,Florie Conkay,fconkayjo@google.cn,82,Female,East,35,Lightweight Travel Backpack,Dairy,52,39.99,852.5868,Debit Card,Pending,26,59,App,Returned,25/09/2024,76
+75,24/08/2024,64,Ottilie Ablett,oablettjp@alexa.com,60,Female,East,60,Pumpkin Puree,Dairy,98,2.99,2.930200000000003,UPI,Cancelled,96,99,Phone,Returned,30/04/2024,24
+66,18/09/2024,71,Terry Cartman,tcartmanjq@phoca.cz,68,Male,South,22,Brazil Nuts,Snacks,73,10.99,505.4301,UPI,Cancelled,55,37,App,Returned,22/05/2024,39
+89,25/04/2024,25,Berti Sands-Allan,bsandsallanjr@lycos.com,5,Male,North,28,Chicken Sausage,Snacks,8,6.99,34.6704,Cash on Delivery,Delivered,1,38,Phone,Returned,27/04/2024,87
+1,21/10/2024,87,Heriberto Halksworth,hhalksworthjs@skyrock.com,9,Male,West,71,Honey Roasted Almonds,Bakery,57,4.99,281.58570000000003,Debit Card,Shipped,100,1,Website,Returned,23/07/2024,92
+5,07/11/2024,86,Sigfried Denyukhin,sdenyukhinjt@furl.net,59,Male,North,44,Eco-Friendly Stainless Steel Straws,Beverages,32,12.99,145.488,Debit Card,Delivered,95,65,Phone,Returned,09/01/2025,24
+74,20/09/2024,88,Griffin Berntssen,gberntssenju@nasa.gov,30,Male,North,64,LED Desk Lamp,Dairy,33,35.0,127.04999999999998,UPI,Pending,34,89,Website,Returned,18/11/2024,86
+14,28/12/2024,70,Hilary Charville,hcharvillejv@biglobe.ne.jp,70,Female,North,38,Poppy Seed Dressing,Beverages,24,3.49,27.6408,Credit Card,Shipped,71,67,Phone,Returned,15/02/2025,62
+100,28/09/2024,7,Margeaux Hallas,mhallasjw@unc.edu,60,Female,East,95,Blackberry Jam,Snacks,97,4.29,241.35540000000003,UPI,Delivered,8,42,App,Returned,11/01/2025,25
+23,20/11/2024,48,Nana Laste,nlastejx@nhs.uk,47,Female,North,52,Travel Document Organizer,Bakery,59,15.99,103.77509999999998,Debit Card,Shipped,70,89,Phone,Returned,13/02/2025,78
+45,12/02/2025,8,Sawyere Bugdale,sbugdalejy@zdnet.com,33,Male,South,16,Balsamic Vinaigrette,Bakery,6,2.69,6.1332,Credit Card,Cancelled,72,62,Phone,Returned,19/11/2024,74
+93,11/05/2024,26,Estelle Gottschalk,egottschalkjz@scribd.com,90,Female,East,72,Fresh Lemons,Frozen Foods,6,0.75,3.42,Debit Card,Pending,7,24,App,Returned,19/05/2024,26
+85,22/10/2024,82,Adrea Ifill,aifillk0@miibeian.gov.cn,15,Female,North,22,Mini Electric Kettle,Dairy,89,29.99,1654.8481999999997,Credit Card,Delivered,21,38,Phone,Returned,24/06/2024,80
+33,23/06/2024,7,Charisse O'Spillane,cospillanek1@huffingtonpost.com,45,Female,North,98,Smartphone Hand Grip,Snacks,60,9.99,479.52,Debit Card,Delivered,37,20,Phone,Returned,06/02/2025,81
+19,07/06/2024,21,Jamie Locker,jlockerk2@chronoengine.com,81,Female,East,34,LED Desk Lamp with USB Charging Port,Snacks,6,29.99,32.38920000000001,Debit Card,Pending,92,82,Website,Returned,08/06/2024,39
+90,14/01/2025,92,Nola Morsom,nmorsomk3@dropbox.com,70,Female,South,37,Vegetable Quinoa Bowl,Beverages,65,5.99,245.2905,Cash on Delivery,Cancelled,21,37,Phone,Returned,03/09/2024,17
+53,29/07/2024,65,Lura Andrivel,landrivelk4@spotify.com,47,Female,West,87,Vegan Mac & Cheese,Dairy,59,8.99,286.4214,Credit Card,Pending,58,46,Phone,Returned,17/03/2025,30
+47,23/02/2025,70,Marleah Stonehewer,mstonehewerk5@msu.edu,87,Female,South,48,Wireless Security Camera,Dairy,4,109.99,400.3636,UPI,Delivered,93,9,Phone,Returned,11/03/2025,23
+70,23/11/2024,64,Jaynell Beecroft,jbeecroftk6@wordpress.org,10,Female,East,4,Belted Trench Coat,Dairy,97,89.99,4015.353799999999,Credit Card,Shipped,78,54,Phone,Returned,29/04/2024,26
+59,13/07/2024,75,Giselle Claypole,gclaypolek7@mail.ru,58,Female,North,73,Travel Jewelry Case,Dairy,57,24.99,1082.5667999999998,UPI,Shipped,30,24,App,Returned,16/07/2024,38
+25,26/05/2024,70,Arne Saldler,asaldlerk8@narod.ru,55,Male,South,3,Habanero Hot Sauce,Dairy,25,3.79,27.477500000000003,Cash on Delivery,Pending,31,71,Website,Returned,09/11/2024,93
+66,19/03/2025,51,Finley Farrear,ffarreark9@soundcloud.com,12,Male,West,10,Pineapple Rings,Frozen Foods,39,2.49,55.35270000000001,UPI,Pending,86,43,Phone,Returned,28/04/2024,26
+74,18/05/2024,49,Darrell Helgass,dhelgasska@oaic.gov.au,80,Male,North,24,Breathable Face Mask Set,Dairy,17,14.99,206.41230000000002,Cash on Delivery,Delivered,27,19,App,Returned,06/07/2024,14
+57,09/12/2024,4,Rob Oneill,roneillkb@amazon.de,1,Male,North,21,Chocolate Almond Milk,Dairy,43,2.79,77.9805,Debit Card,Pending,56,35,App,Returned,07/08/2024,23
+54,19/03/2025,5,Bernita Antoshin,bantoshinkc@desdev.cn,75,Female,West,68,Denim Jacket,Bakery,97,69.99,6042.2366999999995,Credit Card,Pending,62,11,Phone,Returned,25/09/2024,96
+12,24/09/2024,56,Kellia Skatcher,kskatcherkd@miitbeian.gov.cn,14,Female,North,33,Electric Hot Water Dispenser,Frozen Foods,27,59.99,1230.9948,Cash on Delivery,Delivered,28,24,Phone,Returned,29/11/2024,88
+27,03/03/2025,90,Ricard Tilburn,rtilburnke@nbcnews.com,31,Male,West,69,Quality Chef Apron,Beverages,52,19.99,873.1632,UPI,Cancelled,94,16,App,Returned,12/12/2024,88
+43,12/11/2024,69,Haywood Brendish,hbrendishkf@drupal.org,20,Male,West,3,Gardening Gloves with Claws,Dairy,74,24.99,1664.334,Cash on Delivery,Shipped,29,10,Website,Returned,14/01/2025,47
+40,20/10/2024,76,Etheline Beisley,ebeisleykg@yahoo.co.jp,3,Female,West,77,Rechargeable Laptop Battery Pack,Bakery,95,49.99,3181.8635,Cash on Delivery,Shipped,85,33,App,Returned,23/05/2024,81
+31,24/12/2024,58,Saloma Cavil,scavilkh@noaa.gov,69,Female,South,44,Portable Pet Stroller,Snacks,52,89.99,608.3324,Cash on Delivery,Delivered,78,87,App,Returned,24/06/2024,82
+35,14/09/2024,17,Milissent Treneer,mtreneerki@usnews.com,27,Female,North,23,Caramelized Onion Dip,Dairy,16,3.99,29.3664,Cash on Delivery,Cancelled,55,54,Website,Returned,28/06/2024,59
+15,06/01/2025,69,Shay Gianolini,sgianolinikj@dailymotion.com,86,Female,West,86,Garden Tool Set with Carrying Bag,Bakery,32,39.99,716.6208000000001,Credit Card,Shipped,70,44,Website,Returned,28/06/2024,32
+42,28/12/2024,94,Olenka Croasdale,ocroasdalekk@joomla.org,71,Female,East,33,Travel Jewelry Case,Frozen Foods,65,24.99,1559.3759999999997,Cash on Delivery,Pending,24,4,App,Returned,22/05/2024,7
+61,07/07/2024,57,Ilaire McGarrahan,imcgarrahankl@archive.org,68,Male,South,8,Yoga Wheel,Bakery,26,34.99,627.7206,Debit Card,Pending,14,31,App,Returned,08/09/2024,84
+46,11/04/2024,63,Cash Hutley,chutleykm@creativecommons.org,39,Male,North,42,Zesty Cilantro Lime Dressing,Snacks,52,3.29,8.554000000000007,UPI,Cancelled,37,95,Website,Returned,24/08/2024,75
+32,09/06/2024,2,Cicily Domney,cdomneykn@smugmug.com,30,Female,North,71,Chickpea Salad Deluxe,Bakery,68,4.29,116.68800000000002,Debit Card,Delivered,41,60,Website,Returned,26/07/2024,92
+31,10/06/2024,53,Bartram Bunce,bbunceko@census.gov,25,Male,North,84,Peach Slices (canned),Bakery,19,2.49,39.7404,UPI,Pending,30,16,Phone,Returned,14/08/2024,52
+77,28/12/2024,28,Henry Simoni,hsimonikp@goo.gl,75,Male,West,25,Almond Joy Munch Bars,Bakery,46,1.39,27.494200000000003,Cash on Delivery,Pending,91,57,App,Returned,01/09/2024,10
+93,30/12/2024,64,Gabbie Beurich,gbeurichkq@lulu.com,85,Male,West,21,Granola Cereal,Snacks,17,4.49,1.5266000000000013,UPI,Shipped,75,98,App,Returned,29/05/2024,13
+59,31/01/2025,62,Brandie Stuffins,bstuffinskr@china.com.cn,93,Female,West,6,Digital Alarm Clock,Dairy,58,19.99,579.7099999999999,Debit Card,Pending,24,50,Website,Returned,12/08/2024,58
+48,09/01/2025,67,Gardie Wherrett,gwherrettks@sourceforge.net,21,Male,South,88,Home Delivery Food Journal,Snacks,59,14.99,61.90869999999995,Credit Card,Shipped,30,93,Website,Returned,10/06/2024,24
+99,20/04/2024,94,Davy Cowerd,dcowerdkt@ucsd.edu,31,Male,East,65,Travel Sewing Kit,Bakery,84,12.99,949.3092,Debit Card,Pending,89,13,Phone,Returned,13/01/2025,69
+44,07/10/2024,14,Giorgia Linnit,glinnitku@smugmug.com,79,Female,West,36,Frozen Broccoli,Dairy,12,2.49,14.641200000000001,Cash on Delivery,Pending,27,51,App,Returned,01/10/2024,72
+48,01/03/2025,53,Vilma Davison,vdavisonkv@soup.io,90,Female,North,90,Cat Scratching Post with Toys,Dairy,5,44.99,101.22749999999999,UPI,Pending,3,55,Phone,Returned,12/11/2024,28
+42,21/06/2024,57,Hurley Bright,hbrightkw@newsvine.com,47,Male,West,5,Portable Camping Shower,Bakery,65,39.99,233.9414999999999,Credit Card,Shipped,39,91,Phone,Returned,13/02/2025,54
+73,18/11/2024,57,Rosanna Hulance,rhulancekx@unblog.fr,12,Female,West,51,Chiffon Blouse,Snacks,35,39.99,783.8040000000001,Cash on Delivery,Cancelled,7,44,Phone,Returned,11/03/2025,43
+70,24/06/2024,13,Carlos Adamov,cadamovky@bigcartel.com,6,Male,East,43,Frozen Vegetarian Pizza,Snacks,60,6.49,66.19800000000002,Credit Card,Shipped,13,83,App,Returned,22/05/2024,74
+78,30/08/2024,57,Carl Suett,csuettkz@goo.ne.jp,38,Male,South,69,Pet Leash,Snacks,42,15.99,87.3054,UPI,Shipped,96,87,App,Returned,06/07/2024,100
+73,18/08/2024,69,Rudolfo Copnell,rcopnelll0@fastcompany.com,16,Male,South,12,Electric Butter Churn,Beverages,8,49.99,239.952,Debit Card,Shipped,61,40,App,Returned,01/04/2025,62
+98,26/11/2024,50,Flory Pembridge,fpembridgel1@sbwire.com,71,Female,South,40,Fitness Tracker,Bakery,39,49.99,916.3167,Debit Card,Cancelled,47,53,Website,Returned,06/03/2025,15
+47,03/02/2025,24,Dyna Varfolomeev,dvarfolomeevl2@tiny.cc,22,Female,North,84,Smart Wi-Fi Camera,Dairy,85,89.99,2294.7450000000003,UPI,Pending,42,70,App,Returned,17/05/2024,82
+3,13/08/2024,91,Verne World,vworldl3@360.cn,64,Male,South,7,Insulated Cooler,Frozen Foods,1,39.99,37.9905,Debit Card,Delivered,91,5,App,Returned,05/05/2024,23
+9,30/05/2024,27,Leilah Swinfen,lswinfenl4@gizmodo.com,14,Female,West,2,Ginger Turmeric Shots,Bakery,55,3.99,6.583500000000006,Credit Card,Cancelled,91,97,App,Returned,20/11/2024,76
+33,13/06/2024,31,Dominique Pendell,dpendelll5@vistaprint.com,75,Male,West,26,Blue Corn Tortilla Chips,Bakery,59,3.49,201.79180000000002,Debit Card,Cancelled,90,2,Website,Returned,19/12/2024,59
+98,01/06/2024,32,Jarret Roskrug,jroskrugl6@pcworld.com,37,Male,South,25,Coconut Yogurt,Snacks,15,3.89,8.752500000000001,UPI,Cancelled,58,85,Phone,Returned,11/06/2024,99
+22,26/04/2024,7,Arlinda Shaw,ashawl7@about.com,100,Female,East,29,Legging Pants,Frozen Foods,34,34.99,71.37960000000007,UPI,Cancelled,65,94,App,Returned,31/10/2024,67
+11,24/04/2024,64,Granthem McVie,gmcviel8@clickbank.net,14,Male,North,79,Chili Powder,Frozen Foods,38,2.09,14.295600000000002,Debit Card,Pending,68,82,App,Returned,24/10/2024,72
+23,15/06/2024,62,Glenda O' Byrne,gol9@youtu.be,39,Female,North,9,Spinach and Feta Wraps,Dairy,63,4.99,94.31100000000002,Debit Card,Delivered,11,70,App,Returned,11/05/2024,46
+98,02/11/2024,89,Muhammad Cheney,mcheneyla@sbwire.com,20,Male,North,45,Chopping Board,Snacks,74,29.99,1020.8595999999998,Cash on Delivery,Delivered,92,54,Website,Returned,03/08/2024,38
+50,09/01/2025,58,Billi Phipson,bphipsonlb@ebay.com,38,Female,East,78,Electric Milk Frother,Frozen Foods,10,19.99,31.984,Debit Card,Cancelled,71,84,App,Returned,21/12/2024,57
+49,26/06/2024,38,Abie Searl,asearllc@oakley.com,15,Male,North,8,Adjustable Height Standing Desk Converter,Beverages,1,89.99,19.797799999999995,UPI,Pending,42,78,Website,Returned,08/04/2025,96
+40,13/04/2024,16,Rudolph Haskur,rhaskurld@spotify.com,94,Male,South,99,Vanilla Protein Powder,Frozen Foods,57,24.99,640.9934999999998,Credit Card,Shipped,54,55,App,Returned,04/06/2024,29
+23,21/05/2024,81,Farah Kaes,fkaesle@gnu.org,70,Female,West,9,Pasta Sauce Mix,Dairy,40,1.29,9.803999999999997,Credit Card,Delivered,51,81,Website,Returned,26/01/2025,97
+82,15/08/2024,62,Maynard Towsie,mtowsielf@yolasite.com,39,Male,North,3,Savory Oatmeal Cups,Frozen Foods,2,1.99,2.7462,UPI,Shipped,34,31,App,Returned,30/12/2024,15
+19,21/01/2025,83,Adorne Izard,aizardlg@imageshack.us,87,Female,South,31,Dark Chocolate Covered Raisins,Beverages,60,3.99,105.33599999999998,Credit Card,Delivered,69,56,Phone,Returned,28/08/2024,6
+80,04/05/2024,33,Jelene Quig,jquiglh@sciencedaily.com,78,Female,North,6,Window Bird Feeder with Suction Cups,Beverages,93,28.99,188.72489999999985,Debit Card,Delivered,1,93,App,Returned,17/01/2025,71
+91,02/04/2025,69,Derrick Cargill,dcargillli@hud.gov,10,Male,South,42,Plant-Based Meal Prep Containers,Snacks,72,18.99,505.8936,Credit Card,Pending,21,63,Website,Returned,30/12/2024,67
+94,09/11/2024,14,Thaine Bardsley,tbardsleylj@wikimedia.org,8,Male,North,83,Garden Hoses with Expandable Features,Beverages,7,34.99,61.2325,Credit Card,Shipped,24,75,Phone,Returned,06/12/2024,56
+77,24/04/2024,7,Cynthie Musto,cmustolk@latimes.com,31,Female,East,39,Travel Mug,Frozen Foods,65,18.99,432.0224999999999,Cash on Delivery,Pending,24,65,Phone,Returned,27/07/2024,60
+48,14/07/2024,63,Magda Dran,mdranll@i2i.jp,77,Female,South,78,Compact Shoe Rack,Snacks,97,34.99,1018.2090000000002,UPI,Shipped,76,70,Website,Returned,30/10/2024,86
+43,26/12/2024,29,Jacquette Behling,jbehlinglm@macromedia.com,23,Female,South,50,Athletic Compression Tights,Bakery,28,39.99,190.35240000000005,Cash on Delivery,Delivered,98,83,Phone,Returned,07/05/2024,95
+7,16/06/2024,92,Ewan Showering,eshoweringln@weather.com,11,Male,West,63,Pet Grooming Kit,Bakery,78,39.99,499.07520000000017,UPI,Shipped,84,84,App,Returned,15/12/2024,41
+100,05/07/2024,36,Meggy Risby,mrisbylo@e-recht24.de,86,Female,East,24,Organic Sweet Potatoes,Snacks,61,1.99,37.630900000000004,Cash on Delivery,Pending,52,69,Website,Returned,23/08/2024,79
+50,07/12/2024,60,Siouxie Muldownie,smuldownielp@bloomberg.com,52,Female,North,52,Coconut Curry Lentil Soup,Bakery,64,3.99,25.535999999999994,Credit Card,Shipped,63,90,Phone,Returned,19/04/2024,72
+82,11/10/2024,17,Amity Waslin,awaslinlq@alibaba.com,38,Female,East,83,Canned Sardines,Frozen Foods,2,3.29,1.645,Debit Card,Cancelled,82,75,App,Returned,01/12/2024,66
+55,09/07/2024,29,Devon Boards,dboardslr@theguardian.com,22,Female,West,58,Chocolate Dipped Fruit,Beverages,62,5.99,137.4106,Cash on Delivery,Delivered,84,63,Website,Returned,05/01/2025,80
+60,13/07/2024,89,Pooh Salvati,psalvatils@salon.com,17,Male,North,31,Classic Bagels,Beverages,97,2.99,182.71890000000002,UPI,Cancelled,81,37,Phone,Returned,17/02/2025,45
+51,27/12/2024,12,Ezechiel Tuvey,etuveylt@flavors.me,81,Male,South,40,Rechargeable Hand Warmer,Bakery,69,22.99,555.2085,Cash on Delivery,Cancelled,10,65,Website,Returned,19/04/2024,78
+35,18/07/2024,22,Armando Delahunty,adelahuntylu@macromedia.com,46,Male,South,16,Golf Putting Green,Frozen Foods,9,79.99,7.199100000000006,Debit Card,Pending,37,99,Website,Returned,24/03/2025,63
+44,15/03/2025,18,Chloe Linton,clintonlv@springer.com,74,Female,South,89,Grapes (red),Dairy,44,3.49,133.59720000000002,Debit Card,Delivered,80,13,Website,Returned,10/03/2025,67
+33,16/08/2024,67,Florenza Cutts,fcuttslw@ifeng.com,79,Female,North,3,Teriyaki Stir-Fry Sauce,Frozen Foods,20,3.49,27.222000000000005,UPI,Shipped,17,61,Phone,Returned,13/04/2024,25
+58,05/06/2024,21,Annette Bedingfield,abedingfieldlx@dell.com,79,Female,East,74,Bamboo Toothbrush,Frozen Foods,7,5.99,10.0632,Cash on Delivery,Delivered,49,76,App,Returned,30/11/2024,50
+1,12/01/2025,74,Roth Jaslem,rjaslemly@apple.com,45,Male,South,28,Weighted Jump Rope with Counter,Frozen Foods,41,14.99,36.875400000000035,Debit Card,Delivered,16,94,App,Returned,28/07/2024,41
+96,25/09/2024,86,Carce Lytlle,clytllelz@digg.com,47,Male,North,35,Sketchbook,Dairy,67,14.99,70.30309999999996,Debit Card,Cancelled,10,93,Phone,Returned,20/09/2024,90
+20,12/03/2025,53,Meredithe Mazella,mmazellam0@gravatar.com,43,Female,West,30,Organic Almonds,Frozen Foods,91,8.99,286.3315,Credit Card,Delivered,47,65,App,Returned,12/03/2025,90
+6,30/04/2024,63,Lorie Drohun,ldrohunm1@java.com,9,Female,West,41,LED Flashing Pet Collar,Dairy,61,14.99,731.5120000000001,Debit Card,Cancelled,27,20,Phone,Returned,14/11/2024,82
+52,11/11/2024,75,Dari Willishire,dwillishirem2@360.cn,5,Female,South,88,Hibiscus Tea Bags,Dairy,28,3.79,72.16159999999999,Cash on Delivery,Delivered,28,32,App,Returned,09/11/2024,56
+27,16/04/2024,25,Lon Welberry,lwelberrym3@artisteer.com,43,Male,South,12,Rice Noodles,Bakery,4,3.49,6.840400000000001,UPI,Pending,3,51,App,Returned,21/04/2024,38
+33,05/09/2024,33,Tisha Beckles,tbecklesm4@bizjournals.com,69,Female,West,99,Honey Roasted Chickpeas,Snacks,69,3.29,93.0741,Credit Card,Cancelled,54,59,Website,Returned,13/10/2024,80
+8,10/02/2025,43,Dimitry Larkin,dlarkinm5@google.es,92,Male,East,3,Wireless Charger Stand,Dairy,92,24.99,1126.5492,Debit Card,Delivered,76,51,Website,Returned,22/09/2024,42
+89,04/12/2024,76,Bale Burless,bburlessm6@discovery.com,58,Male,East,52,Linen Trousers,Beverages,2,44.99,36.8918,Credit Card,Delivered,21,59,App,Returned,27/12/2024,43
+80,25/12/2024,20,Helsa Sacaze,hsacazem7@flavors.me,50,Female,North,59,Pineapple Rings,Bakery,92,2.49,144.3204,Credit Card,Pending,75,37,App,Returned,02/09/2024,66
+60,09/01/2025,88,Bradford Itzcovich,bitzcovichm8@walmart.com,75,Male,North,58,Magnetic Curtain Tiebacks,Beverages,32,12.99,374.112,Cash on Delivery,Delivered,73,10,Phone,Returned,15/08/2024,59
+60,08/05/2024,35,Grace Halleybone,ghalleybonem9@redcross.org,96,Male,East,24,Home Cleaning Robot,Dairy,58,249.99,10439.5824,UPI,Cancelled,37,28,Phone,Returned,16/01/2025,2
+64,28/02/2025,22,Kahaleel Sendley,ksendleyma@rediff.com,43,Male,West,96,Suction Cup Hooks,Frozen Foods,28,9.99,75.52440000000001,UPI,Pending,41,73,Website,Returned,11/06/2024,21
+56,03/07/2024,94,Dawna Sandeland,dsandelandmb@smh.com.au,98,Female,North,46,Brown Sugar,Dairy,98,1.79,110.51460000000002,UPI,Delivered,98,37,Website,Returned,02/09/2024,55
+44,01/01/2025,28,Teriann Dahlberg,tdahlbergmc@vkontakte.ru,11,Female,West,53,Air Purifier,Bakery,48,129.99,3556.5264000000006,Credit Card,Pending,30,43,Website,Returned,21/02/2025,60
+34,21/02/2025,36,Emmerich Mellanby,emellanbymd@php.net,11,Male,South,2,Vacuum Sealer Machine,Bakery,29,89.99,600.2333,Debit Card,Delivered,28,77,App,Returned,31/10/2024,59
+11,21/04/2024,15,Marlowe Luckman,mluckmanme@google.it,56,Male,South,31,Overnight Hiking Backpack,Bakery,9,79.99,381.5523,UPI,Pending,95,47,App,Returned,22/11/2024,25
+56,26/04/2024,63,Crystie Droghan,cdroghanmf@unc.edu,42,Female,East,34,Portable Solar Phone Charger,Snacks,42,29.99,957.2808,Debit Card,Pending,85,24,Phone,Returned,08/08/2024,71
+26,01/01/2025,62,Whit Coping,wcopingmg@vinaora.com,49,Male,North,15,Classic Beef Chili,Beverages,100,7.99,639.2,Cash on Delivery,Shipped,68,20,Phone,Returned,16/10/2024,58
+72,17/09/2024,42,Myer Nazareth,mnazarethmh@mail.ru,92,Male,South,62,Electric Knife,Dairy,12,39.99,287.928,Credit Card,Delivered,5,40,App,Returned,08/04/2025,19
+73,05/01/2025,54,Shirleen Binns,sbinnsmi@bloglines.com,53,Female,West,93,Spicy Tuna Sushi Kit,Bakery,74,8.99,658.6074,UPI,Shipped,61,1,Phone,Returned,03/10/2024,84
+79,20/08/2024,23,Ward Sellman,wsellmanmj@jimdo.com,20,Male,South,85,Plant-Based Protein Bars,Snacks,4,19.99,43.178399999999996,Cash on Delivery,Shipped,74,46,Phone,Returned,18/04/2024,41
+84,06/07/2024,86,Avivah Scarse,ascarsemk@altervista.org,10,Female,North,51,Honeycrisp Apples,Beverages,77,1.89,8.731800000000009,Cash on Delivery,Pending,36,94,Website,Returned,15/03/2025,20
+44,20/06/2024,27,Windham Sandbrook,wsandbrookml@unesco.org,45,Male,South,23,Maple Bacon Jerky,Snacks,72,6.99,493.2144,Debit Card,Delivered,73,2,Phone,Returned,29/07/2024,50
+65,14/05/2024,87,Mufinella Luckings,mluckingsmm@baidu.com,29,Female,North,72,Mediterranean Olives,Beverages,61,6.49,134.6026,Cash on Delivery,Delivered,27,66,Website,Returned,12/05/2024,10
+14,19/05/2024,42,Jammie Suston,jsustonmn@techcrunch.com,27,Female,West,67,Vegan chocolate chip cookies,Snacks,77,4.79,295.064,Credit Card,Cancelled,94,20,Phone,Returned,02/11/2024,77
+8,16/06/2024,2,Seth Walewicz,swalewiczmo@statcounter.com,48,Male,East,78,Camping Tent,Snacks,48,79.99,1497.4127999999998,Debit Card,Shipped,75,61,App,Returned,09/01/2025,50
+93,29/09/2024,30,Adria Buggs,abuggsmp@cdbaby.com,48,Female,East,33,Maple Bacon Popcorn,Frozen Foods,97,3.49,111.7149,Cash on Delivery,Cancelled,70,67,Phone,Returned,29/05/2024,6
+3,30/03/2025,25,Amalle Wickman,awickmanmq@cdc.gov,39,Female,North,2,Electric Butter Churn,Snacks,73,49.99,2335.5328,Debit Card,Delivered,59,36,Phone,Returned,27/12/2024,30
+16,03/07/2024,70,Mina Dallinder,mdallindermr@hibu.com,4,Female,South,44,Butternut Squash Soup,Dairy,81,3.49,217.6713,Debit Card,Shipped,23,23,App,Returned,20/03/2025,65
+98,29/11/2024,72,Bond Ingman,bingmanms@yellowbook.com,65,Male,North,13,Kids' Gardening Tools Set,Snacks,25,22.99,482.78999999999996,Debit Card,Delivered,58,16,Phone,Returned,21/10/2024,19
+31,27/02/2025,43,Thacher Hurton,thurtonmt@jugem.jp,29,Male,South,65,Tomato Basil Pasta Sauce,Snacks,24,3.99,82.3536,Credit Card,Cancelled,92,14,App,Returned,15/12/2024,53
+54,27/05/2024,95,Julienne Gantlett,jgantlettmu@mlb.com,32,Female,South,18,Organic Spinach,Bakery,90,2.99,153.38700000000003,Cash on Delivery,Delivered,13,43,Website,Returned,24/08/2024,17
+24,12/03/2025,48,Dareen Grichukhin,dgrichukhinmv@wordpress.org,24,Female,North,15,Mango Sticky Rice Dessert,Frozen Foods,20,4.5,88.2,UPI,Cancelled,56,2,Phone,Returned,06/01/2025,11
+35,09/04/2025,75,Chane Kornacki,ckornackimw@1688.com,79,Male,North,71,Electric Skillet,Dairy,93,49.99,3719.2560000000008,Cash on Delivery,Shipped,11,20,Website,Returned,22/02/2025,38
+5,16/04/2024,11,Muffin Oret,moretmx@godaddy.com,20,Male,South,76,Car Diagnostic Scanner,Bakery,58,49.99,666.8666,Credit Card,Pending,41,77,Website,Returned,02/10/2024,90
+25,30/11/2024,76,Loni McLugaish,lmclugaishmy@comsenz.com,81,Female,West,28,Shatterproof Wine Glasses,Snacks,5,24.99,41.23349999999999,Cash on Delivery,Shipped,52,67,Phone,Returned,11/11/2024,87
+64,06/02/2025,88,Andrey Tiron,atironmz@com.com,55,Male,East,73,Silicone Baking Molds,Beverages,99,15.99,411.5826,UPI,Shipped,93,74,Phone,Returned,04/08/2024,16
+14,27/08/2024,70,Filippo Masser,fmassern0@a8.net,94,Male,East,96,Multifunctional Baby Bottle Warmer,Dairy,68,39.99,1278.0804,Debit Card,Cancelled,5,53,Phone,Returned,05/04/2025,57
+96,11/11/2024,42,Neville Behagg,nbehaggn1@accuweather.com,40,Male,South,94,Electric Rice Cooker,Dairy,51,39.99,1651.9869,UPI,Delivered,19,19,Website,Returned,30/01/2025,88
+22,09/07/2024,53,Barbette Sandwith,bsandwithn2@uol.com.br,34,Female,East,48,Kids' Building Blocks,Dairy,80,19.99,575.7119999999999,UPI,Delivered,87,64,Phone,Returned,03/05/2024,15
+77,06/04/2025,83,Elnar Dumblton,edumbltonn3@pagesperso-orange.fr,80,Male,East,87,Self-Inflating Camping Mattress,Frozen Foods,90,49.99,2429.5140000000006,Cash on Delivery,Pending,48,46,Phone,Returned,06/01/2025,95
+52,27/05/2024,87,Artie Simko,asimkon4@nifty.com,35,Male,North,85,Raspberry Limeade,Snacks,10,1.99,11.542,Debit Card,Pending,55,42,App,Returned,04/06/2024,74
+58,03/02/2025,27,Flem Eardley,feardleyn5@github.com,30,Male,North,51,Pumpkin Puree,Snacks,17,2.99,13.724100000000002,UPI,Cancelled,23,73,Website,Returned,12/03/2025,6
+26,29/06/2024,10,Donnell Margerison,dmargerisonn6@npr.org,33,Male,North,36,Chipotle Black Bean Burger,Dairy,94,4.99,159.48039999999997,Cash on Delivery,Delivered,27,66,App,Returned,18/11/2024,10
+37,20/10/2024,78,Lonnard Szantho,lszanthon7@sciencedaily.com,58,Male,East,18,Chili Lime Corn Chips,Frozen Foods,86,2.79,35.99100000000001,Cash on Delivery,Shipped,85,85,Phone,Returned,02/09/2024,15
+12,06/08/2024,7,Solly Woodroofe,swoodroofen8@tripod.com,64,Male,East,19,Tuscan Bean Soup,Frozen Foods,54,2.49,47.061,Debit Card,Delivered,20,65,Phone,Returned,13/11/2024,70
+52,03/07/2024,28,Inesita Sowthcote,isowthcoten9@taobao.com,61,Female,West,41,Over-the-Door Hooks,Bakery,80,12.99,478.032,Debit Card,Cancelled,13,54,Website,Returned,15/07/2024,1
+26,23/05/2024,8,Yancey Piggott,ypiggottna@whitehouse.gov,85,Male,West,15,Tuscan Bean Soup,Snacks,21,2.49,3.6602999999999977,UPI,Delivered,17,93,Website,Returned,06/01/2025,93
+99,10/03/2025,36,Yvette Morfield,ymorfieldnb@fda.gov,63,Female,East,87,Ergonomic Gaming Chair,Bakery,100,199.99,15799.210000000001,Cash on Delivery,Cancelled,98,21,Phone,Returned,24/07/2024,32
+87,05/07/2024,50,Bernarr Robart,brobartnc@utexas.edu,96,Male,West,64,Smartphone Camera Lens Kit,Frozen Foods,30,19.99,371.81399999999996,UPI,Cancelled,62,38,App,Returned,07/03/2025,69
+92,07/04/2025,31,Andra Stiebler,astieblernd@google.com.au,90,Female,West,7,Pet Reflective Vest,Bakery,59,18.99,246.49019999999993,Debit Card,Delivered,66,78,App,Returned,20/04/2024,82
+47,17/04/2024,50,Ashleigh Stobbs,astobbsne@dailymail.co.uk,91,Female,West,77,Cinnamon Apple Sauce,Beverages,96,2.49,200.7936,Credit Card,Cancelled,32,16,Phone,Returned,07/10/2024,23
+72,30/08/2024,40,Salvatore Dyers,sdyersnf@craigslist.org,54,Male,North,25,Plant-Based Cookbook,Dairy,46,29.99,27.590800000000023,UPI,Shipped,74,98,Phone,Returned,14/10/2024,21
+86,05/04/2025,80,Oren Ledeker,oledekerng@wp.com,69,Male,West,99,Electric Meat Grinder,Frozen Foods,22,89.99,910.6987999999999,Credit Card,Cancelled,28,54,App,Returned,09/08/2024,65
+79,09/11/2024,37,Siobhan Nicklin,snicklinnh@etsy.com,10,Female,West,99,Pet Water Bottle,Bakery,59,18.99,661.0419,Credit Card,Shipped,29,41,Phone,Returned,16/01/2025,73
+15,06/07/2024,82,Alfie Finessy,afinessyni@tmall.com,28,Male,East,32,Cheese Stuffed Jalapenos,Frozen Foods,68,5.99,101.83,Credit Card,Cancelled,59,75,Website,Returned,17/12/2024,60
+76,06/02/2025,39,Callie Dunkerton,cdunkertonnj@friendfeed.com,98,Female,South,51,Electric Toothbrush Holder,Beverages,88,14.99,1239.9728,UPI,Shipped,21,6,Website,Returned,21/08/2024,3
+4,26/04/2024,98,Iain Mordanti,imordantink@gov.uk,23,Male,East,49,Set of Silicone Baking Molds,Snacks,84,15.99,792.4644000000002,UPI,Shipped,61,41,Phone,Returned,06/08/2024,38
+69,04/11/2024,88,Zacharie Flockhart,zflockhartnl@fema.gov,84,Male,South,71,Herb Garlic Butter,Dairy,26,3.99,84.02940000000001,Cash on Delivery,Shipped,69,19,App,Returned,25/05/2024,53
+48,30/09/2024,38,Mariska Aiskovitch,maiskovitchnm@ted.com,62,Female,South,58,Flavored Instant Oatmeal,Dairy,94,2.99,230.46920000000003,Credit Card,Shipped,65,18,App,Returned,06/02/2025,90
+45,02/04/2025,9,Care Castella,ccastellann@scribd.com,18,Male,East,8,Ceramic Knife Set,Bakery,66,39.99,2586.5532000000003,Credit Card,Cancelled,76,2,Phone,Returned,26/09/2024,73
+35,05/02/2025,98,Brook Balsdon,bbalsdonno@jiathis.com,14,Male,North,48,Chocolate Coconut Granola,Snacks,88,3.79,220.12319999999997,Debit Card,Delivered,54,34,Phone,Returned,31/07/2024,62
+80,11/10/2024,11,Codie Grinnov,cgrinnovnp@wikispaces.com,90,Male,East,97,Adjustable Laptop Desk,Bakery,93,59.99,2064.2559,Cash on Delivery,Shipped,22,63,Website,Returned,04/05/2024,82
+11,13/11/2024,30,Gretchen Cicccitti,gcicccittinq@illinois.edu,72,Female,North,89,Vegan Protein Powder,Frozen Foods,38,34.99,491.9594,Credit Card,Pending,72,63,App,Returned,02/04/2025,26
+57,08/01/2025,61,Roseline Baldung,rbaldungnr@behance.net,17,Female,North,72,Rice Cakes,Frozen Foods,25,2.29,8.015,Debit Card,Delivered,2,86,App,Returned,13/06/2024,65
+82,07/05/2024,69,Melvin Elsom,melsomns@imgur.com,9,Male,West,93,Greek Feta Cheese,Frozen Foods,44,4.99,131.736,Cash on Delivery,Delivered,45,40,App,Returned,03/06/2024,31
+80,20/08/2024,65,Stirling MacColl,smaccollnt@sphinn.com,69,Male,South,59,Electric Griddle with Removable Plates,Frozen Foods,2,59.99,118.78020000000001,UPI,Pending,95,1,Phone,Returned,22/05/2024,23
+3,14/12/2024,36,Che Cothey,ccotheynu@samsung.com,54,Male,North,71,Trendy Bomber Jacket,Dairy,95,69.99,4853.8065,Cash on Delivery,Shipped,27,27,Website,Returned,23/05/2024,1
+55,26/04/2024,28,Ginni Christopher,gchristophernv@shinystat.com,90,Female,West,67,Graphic Tee,Bakery,30,19.99,563.7179999999998,UPI,Delivered,82,6,Phone,Returned,13/01/2025,89
+34,01/02/2025,45,Lilian Westgate,lwestgatenw@domainmarket.com,91,Female,West,73,Herbed Goat Cheese,Snacks,55,5.49,78.507,Credit Card,Shipped,6,74,Website,Returned,09/10/2024,53
+5,24/01/2025,14,Gordan Hydes,ghydesnx@smh.com.au,22,Male,South,33,Cabbage,Bakery,22,1.29,24.974400000000003,Credit Card,Pending,94,12,Phone,Returned,09/07/2024,45
+86,20/02/2025,3,Vaclav Onyon,vonyonny@netvibes.com,25,Male,South,99,Coconut Lime Rice,Beverages,44,2.99,113.1416,UPI,Pending,11,14,Phone,Returned,25/10/2024,45
+3,27/05/2024,93,Amalita Salvin,asalvinnz@fda.gov,5,Female,North,40,Cilantro Lime Rice,Frozen Foods,43,2.99,84.8562,Cash on Delivery,Delivered,39,34,Website,Returned,08/06/2024,4
+98,14/01/2025,18,Charline Houtbie,choutbieo0@moonfruit.com,47,Female,West,66,Veggie Lovers Pizza,Frozen Foods,95,8.99,153.72900000000004,Cash on Delivery,Cancelled,99,82,App,Returned,06/01/2025,68
+43,12/06/2024,26,Laurene Ridsdell,lridsdello1@noaa.gov,58,Female,South,22,Cauliflower Crust Pizza,Bakery,74,7.99,266.06699999999995,Cash on Delivery,Shipped,95,55,App,Returned,04/08/2024,48
+56,30/03/2025,48,Magdalena Lakey,mlakeyo2@angelfire.com,16,Female,North,68,Inflatable Party Cooler,Bakery,23,19.99,105.74709999999999,UPI,Delivered,38,77,Website,Returned,13/01/2025,5
+79,11/06/2024,77,Konstantine Linsay,klinsayo3@hc360.com,14,Male,North,71,Pet Grooming Glove,Beverages,45,12.99,514.404,Credit Card,Pending,97,12,Phone,Returned,16/10/2024,42
+18,07/06/2024,68,Gonzalo Sobey,gsobeyo4@shop-pro.jp,23,Male,North,54,Homemade Salsa,Dairy,41,3.79,146.0666,Credit Card,Cancelled,86,6,App,Returned,11/09/2024,100
+26,11/08/2024,50,Barr Eaton,beatono5@telegraph.co.uk,61,Male,East,76,Training Soccer Ball,Snacks,46,19.99,395.40220000000005,Cash on Delivery,Shipped,67,57,Phone,Returned,05/05/2024,28
+72,17/10/2024,29,Sigrid Carneck,scarnecko6@tiny.cc,17,Female,South,8,Honey Wheat Pretzels,Bakery,75,3.49,209.4,Credit Card,Cancelled,14,20,Website,Returned,20/11/2024,30
+29,04/02/2025,51,Kerrill Gorham,kgorhamo7@google.nl,4,Female,South,19,Wireless Wi-Fi Extender,Dairy,14,49.99,433.9132,Debit Card,Shipped,61,38,App,Returned,07/04/2025,22
+50,18/11/2024,1,Austin MacKay,amackayo8@a8.net,50,Male,North,27,Pork Tenderloin,Snacks,6,10.99,3.9564000000000035,Cash on Delivery,Pending,65,94,Website,Returned,24/02/2025,30
+63,09/03/2025,9,Selina Garett,sgaretto9@theglobeandmail.com,47,Female,South,49,Motorcycle Phone Mount,Frozen Foods,95,14.99,968.3539999999999,Debit Card,Cancelled,4,32,Phone,Returned,20/07/2024,55
+70,10/04/2025,36,Marylinda Harrisson,mharrissonoa@goo.ne.jp,18,Female,West,45,Peanut Butter Filled Pretzels,Snacks,43,3.99,140.68740000000003,Debit Card,Pending,48,18,Phone,Returned,10/05/2024,99
+4,14/12/2024,18,Chloris Mapples,cmapplesob@w3.org,50,Female,East,84,Organic Baby Spinach,Dairy,91,2.99,247.60190000000003,Credit Card,Delivered,20,9,App,Returned,22/06/2024,76
+23,05/02/2025,41,Marlie Wiffill,mwiffilloc@ebay.com,49,Female,North,84,Savory Mushroom Risotto,Bakery,81,6.49,220.78980000000004,Credit Card,Delivered,80,58,Phone,Returned,07/07/2024,3
+95,07/10/2024,36,Cornie Beever,cbeeverod@army.mil,7,Male,South,77,Herb Seasoned Croutons,Dairy,28,2.99,20.93,Cash on Delivery,Pending,56,75,App,Returned,24/01/2025,10
+13,13/10/2024,5,Cordell Killock,ckillockoe@timesonline.co.uk,38,Male,West,96,Electric Hot Water Dispenser,Snacks,40,59.99,935.844,Credit Card,Delivered,26,61,App,Returned,12/06/2024,54
+79,21/09/2024,9,Jolee Watkiss,jwatkissof@unesco.org,20,Female,South,47,Vegetable Lentil Soup,Frozen Foods,5,3.49,4.537000000000001,Credit Card,Shipped,86,74,App,Returned,22/01/2025,29
+95,25/03/2025,54,Iona Ockenden,iockendenog@desdev.cn,33,Female,East,55,Elegant Maxi Skirt,Snacks,75,44.99,641.1074999999998,UPI,Pending,46,81,App,Returned,11/06/2024,17
+43,16/06/2024,29,Loree Croser,lcroseroh@ustream.tv,51,Female,East,50,Buffalo Wing Sauce,Frozen Foods,20,3.99,4.788000000000005,Debit Card,Delivered,49,94,Website,Returned,13/09/2024,49
+94,05/08/2024,97,Johannes Ingamells,jingamellsoi@cisco.com,61,Male,South,72,Pet Travel Backpack Carrier,Snacks,24,49.99,191.96160000000003,Credit Card,Delivered,1,84,Website,Returned,22/11/2024,66
+34,04/01/2025,36,Zelig Boughey,zbougheyoj@technorati.com,11,Male,West,8,Pepper Jack Cheese Sticks,Snacks,60,2.49,112.05000000000001,Credit Card,Delivered,59,25,Website,Returned,31/10/2024,63
+20,16/06/2024,35,Man Beech,mbeechok@nhs.uk,19,Male,South,99,Cucumber Lime Sparkling Water,Beverages,1,1.49,1.2069,Cash on Delivery,Delivered,30,19,Phone,Returned,17/08/2024,84
+94,18/04/2024,87,Susanna Hairs,shairsol@webeden.co.uk,72,Female,West,61,Fruit and Nut Medley,Bakery,29,5.99,133.7567,UPI,Shipped,86,23,Website,Returned,22/04/2024,97
+92,14/11/2024,13,Simon Cancelier,scancelierom@ftc.gov,59,Male,East,91,Self-Stirring Mug,Snacks,20,19.99,355.82199999999995,Debit Card,Delivered,53,11,Phone,Returned,18/08/2024,67
+32,03/11/2024,18,Dominik Kenny,dkennyon@wunderground.com,72,Male,North,80,Customizable Name Plate,Snacks,95,19.99,1329.3349999999998,Credit Card,Shipped,57,30,Website,Returned,22/10/2024,33
+61,12/10/2024,88,Petronia Hanmer,phanmeroo@acquirethisname.com,98,Female,North,5,Sun Protection Clothing,Beverages,15,44.99,519.6345,Cash on Delivery,Pending,46,23,Phone,Returned,24/07/2024,38
+79,07/10/2024,34,Ermentrude Caudray,ecaudrayop@comsenz.com,84,Female,South,88,Potting Soil,Beverages,7,15.99,14.550900000000002,Credit Card,Cancelled,30,87,Phone,Returned,29/03/2025,13
+41,09/06/2024,61,Violetta Brager,vbrageroq@uiuc.edu,1,Female,West,97,Self-Adhesive Wallpaper,Snacks,48,34.99,789.3743999999999,UPI,Pending,98,53,Phone,Returned,09/04/2025,21
+13,28/03/2025,7,Perla Kmicicki,pkmicickior@chronoengine.com,12,Female,West,12,Lentil Vegetable Stew,Bakery,14,4.49,4.400199999999997,Cash on Delivery,Shipped,83,93,Website,Returned,23/12/2024,56
+45,06/11/2024,42,Beltran Hargey,bhargeyos@guardian.co.uk,12,Male,East,51,Sliced Bell Peppers,Beverages,60,3.99,59.85,Debit Card,Shipped,12,75,App,Returned,14/05/2024,35
+37,29/05/2024,92,Lorry Ganniclifft,lganniclifftot@pcworld.com,20,Female,North,75,Gluten-Free Biscuits,Snacks,6,3.79,20.2386,Cash on Delivery,Delivered,55,11,Website,Returned,09/05/2024,44
+90,21/01/2025,98,Ellswerth Kenworthey,ekenwortheyou@ning.com,4,Male,East,61,Dishwasher Safe Cutting Board,Snacks,65,22.99,508.07899999999995,Cash on Delivery,Cancelled,29,66,App,Returned,07/08/2024,6
+64,08/08/2024,81,Stacee Chappell,schappellov@cafepress.com,14,Female,East,42,Peach Yogurt,Snacks,2,1.29,0.4386000000000001,UPI,Delivered,21,83,Website,Returned,21/01/2025,91
+45,21/05/2024,95,Darrell Grellis,dgrellisow@cbslocal.com,40,Male,South,32,Wild Rice & Quinoa Mix,Beverages,10,2.99,0.5980000000000005,UPI,Delivered,3,98,Phone,Returned,14/01/2025,65
+20,22/02/2025,49,Mei Tuke,mtukeox@soundcloud.com,89,Female,East,62,Veggie Lovers Pizza,Beverages,96,8.99,94.93439999999998,Credit Card,Cancelled,42,89,App,Returned,31/03/2025,71
+16,30/07/2024,7,Nealson Iglesias,niglesiasoy@epa.gov,45,Male,East,66,Wireless Charging Station,Bakery,47,39.99,1841.9394000000002,Cash on Delivery,Shipped,84,2,Website,Returned,08/08/2024,33
+67,11/10/2024,15,Bailey Scorer,bscoreroz@addtoany.com,59,Male,South,32,BBQ Jackfruit,Bakery,54,4.29,189.96120000000002,Debit Card,Delivered,90,18,Website,Returned,13/05/2024,69
+73,07/01/2025,2,Laurie Sedgefield,lsedgefieldp0@earthlink.net,6,Female,East,53,Travel Organizer,Snacks,29,22.99,300.01949999999994,Debit Card,Pending,72,55,App,Returned,06/08/2024,62
+84,02/12/2024,97,Mile Hurrion,mhurrionp1@opensource.org,4,Male,South,43,Teriyaki Chicken Skewers,Dairy,93,8.99,510.0027,Cash on Delivery,Delivered,14,39,Phone,Returned,18/05/2024,47
+39,09/03/2025,77,Nicki Greenfield,ngreenfieldp2@w3.org,69,Female,North,35,Electric Griddle with Lid,Bakery,34,49.99,1121.7756,Credit Card,Cancelled,59,34,Phone,Returned,26/07/2024,16
+66,17/09/2024,45,Wilek Fowle,wfowlep3@odnoklassniki.ru,57,Male,East,46,Organic Whole Wheat Flour,Beverages,89,2.99,23.949899999999992,Credit Card,Shipped,50,91,Phone,Returned,26/12/2024,81
+80,03/09/2024,55,Lanie Norheny,lnorhenyp4@goo.ne.jp,40,Male,East,28,Reversible Comforter Set,Dairy,27,89.99,1870.8921,Credit Card,Pending,31,23,Website,Returned,10/06/2024,88
+33,17/03/2025,56,Kimberley Bernardez,kbernardezp5@weibo.com,80,Female,East,55,Compact Shoe Rack,Frozen Foods,17,34.99,29.741500000000027,Debit Card,Pending,38,95,Phone,Returned,09/12/2024,49
+26,17/02/2025,48,Tucker McCreedy,tmccreedyp6@theguardian.com,26,Male,West,3,Pear and Gorgonzola Salad,Bakery,55,5.49,105.68249999999999,Credit Card,Shipped,66,65,Website,Returned,03/12/2024,23
+82,02/12/2024,88,Phineas Bacop,pbacopp7@hao123.com,37,Male,North,41,Ethically-Sourced Coffee Beans,Snacks,93,9.99,250.84890000000004,Debit Card,Pending,72,73,App,Returned,03/10/2024,9
+100,26/03/2025,47,Vivienne Mallows,vmallowsp8@comcast.net,5,Female,South,61,Himalayan Salt Grinder,Bakery,4,4.99,17.764400000000002,Credit Card,Delivered,46,11,Phone,Returned,30/01/2025,95
+12,11/12/2024,55,Yardley Carlisso,ycarlissop9@cbc.ca,77,Male,East,71,Teriyaki Tofu Stir-Fry,Snacks,3,7.49,16.8525,UPI,Pending,48,25,Website,Returned,20/07/2024,80
+14,26/11/2024,22,Sascha Maystone,smaystonepa@indiatimes.com,41,Female,West,13,Video Camera,Frozen Foods,66,199.0,7223.700000000001,UPI,Delivered,77,45,App,Returned,23/05/2024,63
+66,26/06/2024,26,Robert Aust,raustpb@reverbnation.com,89,Male,South,47,Pasta (Linguine),Beverages,6,1.89,10.999799999999999,Credit Card,Shipped,7,3,Website,Returned,14/02/2025,29
+4,10/05/2024,86,Barth Etter,betterpc@timesonline.co.uk,24,Male,East,58,Car Phone Mount,Snacks,80,15.99,486.096,Debit Card,Delivered,83,62,App,Returned,26/03/2025,92
+60,28/09/2024,69,Hilton Padfield,hpadfieldpd@uol.com.br,55,Male,West,97,Foldable Electric Scooter,Dairy,60,349.99,1889.9459999999995,Credit Card,Delivered,67,91,Phone,Returned,02/06/2024,37
+46,06/01/2025,45,Wain Whewill,wwhewillpe@typepad.com,35,Male,North,32,Spicy Tuna Rolls,Dairy,9,6.49,32.7096,Credit Card,Delivered,19,44,Website,Returned,04/02/2025,2
+48,16/07/2024,1,Stanford Extence,sextencepf@mozilla.com,39,Male,South,3,Gardening Gloves with Claws,Bakery,33,24.99,255.64770000000004,Cash on Delivery,Shipped,66,69,Phone,Returned,25/08/2024,48
+77,24/03/2025,72,Olga Moncaster,omoncasterpg@gizmodo.com,88,Female,West,10,Diced Tomatoes (canned),Dairy,66,1.49,24.585,Cash on Delivery,Cancelled,100,75,Phone,Returned,08/01/2025,37
+98,18/07/2024,69,Freddie Bowyer,fbowyerph@is.gd,21,Female,West,79,Wireless Range Extender,Frozen Foods,40,49.99,1239.7520000000002,UPI,Pending,63,38,App,Returned,12/06/2024,83
+85,26/08/2024,67,Ginnie Lewry,glewrypi@reddit.com,53,Female,North,73,Cotton Tote Bag Set,Snacks,72,29.99,1079.6399999999999,UPI,Delivered,1,50,App,Returned,02/11/2024,39
+71,25/03/2025,20,Leroy Augie,laugiepj@salon.com,67,Male,West,3,Coconut Milk Yogurt,Beverages,17,2.99,42.6972,Debit Card,Delivered,4,16,Website,Returned,07/11/2024,33
+16,02/08/2024,68,Chaddy Armsden,carmsdenpk@diigo.com,79,Male,East,26,Pet Nail Clipper,Dairy,17,12.99,152.3727,Debit Card,Pending,10,31,Phone,Returned,08/09/2024,43
+2,29/11/2024,13,Thalia Locarno,tlocarnopl@tinypic.com,17,Female,East,57,Rice Cakes,Frozen Foods,88,2.29,139.0488,UPI,Cancelled,78,31,Phone,Returned,20/12/2024,100
+52,12/09/2024,13,Lynelle Marchetti,lmarchettipm@kickstarter.com,82,Female,South,65,Pet Nail Clipper,Dairy,82,12.99,585.849,Credit Card,Shipped,38,45,Website,Returned,08/03/2025,66
+13,22/08/2024,86,Ritchie Biesterfeld,rbiesterfeldpn@google.fr,6,Male,East,77,Arcade Game Machine,Beverages,17,299.99,4844.8385,Cash on Delivery,Cancelled,10,5,Phone,Returned,09/09/2024,71
+100,26/04/2024,37,Andros Sunnucks,asunnuckspo@miibeian.gov.cn,13,Male,West,7,Bamboo Cutting Board,Snacks,99,22.0,740.52,Cash on Delivery,Shipped,97,66,Website,Returned,06/06/2024,90
+57,03/12/2024,41,Cassandre Hubbins,chubbinspp@com.com,52,Female,South,97,Compact Hair Dryer,Dairy,40,29.99,0.0,Cash on Delivery,Delivered,23,100,App,Returned,08/12/2024,48
+70,17/12/2024,28,Jozef Armatidge,jarmatidgepq@unc.edu,42,Male,North,26,Classic Slim Fit Shirt,Dairy,95,49.99,4036.6925,Cash on Delivery,Delivered,45,15,Phone,Returned,22/06/2024,17
+41,11/11/2024,47,Bendick Momery,bmomerypr@tmall.com,23,Male,East,17,Fleece Throw Blanket,Snacks,48,29.99,1036.4543999999999,Credit Card,Delivered,40,28,Website,Returned,19/04/2024,80
+67,19/04/2024,61,Madeline Skillanders,mskillandersps@smh.com.au,57,Female,East,19,Sriracha Sauce,Dairy,23,3.19,10.271800000000002,UPI,Cancelled,44,86,Phone,Returned,19/04/2024,44
+36,01/06/2024,64,Leonidas Fraschetti,lfraschettipt@goo.gl,80,Male,West,48,Pineapple Teriyaki Chicken Mix,Snacks,45,6.99,251.64000000000001,Debit Card,Cancelled,63,20,Website,Returned,20/12/2024,87
+25,15/02/2025,47,Derek Giacovazzo,dgiacovazzopu@apple.com,9,Male,West,37,Travel Pillow with Memory Foam,Frozen Foods,13,29.99,354.7817,Debit Card,Cancelled,32,9,Phone,Returned,01/08/2024,98
+44,11/12/2024,59,Mollee Jerzyk,mjerzykpv@berkeley.edu,40,Female,North,52,Roasted Vegetable Medley,Snacks,55,3.99,127.28100000000002,Credit Card,Cancelled,36,42,Phone,Returned,28/09/2024,82
+35,10/07/2024,99,Arluene Bartels-Ellis,abartelsellispw@vkontakte.ru,100,Female,North,58,Decorative Throw Pillows,Snacks,26,29.99,288.5038,Credit Card,Shipped,92,63,Website,Returned,02/08/2024,71
+52,14/06/2024,85,Ashby Patroni,apatronipx@behance.net,100,Male,North,86,Warm Wool Sweater,Frozen Foods,4,59.99,33.59440000000001,UPI,Shipped,21,86,App,Returned,26/06/2024,75
+56,06/01/2025,71,Phillip Anniwell,panniwellpy@mlb.com,54,Male,South,63,Floral Wrap Top,Bakery,3,49.99,109.4781,Debit Card,Delivered,17,27,Website,Returned,10/02/2025,81
+49,21/10/2024,5,Domingo Pedrocchi,dpedrocchipz@soup.io,82,Male,East,41,Savory Oatmeal,Snacks,40,2.49,17.928000000000008,UPI,Delivered,30,82,App,Returned,31/12/2024,86
+73,10/12/2024,50,Richy Mattielli,rmattielliq0@ezinearticles.com,64,Male,East,88,Stuffed Grape Leaves,Bakery,85,5.79,108.27299999999998,Debit Card,Pending,30,78,Website,Returned,19/02/2025,15
+54,10/12/2024,45,Mahala Defond,mdefondq1@cdc.gov,75,Female,South,61,Smartphone Photography Tripod,Snacks,29,29.99,756.6476999999999,Credit Card,Cancelled,16,13,App,Returned,18/01/2025,44
+94,09/08/2024,37,Marve Mulholland,mmulhollandq2@bigcartel.com,26,Male,West,22,Waterproof Rain Boots,Beverages,93,69.99,6378.888599999999,Credit Card,Pending,53,2,Website,Returned,13/12/2024,52
+88,16/02/2025,17,Heidi MacKaig,hmackaigq3@squidoo.com,1,Female,West,73,Luxury Bath Robe,Bakery,75,49.99,187.46250000000018,Credit Card,Delivered,79,95,Phone,Returned,10/11/2024,13
+93,16/07/2024,20,Debi Yurocjkin,dyurocjkinq4@shareasale.com,34,Female,South,34,Outdoor Mosquito Repellent Lantern,Bakery,21,34.99,404.13450000000006,Debit Card,Delivered,36,45,Phone,Returned,01/04/2025,14
+19,06/05/2024,16,Demetri Totterdell,dtotterdellq5@phoca.cz,55,Male,South,52,Ice Cream Scoop,Frozen Foods,59,12.99,505.8305999999999,UPI,Shipped,66,34,Website,Returned,06/12/2024,72
+27,14/12/2024,79,Gloriana Willett,gwillettq6@skyrock.com,11,Female,South,77,Spicy Kimchi,Snacks,19,4.79,75.5383,Cash on Delivery,Shipped,84,17,Phone,Returned,04/09/2024,65
+7,10/10/2024,28,Linus Farnworth,lfarnworthq7@goo.ne.jp,86,Male,North,57,Collapsible Water Bottle,Beverages,79,12.99,625.9881,Credit Card,Pending,84,39,Website,Returned,08/09/2024,16
+80,22/04/2024,45,Fowler Chew,fchewq8@home.pl,49,Male,East,13,Quinoa and Kale Salad Kit,Frozen Foods,93,5.29,241.0653,Debit Card,Shipped,71,51,Website,Returned,11/11/2024,63
+87,19/02/2025,27,Hadrian Kinde,hkindeq9@myspace.com,39,Male,East,30,Slingback Sandals,Dairy,77,29.99,1339.3534000000002,UPI,Pending,8,42,Website,Returned,09/07/2024,99
+72,24/09/2024,97,Norene Willson,nwillsonqa@pagesperso-orange.fr,52,Female,South,10,Mango Chilli Sauce,Snacks,68,3.99,86.82239999999999,UPI,Shipped,66,68,Phone,Returned,25/03/2025,74
+95,07/12/2024,37,Bran Castana,bcastanaqb@ucsd.edu,77,Male,North,54,Pet Grooming Brush,Frozen Foods,78,19.99,561.3191999999999,Debit Card,Delivered,50,64,Website,Returned,13/02/2025,59
+33,23/05/2024,74,Liliane Gorelli,lgorelliqc@amazon.co.uk,14,Female,South,51,Oats,Frozen Foods,71,3.29,25.694899999999997,Credit Card,Shipped,54,89,App,Returned,13/09/2024,60
+80,21/03/2025,20,Bethena Darington,bdaringtonqd@rakuten.co.jp,15,Female,East,13,Lemon Lime Sparkling Water,Beverages,25,1.99,43.2825,Credit Card,Cancelled,54,13,Phone,Returned,29/06/2024,87
+63,01/06/2024,54,Virgina Filimore,vfilimoreqe@bloglovin.com,4,Female,West,85,Samsung Galaxy Smartwatch,Dairy,88,249.99,4179.832799999999,UPI,Cancelled,6,81,Website,Returned,02/05/2024,60
+18,30/11/2024,46,Sauveur Nussen,snussenqf@sina.com.cn,45,Male,East,75,Kids' Gardening Kit,Dairy,63,24.99,283.38660000000004,Cash on Delivery,Pending,98,82,Phone,Returned,17/06/2024,91
+11,16/12/2024,55,Schuyler Bresson,sbressonqg@gnu.org,33,Male,North,64,Magnet Travel Fridge Magnets,Beverages,32,12.99,141.3312,Debit Card,Cancelled,65,66,Website,Returned,11/01/2025,46
+8,06/02/2025,52,Alma Grimley,agrimleyqh@ebay.co.uk,66,Female,West,38,Shredded Cheese,Frozen Foods,71,4.29,109.65239999999999,Debit Card,Cancelled,59,64,App,Returned,28/02/2025,84
+68,20/02/2025,10,Lindsey Khalid,lkhalidqi@facebook.com,77,Male,North,61,Chicken Breasts,Snacks,95,9.99,227.77200000000002,Debit Card,Shipped,90,76,App,Returned,21/12/2024,51
+38,09/06/2024,80,Inessa MacArd,imacardqj@ed.gov,65,Female,South,11,Garden Hose Reel,Frozen Foods,61,49.99,1128.2743,Credit Card,Pending,87,63,App,Returned,16/01/2025,58
+33,23/02/2025,79,Carolyne Saffran,csaffranqk@elpais.com,24,Female,North,90,Voice-Controlled Speaker,Frozen Foods,50,99.99,4699.53,Debit Card,Shipped,70,6,Phone,Returned,04/02/2025,49
+97,01/05/2024,48,Angelina Romayn,aromaynql@example.com,78,Female,East,41,Wireless Wi-Fi Extender,Snacks,49,49.99,1469.7060000000001,Debit Card,Delivered,99,40,App,Returned,02/06/2024,76
+34,01/05/2024,50,Joseito Brosini,jbrosiniqm@arstechnica.com,12,Male,West,49,Organic Vanilla Bean Ice Cream,Beverages,14,5.99,77.1512,Debit Card,Pending,30,8,App,Returned,18/05/2024,90
+91,08/11/2024,88,Ariel Budd,abuddqn@go.com,6,Male,East,88,USB Wall Charger,Dairy,34,19.99,54.37279999999997,Credit Card,Cancelled,67,92,Phone,Returned,13/10/2024,5
+5,18/09/2024,8,Eduardo Leipoldt,eleipoldtqo@epa.gov,30,Male,East,70,Wireless Gaming Headset,Snacks,89,89.99,2082.3686,UPI,Pending,68,74,Phone,Returned,08/08/2024,60
+3,16/02/2025,13,Yetta Colquitt,ycolquittqp@devhub.com,52,Female,South,46,Smart Wi-Fi Camera,Frozen Foods,21,89.99,37.795800000000035,Credit Card,Pending,32,98,Phone,Returned,09/12/2024,33
+75,06/04/2025,80,Carver Stonier,cstonierqq@cloudflare.com,58,Male,West,82,Crispy Onion Rings,Frozen Foods,46,4.29,7.893600000000007,Credit Card,Pending,3,96,Phone,Returned,25/08/2024,3
+14,25/03/2025,63,Mortimer Filan,mfilanqr@taobao.com,73,Male,South,1,Maple Bacon Popcorn,Beverages,56,3.49,146.57999999999998,Cash on Delivery,Pending,62,25,Phone,Returned,01/01/2025,73
+44,24/06/2024,12,Jemie Filov,jfilovqs@mediafire.com,90,Female,East,38,Electric Heat Pad,Dairy,44,24.99,549.78,Cash on Delivery,Shipped,19,50,Website,Returned,29/05/2024,28
+91,13/06/2024,81,Darby Josselsohn,djosselsohnqt@fotki.com,66,Male,South,69,Ground Turkey,Bakery,80,5.49,355.75200000000007,UPI,Delivered,54,19,Website,Returned,12/06/2024,47
+64,29/09/2024,5,Nikaniki Ashbolt,nashboltqu@forbes.com,12,Female,South,18,Foot Massager,Snacks,82,79.99,5050.5686,UPI,Delivered,9,23,Phone,Returned,05/02/2025,24
+35,13/08/2024,43,Abdul Telezhkin,atelezhkinqv@comcast.net,54,Male,West,50,Vegetable Stir-Fry Sauce,Frozen Foods,56,3.49,164.1696,Cash on Delivery,Delivered,2,16,Website,Returned,29/09/2024,26
+31,10/06/2024,21,Whitaker Pie,wpieqw@hibu.com,44,Male,North,12,Magnetic Chess Set,Frozen Foods,52,19.99,675.662,UPI,Cancelled,10,35,Phone,Returned,14/02/2025,91
+88,16/06/2024,73,Talya Gutowski,tgutowskiqx@nifty.com,97,Female,West,34,Taro Chips,Frozen Foods,93,3.59,13.354800000000012,Cash on Delivery,Delivered,90,96,Website,Returned,15/03/2025,70
+28,22/11/2024,68,Adora Critten,acrittenqy@businessweek.com,23,Female,North,49,Natural Peanut Butter,Beverages,95,4.29,313.81350000000003,Debit Card,Cancelled,76,23,App,Returned,19/02/2025,44
+32,08/12/2024,30,Jillana Mibourne,jmibourneqz@hostgator.com,99,Female,East,22,Toilet Paper (12 rolls),Dairy,18,8.99,98.7102,Cash on Delivery,Delivered,51,39,App,Returned,16/09/2024,77
+14,21/06/2024,48,Roobbie Ellerbeck,rellerbeckr0@google.fr,32,Female,East,93,Home Brewing Starter Kit,Frozen Foods,88,79.99,4575.428,Credit Card,Shipped,29,35,Phone,Returned,21/06/2024,70
+83,23/02/2025,24,Rana Petrov,rpetrovr1@hao123.com,95,Female,West,96,Dog Collar,Frozen Foods,22,15.99,239.2104,Cash on Delivery,Shipped,50,32,Phone,Returned,29/11/2024,57
+50,17/11/2024,46,Antoni Folk,afolkr2@infoseek.co.jp,7,Male,West,39,Wireless HDMI Transmitter,Frozen Foods,66,79.99,1372.6283999999998,Credit Card,Cancelled,39,74,Website,Returned,23/05/2024,50
+56,18/08/2024,19,Nicola Pittem,npittemr3@people.com.cn,39,Male,North,8,LED Flashlight,Bakery,55,19.99,252.87349999999995,Debit Card,Cancelled,62,77,App,Returned,29/03/2025,91
+15,25/01/2025,13,Wade Lillicrap,wlillicrapr4@smh.com.au,36,Male,West,86,Maple Pecan Pancake Mix,Frozen Foods,57,4.99,267.3642,Debit Card,Shipped,64,6,Phone,Returned,01/05/2024,78
+20,11/03/2025,33,Marlie Billingham,mbillinghamr5@studiopress.com,81,Female,East,86,Electric Hot Water Dispenser,Snacks,56,59.99,1881.2864000000002,Cash on Delivery,Pending,75,44,Website,Returned,09/04/2025,93
+58,02/10/2024,38,Tania Krystek,tkrystekr6@com.com,82,Female,West,74,Quinoa Salad,Snacks,64,5.99,368.0256,Debit Card,Delivered,48,4,Phone,Returned,27/05/2024,7
+43,31/08/2024,54,Dolly Powley,dpowleyr7@opensource.org,50,Female,West,14,Herb Garlic Butter,Beverages,42,3.99,77.0868,UPI,Delivered,100,54,Phone,Returned,16/07/2024,100
+59,16/07/2024,99,Noell Mangeot,nmangeotr8@angelfire.com,63,Female,West,39,Cheddar Cheese Slices,Frozen Foods,2,3.49,5.723600000000001,UPI,Cancelled,46,18,Website,Returned,29/10/2024,7
+13,26/09/2024,98,Sheena Cracknell,scracknellr9@tuttocitta.it,28,Female,East,27,Set of Silicone Cooking Utensils,Snacks,3,29.99,30.589799999999997,Cash on Delivery,Delivered,62,66,Website,Returned,08/11/2024,54
+16,14/07/2024,91,Early Trees,etreesra@sun.com,6,Male,West,74,Lemonade Mix,Frozen Foods,1,1.99,0.8358000000000001,Cash on Delivery,Delivered,9,58,Website,Returned,12/05/2024,10
+50,18/08/2024,29,Borg Norewood,bnorewoodrb@wired.com,34,Male,East,75,Spicy Thai Noodles,Snacks,10,1.99,4.975,Credit Card,Delivered,51,75,Website,Returned,19/03/2025,54
+42,16/11/2024,63,Loydie Burkhill,lburkhillrc@angelfire.com,15,Male,North,90,Backpacking Tent,Bakery,27,109.99,593.9459999999999,Cash on Delivery,Cancelled,11,80,App,Returned,11/12/2024,3
+66,02/09/2024,30,Cosme Caveau,ccaveaurd@nba.com,90,Male,West,55,Desk Lamp with USB Port,Frozen Foods,27,29.99,48.58380000000004,Debit Card,Cancelled,73,94,Website,Returned,19/08/2024,22
+36,03/06/2024,95,Trevor Abilowitz,tabilowitzre@exblog.jp,37,Male,North,50,Organic Baby Spinach,Snacks,39,2.99,12.8271,UPI,Shipped,36,89,Phone,Returned,30/08/2024,57
+91,22/02/2025,47,Aida Spawton,aspawtonrf@cnbc.com,72,Female,East,49,Digital Alarm Clock,Snacks,73,19.99,262.6686000000001,UPI,Cancelled,41,82,Phone,Returned,28/12/2024,69
+47,23/04/2024,38,Cookie Stennett,cstennettrg@wikimedia.org,86,Female,West,60,Laptop Stand,Beverages,46,29.99,662.1791999999999,Debit Card,Pending,77,52,Phone,Returned,13/05/2024,97
+13,26/09/2024,1,Ivette Dackombe,idackomberh@si.edu,100,Female,North,19,Slim Wallet,Frozen Foods,16,24.99,147.9408,UPI,Shipped,69,63,Website,Returned,03/12/2024,71
+39,14/03/2025,19,Pat Staniland,pstanilandri@stumbleupon.com,73,Male,North,76,Smart Air Purifier,Dairy,36,199.99,7127.6436,Debit Card,Delivered,46,1,Phone,Returned,19/12/2024,11
+61,21/09/2024,60,Guendolen Zealy,gzealyrj@answers.com,69,Female,West,69,Car Emergency Kit,Dairy,51,49.99,1453.2093000000002,UPI,Shipped,24,43,Phone,Returned,19/06/2024,29
+31,08/12/2024,90,Malynda Fallen,mfallenrk@goo.gl,87,Female,East,75,Adjustable Skipping Rope,Frozen Foods,82,12.99,1022.5728,UPI,Shipped,52,4,Phone,Returned,11/07/2024,30
+70,19/03/2025,35,Chico Penni,cpennirl@sohu.com,42,Male,West,65,Vegetable Chips,Dairy,55,3.99,48.278999999999996,Cash on Delivery,Cancelled,20,78,Phone,Returned,14/05/2024,58
+81,31/07/2024,95,Chrissie Borthram,cborthramrm@washingtonpost.com,34,Male,South,64,Whole Grain Cereal,Snacks,90,3.49,288.97200000000004,Credit Card,Shipped,58,8,Website,Returned,19/12/2024,40
+2,08/05/2024,73,Dael Son,dsonrn@smh.com.au,21,Male,South,6,Self-Adhesive Wallpaper,Dairy,82,34.99,860.7540000000002,Credit Card,Delivered,47,70,Website,Returned,26/01/2025,53
+12,25/12/2024,25,Evelina Yaknov,eyaknovro@wikimedia.org,83,Female,North,61,Roasted Garlic Mashed Potatoes,Dairy,70,3.99,106.134,Credit Card,Delivered,17,62,Website,Returned,30/01/2025,17
+97,13/03/2025,98,Torie Lambkin,tlambkinrp@intel.com,82,Female,South,77,Computer Monitor Stand,Beverages,76,29.99,433.05559999999986,Credit Card,Delivered,6,81,Phone,Returned,21/02/2025,53
+14,15/06/2024,70,Filia Laws,flawsrq@elpais.com,34,Female,East,94,Indoor Grill,Frozen Foods,94,59.99,4624.029200000001,Cash on Delivery,Delivered,72,18,Phone,Returned,09/06/2024,89
+39,31/08/2024,59,Rosina Danilov,rdanilovrr@ycombinator.com,22,Female,South,74,Maple Almond Butter,Bakery,14,5.49,41.504400000000004,Cash on Delivery,Pending,56,46,App,Returned,26/10/2024,35
