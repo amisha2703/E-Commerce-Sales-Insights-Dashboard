@@ -12,4 +12,10 @@ Designed an interactive Power BI dashboard to analyze e-commerce sales data. Key
 📅 Seasonal sales peaks and trends
 🛍️ Product-level performance metrics
 
-Tools Used: Power BI | DAX | Excel
+✨ Through this project, I strengthened my skills in:
+
+Data Cleaning
+DAX Formula Writing
+Visualization Design in Power BI
+
+🛠️ Tools Used: Power BI | DAX | Data Modeling | Visualization Design
